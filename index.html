@@ -216,9 +216,28 @@
 
 <script>
 const banglaMonths = [
-    "Boishakh","Joishtho","Ashar","Srabon","Bhadro","Ashwin",
-    "Kartik","Agrahayan","Poush","Magh","Falgun","Chaitra"
+    "বৈশাখ","জ্যৈষ্ঠ","আষাঢ়","শ্রাবণ","ভাদ্র","আশ্বিন",
+    "কার্তিক","অগ্রহায়ণ","পৌষ","মাঘ","ফাল্গুন","চৈত্র"
 ];
+
+const hijriMonthMap = {
+    "Muharram": "মুহাররম",
+    "Safar": "সফর",
+    "Rabiʻ I": "রবিউল আউয়াল",
+    "Rabiʻ II": "রবিউস সানি",
+    "Jumada I": "জমাদিউল আউয়াল",
+    "Jumada II": "জমাদিউস সানি",
+    "Rajab": "রজব",
+    "Shaʻban": "শাবান",
+    "Ramadan": "রমজান",
+    "Shawwal": "শাওয়াল",
+    "Dhuʻl-Qiʻdah": "জিলক্বদ",
+    "Dhuʻl-Hijjah": "জিলহজ্জ"
+};
+
+function toBanglaNumber(value) {
+    return String(value).replace(/[0-9]/g, d => "০১২৩৪৫৬৭৮৯"[Number(d)]);
+}
 
 const monthNames = [
     "January", "February", "March", "April", "May", "June",
@@ -253,7 +272,10 @@ function getHijriDateLabel(date) {
             }).formatToParts(date);
             const day = parts.find(p => p.type === "day")?.value;
             const month = parts.find(p => p.type === "month")?.value;
-            if (day && month) return `${day} ${month}`;
+            if (day && month) {
+                const mappedMonth = hijriMonthMap[month] || month;
+                return `${toBanglaNumber(day)} ${mappedMonth}`;
+            }
         } catch (e) {
             // Fallback to HijriDate library below
         }
@@ -262,7 +284,9 @@ function getHijriDateLabel(date) {
     if (typeof HijriDate === "function") {
         try {
             const hijri = new HijriDate(date);
-            return `${hijri.getDate()} ${hijri.getMonthName()}`;
+            const monthName = hijri.getMonthName();
+            const mappedMonth = hijriMonthMap[monthName] || monthName;
+            return `${toBanglaNumber(hijri.getDate())} ${mappedMonth}`;
         } catch (e) {
             return "Hijri unavailable";
         }
@@ -305,7 +329,7 @@ function generateCalendar(year, month) {
         html += `
             <td class="${classes}">
                 <div class="eng">${d}</div>
-                <div class="bn">${bn.day} ${bn.month}</div>
+                <div class="bn">${toBanglaNumber(bn.day)} ${bn.month}</div>
                 <div class="ar">${getHijriDateLabel(date)}</div>
             </td>
         `;
