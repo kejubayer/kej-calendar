@@ -171,6 +171,12 @@
 
         .calendar-wrap {
             padding: 12px;
+            overflow-x: auto;
+            -webkit-overflow-scrolling: touch;
+        }
+
+        #calendarTable {
+            min-width: 700px;
         }
 
         table {
@@ -241,11 +247,48 @@
             vertical-align: -1px;
         }
 
+        @media (max-width: 900px) {
+            body { padding: 16px 10px; }
+            .month-year { font-size: 24px; }
+        }
+
         @media (max-width: 720px) {
+            .topbar {
+                flex-direction: column;
+                align-items: stretch;
+            }
+
+            .controls {
+                width: 100%;
+                justify-content: space-between;
+            }
+
+            .controls button,
+            .controls input[type="month"] {
+                flex: 1 1 30%;
+                min-width: 0;
+                text-align: center;
+                padding: 10px 8px;
+            }
+
             th { font-size: 12px; }
             td { height: 84px; padding: 6px; }
             .eng { font-size: 14px; }
             .bn, .ar { font-size: 12px; }
+            .month-year { font-size: 22px; }
+        }
+
+        @media (max-width: 480px) {
+            body { padding: 10px 6px; }
+            .app { border-radius: 12px; }
+            .topbar, .month-hero, .legend { padding: 10px; }
+            .title h2 { font-size: 18px; }
+            .title p { font-size: 12px; }
+            .month-year { font-size: 20px; }
+            .badge { font-size: 11px; padding: 6px 9px; }
+            td { height: 74px; padding: 5px; }
+            .eng { font-size: 13px; }
+            .bn, .ar { font-size: 11px; }
         }
     </style>
 </head>
@@ -429,10 +472,8 @@ function updateMonthInput(date) {
     const monthName = monthNames[date.getMonth()];
     $("#monthPicker").val(`${y}-${m}`);
     $("#currentLabel").text(`${monthName} ${y}`);
-    $("#gregorianBadge").text(`${monthName} ${y}`);
     $("#banglaBadge").text(subtitleData.bangla.replace(/[()]/g, ""));
     $("#hijriBadge").text(subtitleData.hijri.replace(/[()]/g, ""));
-    $("#currentSubLabel").html(`${subtitleData.bangla}<br>${subtitleData.hijri}`);
 }
 
 function generateCalendar(year, month) {
