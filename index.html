@@ -265,7 +265,7 @@ function generateCalendar(year, month) {
     for (let d = 1; d <= daysInMonth; d++) {
         const date = new Date(year, month, d);
         const bn = getBanglaDate(date);
-        const hijri = new HijriDate(date);
+        const hijri = (typeof HijriDate === "function") ? new HijriDate(date) : null;
 
         const isToday =
             d === today.getDate() &&
@@ -279,7 +279,7 @@ function generateCalendar(year, month) {
             <td class="${classes}">
                 <div class="eng">${d}</div>
                 <div class="bn">${bn.day} ${bn.month}</div>
-                <div class="ar">${hijri.getDate()} ${hijri.getMonthName()}</div>
+                <div class="ar">${hijri ? `${hijri.getDate()} ${hijri.getMonthName()}` : "Hijri unavailable"}</div>
             </td>
         `;
 
