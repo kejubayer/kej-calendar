@@ -228,6 +228,18 @@
             font-size: 13px;
         }
 
+        .holiday {
+            margin-top: 4px;
+            font-size: 11px;
+            font-weight: 700;
+            color: #b42318;
+            background: #fff1f1;
+            border: 1px solid #fecaca;
+            border-radius: 6px;
+            padding: 2px 5px;
+            line-height: 1.2;
+        }
+
         .legend {
             border-top: 1px solid var(--border);
             padding: 12px 16px;
@@ -338,6 +350,7 @@
             <span><span class="dot" style="background:#127043"></span>Bangla date</span>
             <span><span class="dot" style="background:#a16207"></span>Hijri date</span>
             <span><span class="dot" style="background:#e8f1ff; border:1px solid #9fc1ff"></span>Today</span>
+            <span><span class="dot" style="background:#fff1f1; border:1px solid #fecaca"></span>Public holiday</span>
         </div>
     </div>
 
@@ -379,6 +392,54 @@ const seasonMap = {
 };
 
 let selectedDate = new Date();
+
+const HOLIDAY_API_BASE = "https://date.nager.at/api/v3/PublicHolidays";
+const COUNTRY_CODE = "BD";
+const holidayCache = new Map();
+
+function formatDateKey(date) {
+    const y = date.getFullYear();
+    const m = String(date.getMonth() + 1).padStart(2, "0");
+    const d = String(date.getDate()).padStart(2, "0");
+    return `${y}-${m}-${d}`;
+}
+
+function escapeHtml(text) {
+    return String(text)
+        .replace(/&/g, "&amp;")
+        .replace(/</g, "&lt;")
+        .replace(/>/g, "&gt;")
+        .replace(/"/g, "&quot;")
+        .replace(/'/g, "&#39;");
+}
+
+async function getPublicHolidays(year) {
+    if (holidayCache.has(year)) return holidayCache.get(year);
+
+    try {
+        const res = await fetch(`${HOLIDAY_API_BASE}/${year}/${COUNTRY_CODE}`);
+        if (!res.ok) throw new Error(`Holiday API status ${res.status}`);
+        const data = await res.json();
+        const dateMap = new Map();
+        for (const item of data) {
+            if (!item?.date) continue;
+            const displayName = item.localName || item.name || "Public Holiday";
+            const existing = dateMap.get(item.date);
+            if (existing) {
+                dateMap.set(item.date, `${existing}, ${displayName}`);
+            } else {
+                dateMap.set(item.date, displayName);
+            }
+        }
+        holidayCache.set(year, dateMap);
+        return dateMap;
+    } catch (error) {
+        console.warn("Could not load public holidays:", error);
+        const empty = new Map();
+        holidayCache.set(year, empty);
+        return empty;
+    }
+}
 
 function getBanglaDate(date) {
     const year = date.getFullYear();
@@ -476,7 +537,7 @@ function updateMonthInput(date) {
     $("#hijriBadge").text(subtitleData.hijri.replace(/[()]/g, ""));
 }
 
-function generateCalendar(year, month) {
+function generateCalendar(year, month, holidays = new Map()) {
     const firstDay = new Date(year, month, 1).getDay();
     const daysInMonth = new Date(year, month + 1, 0).getDate();
     const today = new Date();
@@ -500,11 +561,14 @@ function generateCalendar(year, month) {
         const isWeekend = date.getDay() === 5 || date.getDay() === 6;
         const classes = `${isToday ? "today" : ""} ${isWeekend ? "weekend" : ""}`.trim();
 
+        const holidayName = holidays.get(formatDateKey(date));
+
         html += `
             <td class="${classes}">
                 <div class="eng">${d}</div>
                 <div class="bn">${toBanglaNumber(bn.day)} ${bn.month}</div>
                 <div class="ar">${getHijriDateLabel(date)}</div>
+                ${holidayName ? `<div class="holiday" title="${escapeHtml(holidayName)}">${escapeHtml(holidayName)}</div>` : ""}
             </td>
         `;
 
@@ -519,9 +583,11 @@ function generateCalendar(year, month) {
     tbody.append(html);
 }
 
-function render() {
+async function render() {
     updateMonthInput(selectedDate);
-    generateCalendar(selectedDate.getFullYear(), selectedDate.getMonth());
+    const year = selectedDate.getFullYear();
+    const holidays = await getPublicHolidays(year);
+    generateCalendar(year, selectedDate.getMonth(), holidays);
 }
 
 $("#monthPicker").on("change", function () {
