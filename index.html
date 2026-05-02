@@ -89,6 +89,12 @@
             color: var(--primary-strong);
         }
 
+        .current-info {
+            display: flex;
+            flex-direction: column;
+            gap: 4px;
+        }
+
         .current-label {
             padding: 10px 12px;
             border-radius: 10px;
@@ -96,6 +102,13 @@
             background: #eef4ff;
             font-weight: 600;
             color: var(--primary-strong);
+        }
+
+        .current-sub-label {
+            font-size: 13px;
+            color: var(--muted);
+            padding-left: 4px;
+            line-height: 1.3;
         }
 
         .calendar-wrap {
@@ -190,7 +203,10 @@
                 <button id="prevMonth">◀ Prev</button>
                 <input type="month" id="monthPicker" />
                 <button id="nextMonth">Next ▶</button>
-                <div id="currentLabel" class="current-label"></div>
+                <div class="current-info">
+                    <div id="currentLabel" class="current-label"></div>
+                    <div id="currentSubLabel" class="current-sub-label"></div>
+                </div>
             </div>
         </div>
 
@@ -300,6 +316,7 @@ function updateMonthInput(date) {
     const m = String(date.getMonth() + 1).padStart(2, "0");
     $("#monthPicker").val(`${y}-${m}`);
     $("#currentLabel").text(`${monthNames[date.getMonth()]} ${y}`);
+    $("#currentSubLabel").html("(বৈশাখ - জ্যৈষ্ঠ ১৪৩৩ বঙ্গাব্দ)<br>(জিলক্বদ - জিলহজ্জ ১৪৪৭ হিজরি)");
 }
 
 function generateCalendar(year, month) {
