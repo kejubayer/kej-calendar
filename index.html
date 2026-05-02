@@ -92,8 +92,58 @@
         .current-info {
             display: flex;
             flex-direction: column;
-            gap: 4px;
+            gap: 8px;
+            width: 100%;
         }
+
+        .month-hero {
+            padding: 16px;
+            border-radius: 14px;
+            border: 1px solid #c6d8fb;
+            background: linear-gradient(120deg, #eff5ff 0%, #f8fbff 60%, #eef7ff 100%);
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            gap: 10px;
+            flex-wrap: wrap;
+        }
+
+        .month-title-wrap {
+            display: flex;
+            flex-direction: column;
+            gap: 6px;
+        }
+
+        .month-year {
+            font-size: 28px;
+            font-weight: 800;
+            letter-spacing: 0.4px;
+            color: #163562;
+        }
+
+        .month-season {
+            font-size: 13px;
+            color: #31598f;
+            font-weight: 600;
+        }
+
+        .month-badges {
+            display: flex;
+            gap: 8px;
+            flex-wrap: wrap;
+        }
+
+        .badge {
+            border-radius: 999px;
+            padding: 7px 12px;
+            font-size: 12px;
+            font-weight: 700;
+            border: 1px solid transparent;
+        }
+
+        .badge-gregorian { background: #e8f1ff; color: #1d4ed8; border-color: #b8d2ff; }
+        .badge-bangla { background: #e8fff1; color: #0f6b3f; border-color: #bfead0; }
+        .badge-hijri { background: #fff8e9; color: #9a5b0e; border-color: #f7dfaa; }
 
         .current-label {
             padding: 10px 12px;
@@ -208,7 +258,17 @@
 
         <div class="controls">
             <div class="current-info">
-                <div id="currentLabel" class="current-label"></div>
+                <div class="month-hero">
+                    <div class="month-title-wrap">
+                        <div id="currentLabel" class="month-year"></div>
+                        <div id="currentSeason" class="month-season"></div>
+                    </div>
+                    <div class="month-badges">
+                        <span id="gregorianBadge" class="badge badge-gregorian"></span>
+                        <span id="banglaBadge" class="badge badge-bangla"></span>
+                        <span id="hijriBadge" class="badge badge-hijri"></span>
+                    </div>
+                </div>
                 <div id="currentSubLabel" class="current-sub-label"></div>
             </div>
         </div>
@@ -262,6 +322,13 @@ const monthNames = [
     "January", "February", "March", "April", "May", "June",
     "July", "August", "September", "October", "November", "December"
 ];
+
+const seasonMap = {
+    11: "❄ Winter", 0: "❄ Winter", 1: "❄ Winter",
+    2: "🌸 Spring", 3: "🌸 Spring", 4: "🌸 Spring",
+    5: "☀ Summer", 6: "☀ Summer", 7: "☀ Summer",
+    8: "🍂 Autumn", 9: "🍂 Autumn", 10: "🍂 Autumn"
+};
 
 let selectedDate = new Date();
 
@@ -354,8 +421,13 @@ function updateMonthInput(date) {
     const y = date.getFullYear();
     const m = String(date.getMonth() + 1).padStart(2, "0");
     const subtitleData = getSubtitleData(date);
+    const monthName = monthNames[date.getMonth()];
     $("#monthPicker").val(`${y}-${m}`);
-    $("#currentLabel").text(`${monthNames[date.getMonth()]} ${y}`);
+    $("#currentLabel").text(`${monthName} ${y}`);
+    $("#currentSeason").text(`A beautiful view of ${monthName} • ${seasonMap[date.getMonth()]}`);
+    $("#gregorianBadge").text(`${monthName} ${y}`);
+    $("#banglaBadge").text(subtitleData.bangla.replace(/[()]/g, ""));
+    $("#hijriBadge").text(subtitleData.hijri.replace(/[()]/g, ""));
     $("#currentSubLabel").html(`${subtitleData.bangla}<br>${subtitleData.hijri}`);
 }
 
