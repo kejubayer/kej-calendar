@@ -265,6 +265,7 @@ let selectedDate = new Date();
 function getBanglaDate(date) {
     const year = date.getFullYear();
     const pohelaBoishakh = new Date(year, 3, 14);
+    const banglaYear = date >= pohelaBoishakh ? year - 593 : year - 594;
 
     let diff = Math.floor((date - pohelaBoishakh) / 86400000);
     if (diff < 0) {
@@ -275,22 +276,28 @@ function getBanglaDate(date) {
     let month = Math.floor(diff / 30) % 12;
     let day = (diff % 30) + 1;
 
-    return { day, month: banglaMonths[month] };
+    return { day, month: banglaMonths[month], year: banglaYear };
 }
 
 
-function getHijriDateLabel(date) {
+function getHijriDateData(date) {
     if (typeof Intl === "object" && typeof Intl.DateTimeFormat === "function") {
         try {
             const parts = new Intl.DateTimeFormat("en-TN-u-ca-islamic", {
                 day: "numeric",
-                month: "long"
+                month: "long",
+                year: "numeric"
             }).formatToParts(date);
             const day = parts.find(p => p.type === "day")?.value;
             const month = parts.find(p => p.type === "month")?.value;
-            if (day && month) {
+            const year = parts.find(p => p.type === "year")?.value;
+            if (day && month && year) {
                 const mappedMonth = hijriMonthMap[month] || month;
-                return `${toBanglaNumber(day)} ${mappedMonth}`;
+                return {
+                    day: Number(day),
+                    month: mappedMonth,
+                    year: Number(year)
+                };
             }
         } catch (e) {
             // Fallback to HijriDate library below
@@ -302,23 +309,48 @@ function getHijriDateLabel(date) {
             const hijri = new HijriDate(date);
             const monthName = hijri.getMonthName();
             const mappedMonth = hijriMonthMap[monthName] || monthName;
-            return `${toBanglaNumber(hijri.getDate())} ${mappedMonth}`;
+            return {
+                day: hijri.getDate(),
+                month: mappedMonth,
+                year: hijri.getFullYear()
+            };
         } catch (e) {
-            return "Hijri unavailable";
+            return null;
         }
     }
 
-    return "Hijri unavailable";
+    return null;
 }
 
-const subtitleData = {
-    bangla: "(বৈশাখ - জ্যৈষ্ঠ ১৪৩৩ বঙ্গাব্দ)",
-    hijri: "(জিলক্বদ - জিলহজ্জ ১৪৪৭ হিজরি)"
-};
+function getHijriDateLabel(date) {
+    const hijri = getHijriDateData(date);
+    if (!hijri) return "Hijri unavailable";
+    return `${toBanglaNumber(hijri.day)} ${hijri.month}`;
+}
+
+function getSubtitleData(date) {
+    const year = date.getFullYear();
+    const month = date.getMonth();
+    const firstDate = new Date(year, month, 1);
+    const lastDate = new Date(year, month + 1, 0);
+
+    const firstBangla = getBanglaDate(firstDate);
+    const lastBangla = getBanglaDate(lastDate);
+    const firstHijri = getHijriDateData(firstDate);
+    const lastHijri = getHijriDateData(lastDate);
+
+    const banglaLine = `(${firstBangla.month} - ${lastBangla.month}, ${toBanglaNumber(firstBangla.year)} বঙ্গাব্দ)`;
+    const hijriLine = firstHijri && lastHijri
+        ? `(${firstHijri.month} - ${lastHijri.month}, ${toBanglaNumber(firstHijri.year)} হিজরি)`
+        : "(Hijri unavailable)";
+
+    return { bangla: banglaLine, hijri: hijriLine };
+}
 
 function updateMonthInput(date) {
     const y = date.getFullYear();
     const m = String(date.getMonth() + 1).padStart(2, "0");
+    const subtitleData = getSubtitleData(date);
     $("#monthPicker").val(`${y}-${m}`);
     $("#currentLabel").text(`${monthNames[date.getMonth()]} ${y}`);
     $("#currentSubLabel").html(`${subtitleData.bangla}<br>${subtitleData.hijri}`);
