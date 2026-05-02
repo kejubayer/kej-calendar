@@ -3,21 +3,29 @@
 <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Gregorian → Bangla → Hijri Calendar</title>
+    <title>Bangla, Hijri & Gregorian Calendar | Monthly Date Converter</title>
+    <meta name="description" content="View Gregorian, Bangla (Bengali), and Hijri dates side by side in one monthly calendar. Navigate any month and compare all three date systems instantly." />
+    <meta name="keywords" content="Bangla calendar, Bengali calendar, Hijri calendar, Gregorian calendar, date converter, monthly calendar" />
+    <meta name="robots" content="index, follow" />
+    <link rel="canonical" href="https://example.com/bangla-hijri-gregorian-calendar" />
+    <meta property="og:title" content="Bangla, Hijri & Gregorian Calendar" />
+    <meta property="og:description" content="A clean monthly calendar showing Gregorian, Bangla, and Hijri dates together." />
+    <meta property="og:type" content="website" />
+    <meta property="og:url" content="https://example.com/bangla-hijri-gregorian-calendar" />
     <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/hijri-date/lib/safe.js"></script>
 
     <style>
         :root {
-            --bg: #f4f7ff;
+            --bg: #f5f7fb;
             --surface: #ffffff;
-            --ink: #132237;
-            --muted: #5c6b7f;
-            --primary: #3b82f6;
-            --primary-strong: #1d4ed8;
-            --border: #d9e3f3;
-            --today: #e8f1ff;
-            --weekend: #fff5f5;
+            --ink: #0f1f35;
+            --muted: #5b6676;
+            --primary: #2563eb;
+            --primary-strong: #1e40af;
+            --border: #d2dceb;
+            --today: #e8f0ff;
+            --weekend: #fff7ef;
         }
 
         * { box-sizing: border-box; }
@@ -25,7 +33,7 @@
         body {
             margin: 0;
             font-family: Inter, Segoe UI, Roboto, Arial, sans-serif;
-            background: linear-gradient(180deg, #eef3ff 0%, var(--bg) 100%);
+            background: linear-gradient(180deg, #eef3ff 0%, #f5f7fb 100%);
             color: var(--ink);
             min-height: 100vh;
             padding: 24px 14px;
@@ -245,8 +253,8 @@
     <div class="app">
         <div class="topbar">
             <div class="title">
-                <h2>Gregorian → Bangla → Hijri</h2>
-                <p>Select any month to view all three calendar systems together.</p>
+                <h2>Bangla, Hijri & Gregorian Calendar</h2>
+                <p>Plan months with synchronized Gregorian, Bangla, and Hijri dates in one view.</p>
             </div>
 
             <div class="controls">
