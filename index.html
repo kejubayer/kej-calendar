@@ -261,7 +261,6 @@
                 <div class="month-hero">
                     <div class="month-title-wrap">
                         <div id="currentLabel" class="month-year"></div>
-                        <div id="currentSeason" class="month-season"></div>
                     </div>
                     <div class="month-badges">
                         <span id="banglaBadge" class="badge badge-bangla"></span>
@@ -422,7 +421,6 @@ function updateMonthInput(date) {
     const monthName = monthNames[date.getMonth()];
     $("#monthPicker").val(`${y}-${m}`);
     $("#currentLabel").text(`${monthName} ${y}`);
-    $("#currentSeason").text(`A beautiful view of ${monthName} • ${seasonMap[date.getMonth()]}`);
     $("#gregorianBadge").text(`${monthName} ${y}`);
     $("#banglaBadge").text(subtitleData.bangla.replace(/[()]/g, ""));
     $("#hijriBadge").text(subtitleData.hijri.replace(/[()]/g, ""));
