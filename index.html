@@ -243,6 +243,34 @@ function getBanglaDate(date) {
     return { day, month: banglaMonths[month] };
 }
 
+
+function getHijriDateLabel(date) {
+    if (typeof Intl === "object" && typeof Intl.DateTimeFormat === "function") {
+        try {
+            const parts = new Intl.DateTimeFormat("en-TN-u-ca-islamic", {
+                day: "numeric",
+                month: "long"
+            }).formatToParts(date);
+            const day = parts.find(p => p.type === "day")?.value;
+            const month = parts.find(p => p.type === "month")?.value;
+            if (day && month) return `${day} ${month}`;
+        } catch (e) {
+            // Fallback to HijriDate library below
+        }
+    }
+
+    if (typeof HijriDate === "function") {
+        try {
+            const hijri = new HijriDate(date);
+            return `${hijri.getDate()} ${hijri.getMonthName()}`;
+        } catch (e) {
+            return "Hijri unavailable";
+        }
+    }
+
+    return "Hijri unavailable";
+}
+
 function updateMonthInput(date) {
     const y = date.getFullYear();
     const m = String(date.getMonth() + 1).padStart(2, "0");
@@ -265,7 +293,6 @@ function generateCalendar(year, month) {
     for (let d = 1; d <= daysInMonth; d++) {
         const date = new Date(year, month, d);
         const bn = getBanglaDate(date);
-        const hijri = (typeof HijriDate === "function") ? new HijriDate(date) : null;
 
         const isToday =
             d === today.getDate() &&
@@ -279,7 +306,7 @@ function generateCalendar(year, month) {
             <td class="${classes}">
                 <div class="eng">${d}</div>
                 <div class="bn">${bn.day} ${bn.month}</div>
-                <div class="ar">${hijri ? `${hijri.getDate()} ${hijri.getMonthName()}` : "Hijri unavailable"}</div>
+                <div class="ar">${getHijriDateLabel(date)}</div>
             </td>
         `;
 
