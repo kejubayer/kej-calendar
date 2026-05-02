@@ -311,12 +311,17 @@ function getHijriDateLabel(date) {
     return "Hijri unavailable";
 }
 
+const subtitleData = {
+    bangla: "(বৈশাখ - জ্যৈষ্ঠ ১৪৩৩ বঙ্গাব্দ)",
+    hijri: "(জিলক্বদ - জিলহজ্জ ১৪৪৭ হিজরি)"
+};
+
 function updateMonthInput(date) {
     const y = date.getFullYear();
     const m = String(date.getMonth() + 1).padStart(2, "0");
     $("#monthPicker").val(`${y}-${m}`);
     $("#currentLabel").text(`${monthNames[date.getMonth()]} ${y}`);
-    $("#currentSubLabel").html("(বৈশাখ - জ্যৈষ্ঠ ১৪৩৩ বঙ্গাব্দ)<br>(জিলক্বদ - জিলহজ্জ ১৪৪৭ হিজরি)");
+    $("#currentSubLabel").html(`${subtitleData.bangla}<br>${subtitleData.hijri}`);
 }
 
 function generateCalendar(year, month) {
