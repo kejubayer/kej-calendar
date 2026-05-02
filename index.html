@@ -1,0 +1,156 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Multi Calendar</title>
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+
+    <!-- Hijri Calendar Library -->
+    <script src="https://cdn.jsdelivr.net/npm/hijri-date/lib/safe.js"></script>
+
+    <style>
+        body {
+            font-family: Arial;
+            text-align: center;
+        }
+
+        .calendar {
+            width: 90%;
+            margin: 20px auto;
+        }
+
+        table {
+            width: 100%;
+            border-collapse: collapse;
+        }
+
+        th, td {
+            border: 1px solid #ddd;
+            height: 90px;
+            vertical-align: top;
+            padding: 5px;
+        }
+
+        th {
+            background: #333;
+            color: white;
+        }
+
+        .eng {
+            font-weight: bold;
+            font-size: 16px;
+        }
+
+        .bn {
+            color: green;
+            font-size: 13px;
+        }
+
+        .ar {
+            color: #b58900;
+            font-size: 13px;
+        }
+    </style>
+</head>
+<body>
+
+<h2>Multi Calendar (English + Bangla + Arabic)</h2>
+
+<input type="month" id="monthPicker">
+
+<div class="calendar">
+    <table id="calendarTable">
+        <thead>
+            <tr>
+                <th>Sun</th><th>Mon</th><th>Tue</th>
+                <th>Wed</th><th>Thu</th><th>Fri</th><th>Sat</th>
+            </tr>
+        </thead>
+        <tbody></tbody>
+    </table>
+</div>
+
+<script>
+
+const banglaMonths = [
+    "Boishakh","Joishtho","Ashar","Srabon","Bhadro","Ashwin",
+    "Kartik","Agrahayan","Poush","Magh","Falgun","Chaitra"
+];
+
+// Simple Bangla conversion (approximate)
+function getBanglaDate(date) {
+    const start = new Date(date.getFullYear(), 3, 14); // April 14
+
+    let diff = Math.floor((date - start) / (1000*60*60*24));
+
+    if (diff < 0) {
+        diff += 365;
+    }
+
+    let month = Math.floor(diff / 30);
+    let day = (diff % 30) + 1;
+
+    return {
+        day: day,
+        month: banglaMonths[month]
+    };
+}
+
+function generateCalendar(year, month) {
+    let firstDay = new Date(year, month, 1).getDay();
+    let daysInMonth = new Date(year, month + 1, 0).getDate();
+
+    let tbody = $("#calendarTable tbody");
+    tbody.empty();
+
+    let row = "<tr>";
+
+    for (let i = 0; i < firstDay; i++) {
+        row += "<td></td>";
+    }
+
+    for (let d = 1; d <= daysInMonth; d++) {
+
+        let date = new Date(year, month, d);
+
+        // Bangla
+        let bn = getBanglaDate(date);
+
+        // Hijri
+        let hijri = new HijriDate(date);
+        let arDay = hijri.getDate();
+        let arMonth = hijri.getMonthName();
+
+        row += `
+            <td>
+                <div class="eng">${d}</div>
+                <div class="bn">${bn.day} ${bn.month}</div>
+                <div class="ar">${arDay} ${arMonth}</div>
+            </td>
+        `;
+
+        if ((firstDay + d) % 7 === 0) {
+            row += "</tr><tr>";
+        }
+    }
+
+    row += "</tr>";
+    tbody.append(row);
+}
+
+$("#monthPicker").on("change", function () {
+    let val = $(this).val();
+    let parts = val.split("-");
+    let year = parseInt(parts[0]);
+    let month = parseInt(parts[1]) - 1;
+
+    generateCalendar(year, month);
+});
+
+// Load current month
+let today = new Date();
+generateCalendar(today.getFullYear(), today.getMonth());
+
+</script>
+
+</body>
+</html>
