@@ -327,6 +327,7 @@
                 <div class="month-hero">
                     <div class="month-title-wrap">
                         <div id="currentLabel" class="month-year"></div>
+                        <div id="currentSeason" class="month-season"></div>
                     </div>
                     <div class="month-badges">
                         <span id="banglaBadge" class="badge badge-bangla"></span>
@@ -388,10 +389,10 @@ const monthNames = [
 ];
 
 const seasonMap = {
-    11: "❄ Winter", 0: "❄ Winter", 1: "❄ Winter",
-    2: "🌸 Spring", 3: "🌸 Spring", 4: "🌸 Spring",
-    5: "☀ Summer", 6: "☀ Summer", 7: "☀ Summer",
-    8: "🍂 Autumn", 9: "🍂 Autumn", 10: "🍂 Autumn"
+    11: "❄ Winter (পৌষ - মাঘ)", 0: "❄ Winter (পৌষ - মাঘ)", 1: "🌸 Spring (ফাল্গুন - চৈত্র)",
+    2: "🌸 Spring (ফাল্গুন - চৈত্র)", 3: "☀ Summer (বৈশাখ - জ্যৈষ্ঠ)", 4: "☀ Summer (বৈশাখ - জ্যৈষ্ঠ)",
+    5: "☀ Monsoon (আষাঢ় - শ্রাবণ)", 6: "☀ Monsoon (আষাঢ় - শ্রাবণ)", 7: "☀ Late Autumn (ভাদ্র - আশ্বিন)",
+    8: "🍂 Late Autumn (ভাদ্র - আশ্বিন)", 9: "🍂 Autumn (কার্তিক - অগ্রহায়ণ)", 10: "🍂 Autumn (কার্তিক - অগ্রহায়ণ)"
 };
 
 let selectedDate = new Date();
@@ -536,6 +537,7 @@ function updateMonthInput(date) {
     const monthName = monthNames[date.getMonth()];
     $("#monthPicker").val(`${y}-${m}`);
     $("#currentLabel").text(`${monthName} ${y}`);
+    $("#currentSeason").text(`${seasonMap[date.getMonth()]}`);
     $("#banglaBadge").text(subtitleData.bangla.replace(/[()]/g, ""));
     $("#hijriBadge").text(subtitleData.hijri.replace(/[()]/g, ""));
 }
