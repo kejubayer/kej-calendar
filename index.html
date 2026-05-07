@@ -246,6 +246,8 @@
         }
 
         .holiday {
+            position: relative;
+            display: inline-block;
             margin-top: 4px;
             font-size: 11px;
             font-weight: 700;
@@ -255,6 +257,42 @@
             border-radius: 6px;
             padding: 2px 5px;
             line-height: 1.2;
+            cursor: help;
+            outline: none;
+            text-align: left;
+        }
+
+        .holiday:hover,
+        .holiday:focus {
+            border-color: #fca5a5;
+            background: #ffe7e7;
+        }
+
+        .holiday-tooltip {
+            position: fixed;
+            left: 0;
+            top: 0;
+            width: min(340px, calc(100vw - 24px));
+            border: 1px solid #f5b6b6;
+            border-radius: 8px;
+            background: #fffafa;
+            box-shadow: 0 16px 34px rgba(91, 18, 18, 0.2);
+            color: #611313;
+            padding: 10px 12px;
+            font-size: 12px;
+            font-weight: 600;
+            line-height: 1.45;
+            white-space: pre-line;
+            opacity: 0;
+            pointer-events: none;
+            transform: translateY(6px);
+            transition: opacity 0.16s ease, transform 0.16s ease;
+            z-index: 1000;
+        }
+
+        .holiday-tooltip.visible {
+            opacity: 1;
+            transform: translateY(0);
         }
 
         .legend {
@@ -374,6 +412,7 @@
             <span><span class="dot" style="background:#fff1f1; border:1px solid #fecaca"></span>Public holiday</span>
         </div>
     </div>
+    <div id="holidayTooltip" class="holiday-tooltip" role="tooltip"></div>
 
 <script>
 const banglaMonths = [
@@ -455,11 +494,16 @@ async function getLocalHolidays(year) {
         if (!isoDate || itemYear !== year) continue;
 
         const displayName = item.name_bn || item.name || "Public Holiday";
+        const description = item.description_bn || item.description || displayName;
         const existing = dateMap.get(isoDate);
         if (existing) {
-            dateMap.set(isoDate, `${existing}, ${displayName}`);
+            existing.names.push(displayName);
+            existing.descriptions.push({ name: displayName, text: description });
         } else {
-            dateMap.set(isoDate, displayName);
+            dateMap.set(isoDate, {
+                names: [displayName],
+                descriptions: [{ name: displayName, text: description }]
+            });
         }
     }
 
@@ -646,14 +690,18 @@ function generateCalendar(year, month, holidays = new Map()) {
         const isWeekend = date.getDay() === 5 || date.getDay() === 6;
         const classes = `${isToday ? "today" : ""} ${isWeekend ? "weekend" : ""}`.trim();
 
-        const holidayName = holidays.get(formatDateKey(date));
+        const holiday = holidays.get(formatDateKey(date));
+        const holidayName = holiday?.names.join(", ");
+        const holidayDetails = holiday?.descriptions
+            .map(item => `${item.name}: ${item.text}`)
+            .join("\n\n");
 
         html += `
             <td class="${classes}">
                 <div class="eng">${d}</div>
                 <div class="bn">${toBanglaNumber(bn.day)} ${bn.month}</div>
                 <div class="ar">${getHijriDateLabel(date)}</div>
-                ${holidayName ? `<div class="holiday" title="${escapeHtml(holidayName)}">${escapeHtml(holidayName)}</div>` : ""}
+                ${holidayName ? `<div class="holiday" tabindex="0" aria-label="${escapeHtml(holidayDetails)}" data-details="${escapeHtml(holidayDetails)}">${escapeHtml(holidayName)}</div>` : ""}
             </td>
         `;
 
@@ -666,6 +714,44 @@ function generateCalendar(year, month, holidays = new Map()) {
 
     html += "</tr>";
     tbody.append(html);
+}
+
+function positionHolidayTooltip(target) {
+    const tooltip = $("#holidayTooltip");
+    const node = tooltip[0];
+    if (!node || !target) return;
+
+    const rect = target.getBoundingClientRect();
+    const gap = 10;
+    const margin = 12;
+    const width = Math.min(340, window.innerWidth - (margin * 2));
+    node.style.width = `${width}px`;
+
+    const tooltipRect = node.getBoundingClientRect();
+    let left = rect.left + (rect.width / 2) - (tooltipRect.width / 2);
+    left = Math.max(margin, Math.min(left, window.innerWidth - tooltipRect.width - margin));
+
+    let top = rect.bottom + gap;
+    if (top + tooltipRect.height + margin > window.innerHeight) {
+        top = rect.top - tooltipRect.height - gap;
+    }
+    top = Math.max(margin, top);
+
+    node.style.left = `${left}px`;
+    node.style.top = `${top}px`;
+}
+
+function showHolidayTooltip(target) {
+    const details = target?.getAttribute("data-details");
+    if (!details) return;
+
+    const tooltip = $("#holidayTooltip");
+    tooltip.text(details).addClass("visible");
+    positionHolidayTooltip(target);
+}
+
+function hideHolidayTooltip() {
+    $("#holidayTooltip").removeClass("visible");
 }
 
 async function render() {
@@ -690,6 +776,20 @@ $("#nextMonth").on("click", function () {
     selectedDate.setMonth(selectedDate.getMonth() + 1);
     render();
 });
+
+$(document).on("mouseenter focus", ".holiday", function () {
+    showHolidayTooltip(this);
+});
+
+$(document).on("mousemove", ".holiday", function () {
+    positionHolidayTooltip(this);
+});
+
+$(document).on("mouseleave blur", ".holiday", function () {
+    hideHolidayTooltip();
+});
+
+$(window).on("resize scroll", hideHolidayTooltip);
 
 render();
 loadVisitorWeather();

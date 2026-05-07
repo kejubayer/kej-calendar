@@ -15,7 +15,7 @@
       "name": "Election Day",
       "name_bn": "নির্বাচন দিবস",
       "description": "Election Day is a national holiday in Bangladesh",
-      "description_bn": "নির্বাচন দিবস বাংলাদেশে জাতীয় ছুটি হিসেবে পালিত হয়।",
+      "description_bn": "নির্বাচন দিবসে নাগরিকরা ভোটের মাধ্যমে প্রতিনিধি নির্বাচন করেন। গণতান্ত্রিক অধিকার প্রয়োগ ও শান্তিপূর্ণ অংশগ্রহণের জন্য দিনটি গুরুত্বপূর্ণ।",
       "date": {
         "iso": "2024-01-07",
         "datetime": {
@@ -30,7 +30,7 @@
       "name": "Shab-e-Meraj",
       "name_bn": "শবে মেরাজ",
       "description": "Isra and Mi'raj (Isra Me'raj, Israa and Mi'raaj, Laylat Al-Isra wa Al-Miraj, Lailat al Miraj, Night Journey and Ascension to Heaven) marks the night that the Prophet Mohammad traveled from Mecca to Jerusalem, ascended to heaven and returned.",
-      "description_bn": "ইসলাম ধর্মের একটি পবিত্র রজনী, যেদিন মহানবী হযরত মুহাম্মদ (সা.) মেরাজে গমন করেন। এই রাতে মুসলমানরা নফল নামাজ, দোয়া ও ইবাদতের মাধ্যমে আল্লাহর নৈকট্য লাভের চেষ্টা করেন।",
+      "description_bn": "শবে মেরাজ ইসলাম ধর্মের একটি পবিত্র রজনী, যেদিন মহানবী হযরত মুহাম্মদ (সা.) মেরাজে গমন করেন। এই রাতে মুসলমানরা নফল নামাজ, দোয়া ও ইবাদতের মাধ্যমে আল্লাহর নৈকট্য লাভের চেষ্টা করেন।",
       "date": {
         "iso": "2024-02-09",
         "datetime": {
@@ -45,7 +45,7 @@
       "name": "Saraswati Puja",
       "name_bn": "সরস্বতী পূজা",
       "description": "Saraswati Puja is a optional holiday in Bangladesh",
-      "description_bn": "সরস্বতী পূজা বাংলাদেশে ঐচ্ছিক ছুটি হিসেবে পালিত হয়।",
+      "description_bn": "সরস্বতী পূজা বিদ্যা ও জ্ঞানের দেবী সরস্বতীর আরাধনা। শিক্ষার্থী ও ভক্তরা পূজা, অঞ্জলি, প্রসাদ ও সাংস্কৃতিক আয়োজনে দিনটি পালন করেন।",
       "date": {
         "iso": "2024-02-14",
         "datetime": {
@@ -60,7 +60,7 @@
       "name": "Valentine's Day",
       "name_bn": "ভ্যালেন্টাইনস ডে",
       "description": "February 14 is Valentine's Day or Saint Valentine's Feast. The day of love owes its origins to ancient Roman and European Christian traditions.",
-      "description_bn": "ভ্যালেন্টাইনস ডে বাংলাদেশে পালনীয় দিন হিসেবে পালিত হয়।",
+      "description_bn": "ভ্যালেন্টাইনস ডে ভালোবাসা ও স্নেহ প্রকাশের দিন। প্রিয়জন, বন্ধু ও পরিবারের প্রতি শুভেচ্ছা, উপহার ও আন্তরিকতা প্রকাশের মাধ্যমে দিনটি পালিত হয়।",
       "date": {
         "iso": "2024-02-14",
         "datetime": {
@@ -75,7 +75,7 @@
       "name": "Language Martyrs' Day",
       "name_bn": "শহীদ দিবস ও আন্তর্জাতিক মাতৃভাষা দিবস",
       "description": "Language Martyrs' Day is a government holiday in Bangladesh",
-      "description_bn": "বাংলা ভাষার জন্য জীবন উৎসর্গকারী শহীদদের স্মরণে বাংলাদেশে এই দিনটি পালন করা হয়। দিনটি আন্তর্জাতিক মাতৃভাষা দিবস হিসেবেও বিশ্বজুড়ে পালিত হয়।",
+      "description_bn": "ভাষা শহীদ দিবস বাংলা ভাষার জন্য জীবন উৎসর্গকারী শহীদদের স্মরণে পালিত হয়। শহীদ মিনারে শ্রদ্ধা নিবেদন ও সাংস্কৃতিক আয়োজনে ভাষার মর্যাদা তুলে ধরা হয়।",
       "date": {
         "iso": "2024-02-21",
         "datetime": {
@@ -90,7 +90,7 @@
       "name": "Maghi Purnima",
       "name_bn": "মাঘী পূর্ণিমা",
       "description": "Maghi Purnima is a optional holiday in Bangladesh",
-      "description_bn": "মাঘী পূর্ণিমা বাংলাদেশে ঐচ্ছিক ছুটি হিসেবে পালিত হয়।",
+      "description_bn": "মাঘী পূর্ণিমা বৌদ্ধ ধর্মাবলম্বীদের পবিত্র পূর্ণিমা তিথি। এদিন প্রার্থনা, ধর্মদেশনা, দান ও শান্তি কামনার মাধ্যমে দিনটি পালিত হয়।",
       "date": {
         "iso": "2024-02-23",
         "datetime": {
@@ -105,7 +105,7 @@
       "name": "Shab e-Barat",
       "name_bn": "শবে বরাত",
       "description": "Shab e-Barat is a government holiday in Bangladesh",
-      "description_bn": "শবে বরাত বাংলাদেশে জাতীয় ছুটি হিসেবে পালিত হয়।",
+      "description_bn": "শবে বরাত মুসলমানদের কাছে ক্ষমা ও বরকতের পবিত্র রজনী। এ রাতে নফল নামাজ, দোয়া, কবর জিয়ারত ও আল্লাহর রহমত কামনা করা হয়।",
       "date": {
         "iso": "2024-02-26",
         "datetime": {
@@ -120,7 +120,7 @@
       "name": "National Flag Day",
       "name_bn": "জাতীয় পতাকা দিবস",
       "description": "National Flag Day is an observance in Bangladesh",
-      "description_bn": "জাতীয় পতাকা দিবস বাংলাদেশে পালনীয় দিন হিসেবে পালিত হয়।",
+      "description_bn": "জাতীয় পতাকা দিবসে বাংলাদেশের জাতীয় পতাকার ইতিহাস ও মর্যাদা স্মরণ করা হয়। স্বাধীনতা, সার্বভৌমত্ব ও জাতীয় পরিচয়ের প্রতীক হিসেবে পতাকাকে সম্মান জানানো হয়।",
       "date": {
         "iso": "2024-03-02",
         "datetime": {
@@ -135,7 +135,7 @@
       "name": "Maha Shivaratri",
       "name_bn": "মহা শিবরাত্রি",
       "description": "Maha Shivratri is an annual festival dedicated to Shiva, the Hindu God of destruction. For devotees, is a day of reflection and meditation.",
-      "description_bn": "মহা শিবরাত্রি বাংলাদেশে হিন্দু ধর্মীয় দিন, ঐচ্ছিক ছুটি হিসেবে পালিত হয়।",
+      "description_bn": "মহা শিবরাত্রি ভগবান শিবের আরাধনার পবিত্র রাত্রি। সনাতন ধর্মাবলম্বীরা উপবাস, পূজা, জাগরণ ও প্রার্থনার মাধ্যমে দিনটি পালন করেন।",
       "date": {
         "iso": "2024-03-08",
         "datetime": {
@@ -150,7 +150,7 @@
       "name": "Ramadan Start",
       "name_bn": "রমজান শুরু",
       "description": "Ramadan is a period of prayer, reflection and fasting for many Muslims worldwide. It is the ninth month in the Islamic calendar.",
-      "description_bn": "রমজান শুরু বাংলাদেশে পালনীয় দিন হিসেবে পালিত হয়।",
+      "description_bn": "রমজান শুরু মুসলমানদের এক মাসের সিয়াম সাধনার সূচনা। ভোর থেকে সূর্যাস্ত পর্যন্ত রোজা, নামাজ, কোরআন তিলাওয়াত ও দানের মাধ্যমে মাসটি পালন করা হয়।",
       "date": {
         "iso": "2024-03-12",
         "datetime": {
@@ -165,7 +165,7 @@
       "name": "Sheikh Mujibur Rahman's birthday",
       "name_bn": "Sheikh Mujibur Rahman's birthday",
       "description": "Sheikh Mujibur Rahman's birthday is a government holiday in Bangladesh",
-      "description_bn": "Sheikh Mujibur Rahman's birthday বাংলাদেশে জাতীয় ছুটি হিসেবে পালিত হয়।",
+      "description_bn": "বঙ্গবন্ধু শেখ মুজিবুর রহমানের জন্মদিন জাতির পিতার জীবন ও অবদান স্মরণে পালিত হয়। শিশু দিবস, আলোচনা, শ্রদ্ধা নিবেদন ও নানা আয়োজনে দিনটি উদযাপিত হয়।",
       "date": {
         "iso": "2024-03-17",
         "datetime": {
@@ -180,7 +180,7 @@
       "name": "Doljatra",
       "name_bn": "Doljatra",
       "description": "Doljatra is a optional holiday in Bangladesh",
-      "description_bn": "Doljatra বাংলাদেশে ঐচ্ছিক ছুটি হিসেবে পালিত হয়।",
+      "description_bn": "দোলযাত্রা সনাতন ধর্মাবলম্বীদের বসন্ত উৎসব। রঙ, আবির, কীর্তন ও শ্রীকৃষ্ণের আরাধনার মাধ্যমে আনন্দঘন পরিবেশে দিনটি পালিত হয়।",
       "date": {
         "iso": "2024-03-25",
         "datetime": {
@@ -195,7 +195,7 @@
       "name": "Holi",
       "name_bn": "দোলযাত্রা",
       "description": "Holi is a spring festival of colors celebrated by Hindus, Sikhs and others. It celebrates the triumph of good over evil and the upcoming season of spring. The festival can last up to sixteen days.",
-      "description_bn": "দোলযাত্রা বাংলাদেশে হিন্দু ধর্মীয় দিন হিসেবে পালিত হয়।",
+      "description_bn": "হোলি রঙের উৎসব এবং বসন্তের আনন্দের প্রতীক। সনাতন ধর্মাবলম্বীরা রঙ, আবির, গান ও সামাজিক মিলনের মাধ্যমে দিনটি উদযাপন করেন।",
       "date": {
         "iso": "2024-03-25",
         "datetime": {
@@ -210,7 +210,7 @@
       "name": "Independence Day",
       "name_bn": "স্বাধীনতা দিবস",
       "description": "Independence Day is a government holiday in Bangladesh",
-      "description_bn": "১৯৭১ সালের ২৬ মার্চ বাংলাদেশের স্বাধীনতার ঘোষণাকে স্মরণ করে স্বাধীনতা দিবস পালিত হয়।",
+      "description_bn": "স্বাধীনতা দিবস ১৯৭১ সালের ২৬ মার্চ বাংলাদেশের স্বাধীনতার ঘোষণাকে স্মরণ করে। জাতীয় পতাকা উত্তোলন, শ্রদ্ধা নিবেদন ও নানা আয়োজনে দিনটি পালিত হয়।",
       "date": {
         "iso": "2024-03-26",
         "datetime": {
@@ -225,7 +225,7 @@
       "name": "Shab-e-qadr",
       "name_bn": "শবে কদর",
       "description": "Laylat al-Qadr commmemorates the time when Mohammad received the first verses of the Koran (Qu'ran).",
-      "description_bn": "শবে কদর বাংলাদেশে জাতীয় ছুটি হিসেবে পালিত হয়।",
+      "description_bn": "শবে কদর রমজানের শেষ দশকের এক মহিমান্বিত রজনী। কোরআন নাজিলের স্মরণে মুসলমানরা রাতভর ইবাদত, দোয়া ও ক্ষমা প্রার্থনা করেন।",
       "date": {
         "iso": "2024-04-07",
         "datetime": {
@@ -240,7 +240,7 @@
       "name": "Eid ul-Fitr",
       "name_bn": "ঈদুল ফিতর",
       "description": "Eid al-Fitr is a holiday to mark the end of the Islamic month of Ramadan, during which Muslims fast during the hours of daylight.",
-      "description_bn": "রমজান মাসের সিয়াম সাধনা শেষে মুসলমানদের প্রধান ধর্মীয় উৎসব ঈদুল ফিতর উদযাপিত হয়।",
+      "description_bn": "ঈদুল ফিতর রমজান মাসের সিয়াম সাধনা শেষে মুসলমানদের আনন্দের উৎসব। ঈদের নামাজ, ফিতরা, শুভেচ্ছা বিনিময় ও পারিবারিক আয়োজনে দিনটি পালিত হয়।",
       "date": {
         "iso": "2024-04-10",
         "datetime": {
@@ -255,7 +255,7 @@
       "name": "Eid ul-Fitr Holiday",
       "name_bn": "ঈদুল ফিতরের ছুটি",
       "description": "Eid ul-Fitr Holiday is a government holiday in Bangladesh",
-      "description_bn": "ঈদুল ফিতরের ছুটি বাংলাদেশে জাতীয় ছুটি হিসেবে পালিত হয়।",
+      "description_bn": "ঈদুল ফিতরের ছুটি রমজানের শেষে ঈদ উদযাপনের সময়। মুসলমানরা নামাজ, আত্মীয়স্বজনের সঙ্গে দেখা, দান ও আনন্দ ভাগাভাগির মাধ্যমে দিনগুলো পালন করেন।",
       "date": {
         "iso": "2024-04-12",
         "datetime": {
@@ -270,7 +270,7 @@
       "name": "Chaitra Sankranti",
       "name_bn": "চৈত্র সংক্রান্তি",
       "description": "Chaitra Sankranti is a optional holiday in Bangladesh",
-      "description_bn": "চৈত্র সংক্রান্তি বাংলাদেশে ঐচ্ছিক ছুটি হিসেবে পালিত হয়।",
+      "description_bn": "চৈত্র সংক্রান্তি বাংলা বছরের শেষ দিন। গ্রামীণ মেলা, লোকাচার ও নানা আচার-অনুষ্ঠানের মাধ্যমে পুরোনো বছরকে বিদায় জানানো হয়।",
       "date": {
         "iso": "2024-04-13",
         "datetime": {
@@ -285,7 +285,7 @@
       "name": "Eid ul-Fitr Holiday",
       "name_bn": "ঈদুল ফিতরের ছুটি",
       "description": "Eid ul-Fitr Holiday is a optional holiday in Bangladesh",
-      "description_bn": "ঈদুল ফিতরের ছুটি বাংলাদেশে ঐচ্ছিক ছুটি হিসেবে পালিত হয়।",
+      "description_bn": "ঈদুল ফিতরের ছুটি রমজানের শেষে ঈদ উদযাপনের সময়। মুসলমানরা নামাজ, আত্মীয়স্বজনের সঙ্গে দেখা, দান ও আনন্দ ভাগাভাগির মাধ্যমে দিনগুলো পালন করেন।",
       "date": {
         "iso": "2024-04-13",
         "datetime": {
@@ -300,7 +300,7 @@
       "name": "Bengali New Year",
       "name_bn": "পহেলা বৈশাখ",
       "description": "Bengali New Year is a government holiday in Bangladesh",
-      "description_bn": "বাংলা সনের প্রথম দিন পহেলা বৈশাখে বাংলাদেশে নববর্ষ উদযাপন করা হয়।",
+      "description_bn": "পহেলা বৈশাখ বাংলা সনের প্রথম দিন। বাংলাদেশে মঙ্গল শোভাযাত্রা, হালখাতা, মেলা ও সাংস্কৃতিক আয়োজনের মাধ্যমে নববর্ষ উদযাপন করা হয়।",
       "date": {
         "iso": "2024-04-14",
         "datetime": {
@@ -315,7 +315,7 @@
       "name": "May Day",
       "name_bn": "মে দিবস",
       "description": "Labor Day, International Workers' Day, and May Day, is a day off for workers in many countries around the world.",
-      "description_bn": "শ্রমিকদের অধিকার ও অবদানের স্বীকৃতিতে আন্তর্জাতিক শ্রমিক দিবস পালিত হয়।",
+      "description_bn": "মে দিবস শ্রমিকদের অধিকার ও শ্রমের মর্যাদার আন্তর্জাতিক দিন। শ্রমিক আন্দোলনের ইতিহাস স্মরণ করে ন্যায্য অধিকার ও নিরাপদ কর্মপরিবেশের কথা বলা হয়।",
       "date": {
         "iso": "2024-05-01",
         "datetime": {
@@ -330,7 +330,7 @@
       "name": "Mother's Day",
       "name_bn": "মা দিবস",
       "description": "Mother's Day celebrates the achievements and efforts of mothers and mother figures.",
-      "description_bn": "মা দিবস বাংলাদেশে পালনীয় দিন হিসেবে পালিত হয়।",
+      "description_bn": "মা দিবসে মায়ের ভালোবাসা, ত্যাগ ও অবদানের প্রতি শ্রদ্ধা জানানো হয়। শুভেচ্ছা, উপহার ও পারিবারিক ভালোবাসার মাধ্যমে দিনটি পালন করা হয়।",
       "date": {
         "iso": "2024-05-12",
         "datetime": {
@@ -345,7 +345,7 @@
       "name": "Buddha Purnima/Vesak",
       "name_bn": "বুদ্ধ পূর্ণিমা",
       "description": "Buddha Purnima/Vesak is a government holiday in Bangladesh",
-      "description_bn": "বুদ্ধ পূর্ণিমা বাংলাদেশে জাতীয় ছুটি হিসেবে পালিত হয়।",
+      "description_bn": "বুদ্ধ পূর্ণিমা গৌতম বুদ্ধের জীবনের তিনটি মহৎ ঘটনার স্মারক। এদিন বৌদ্ধরা বিহারে প্রার্থনা, প্রদীপ প্রজ্বালন ও দানশীলতার মাধ্যমে দিনটি পালন করেন।",
       "date": {
         "iso": "2024-05-23",
         "datetime": {
@@ -360,7 +360,7 @@
       "name": "Eid al-Adha Holiday",
       "name_bn": "ঈদুল আজহার ছুটি",
       "description": "Eid al-Adha Holiday is a government holiday in Bangladesh",
-      "description_bn": "ঈদুল আজহার ছুটি বাংলাদেশে জাতীয় ছুটি হিসেবে পালিত হয়।",
+      "description_bn": "ঈদুল আজহার ছুটি কোরবানি ও ঈদ উদযাপনের ধারাবাহিক সময়। পরিবার, সমাজ ও দরিদ্র মানুষের সঙ্গে কোরবানির মাংস ভাগ করে আনন্দ প্রকাশ করা হয়।",
       "date": {
         "iso": "2024-06-16",
         "datetime": {
@@ -375,7 +375,7 @@
       "name": "Father's Day",
       "name_bn": "বাবা দিবস",
       "description": "Father's Day celebrates fatherhood and male parenting on different dates worldwide.",
-      "description_bn": "বাবা দিবস বাংলাদেশে পালনীয় দিন হিসেবে পালিত হয়।",
+      "description_bn": "বাবা দিবসে বাবার ভালোবাসা, ত্যাগ ও অবদানের প্রতি কৃতজ্ঞতা প্রকাশ করা হয়। শুভেচ্ছা, উপহার ও পারিবারিক সময়ের মাধ্যমে দিনটি পালিত হয়।",
       "date": {
         "iso": "2024-06-16",
         "datetime": {
@@ -390,7 +390,7 @@
       "name": "Eid al-Adha",
       "name_bn": "ঈদুল আজহা",
       "description": "Eid al-Adha (Id ul-Adha) is an Islamic festival falling on the 10th day of the month of Dhul Hijja (Thou al-Hijja) to commemorate the willingness of Ibrahim (Abraham) to sacrifice his son.",
-      "description_bn": "ত্যাগ ও কোরবানির মহিমা স্মরণ করে মুসলমানদের প্রধান ধর্মীয় উৎসব ঈদুল আজহা উদযাপিত হয়।",
+      "description_bn": "ঈদুল আজহা ত্যাগ ও কোরবানির মহিমা স্মরণে মুসলমানদের প্রধান ধর্মীয় উৎসব। নামাজ, কোরবানি, দান ও আত্মীয়স্বজনের সঙ্গে আনন্দ ভাগ করে দিনটি পালিত হয়।",
       "date": {
         "iso": "2024-06-17",
         "datetime": {
@@ -405,7 +405,7 @@
       "name": "Eid al-Adha Holiday",
       "name_bn": "ঈদুল আজহার ছুটি",
       "description": "Eid al-Adha Holiday is a government holiday in Bangladesh",
-      "description_bn": "ঈদুল আজহার ছুটি বাংলাদেশে জাতীয় ছুটি হিসেবে পালিত হয়।",
+      "description_bn": "ঈদুল আজহার ছুটি কোরবানি ও ঈদ উদযাপনের ধারাবাহিক সময়। পরিবার, সমাজ ও দরিদ্র মানুষের সঙ্গে কোরবানির মাংস ভাগ করে আনন্দ প্রকাশ করা হয়।",
       "date": {
         "iso": "2024-06-18",
         "datetime": {
@@ -420,7 +420,7 @@
       "name": "Eid al-Adha Holiday",
       "name_bn": "ঈদুল আজহার ছুটি",
       "description": "Eid al-Adha Holiday is a optional holiday in Bangladesh",
-      "description_bn": "ঈদুল আজহার ছুটি বাংলাদেশে ঐচ্ছিক ছুটি হিসেবে পালিত হয়।",
+      "description_bn": "ঈদুল আজহার ছুটি কোরবানি ও ঈদ উদযাপনের ধারাবাহিক সময়। পরিবার, সমাজ ও দরিদ্র মানুষের সঙ্গে কোরবানির মাংস ভাগ করে আনন্দ প্রকাশ করা হয়।",
       "date": {
         "iso": "2024-06-19",
         "datetime": {
@@ -435,7 +435,7 @@
       "name": "July 1 Bank Holiday",
       "name_bn": "১ জুলাই ব্যাংক ছুটি",
       "description": "July 1 Bank Holiday is a bank holiday in Bangladesh",
-      "description_bn": "১ জুলাই ব্যাংক ছুটি বাংলাদেশে জাতীয় ছুটি হিসেবে পালিত হয়।",
+      "description_bn": "১ জুলাই ব্যাংক ছুটি ব্যাংকিং খাতের নির্ধারিত বার্ষিক ছুটির দিন। এদিন ব্যাংকের নিয়মিত লেনদেন বন্ধ থাকে এবং হিসাব-নিকাশের কাজ সম্পন্ন হয়।",
       "date": {
         "iso": "2024-07-01",
         "datetime": {
@@ -450,7 +450,7 @@
       "name": "Muharram",
       "name_bn": "মহররম",
       "description": "Muharram is the first month of the Islamic calendar and a time of remembrance or mourning.",
-      "description_bn": "মহররম বাংলাদেশে পালনীয় দিন হিসেবে পালিত হয়।",
+      "description_bn": "মহররম ইসলামি বর্ষপঞ্জির প্রথম মাস। মুসলমানরা নতুন হিজরি বছর, আত্মসংযম ও কারবালার শিক্ষা স্মরণ করে ধর্মীয় ভাবগাম্ভীর্যে মাসটি পালন করেন।",
       "date": {
         "iso": "2024-07-08",
         "datetime": {
@@ -465,7 +465,7 @@
       "name": "Ashura",
       "name_bn": "আশুরা",
       "description": "Ashura is a government holiday in Bangladesh",
-      "description_bn": "ইসলামি বর্ষপঞ্জির মহররম মাসের দশম দিনে আশুরা পালিত হয়।",
+      "description_bn": "আশুরা ইসলামি বর্ষপঞ্জির মহররম মাসের দশম দিন। কারবালার শোকাবহ ঘটনা স্মরণে মুসলমানরা দোয়া, রোজা ও ধর্মীয় ভাবগাম্ভীর্যের মাধ্যমে দিনটি পালন করেন।",
       "date": {
         "iso": "2024-07-17",
         "datetime": {
@@ -480,7 +480,7 @@
       "name": "Ashari Purnima",
       "name_bn": "আষাঢ়ী পূর্ণিমা",
       "description": "Ashari Purnima is a optional holiday in Bangladesh",
-      "description_bn": "আষাঢ়ী পূর্ণিমা বাংলাদেশে ঐচ্ছিক ছুটি হিসেবে পালিত হয়।",
+      "description_bn": "আষাঢ়ী পূর্ণিমা বৌদ্ধ ধর্মাবলম্বীদের একটি গুরুত্বপূর্ণ তিথি। এই দিনে বুদ্ধের ধর্মদেশনা ও বর্ষাবাসের সূচনার স্মরণে প্রার্থনা ও ধর্মীয় অনুষ্ঠান হয়।",
       "date": {
         "iso": "2024-07-20",
         "datetime": {
@@ -495,7 +495,7 @@
       "name": "National Mourning Day",
       "name_bn": "জাতীয় শোক দিবস",
       "description": "National Mourning Day is a government holiday in Bangladesh",
-      "description_bn": "জাতীয় শোক দিবস বাংলাদেশে জাতীয় ছুটি হিসেবে পালিত হয়।",
+      "description_bn": "জাতীয় শোক দিবসে বঙ্গবন্ধু শেখ মুজিবুর রহমান ও তাঁর পরিবারের শহীদ সদস্যদের স্মরণ করা হয়। শ্রদ্ধা নিবেদন, দোয়া ও আলোচনা সভার মাধ্যমে দিনটি পালিত হয়।",
       "date": {
         "iso": "2024-08-15",
         "datetime": {
@@ -510,7 +510,7 @@
       "name": "Raksha Bandhan",
       "name_bn": "Raksha Bandhan",
       "description": "Raksha Bandhan is a Hindu festival that is celebrated on the full moon of the Hindu month of Shravana (Shravan Poornima). The day is also sometimes referred to as Brother and Sister Day because it honors the relationship between brother and sister.",
-      "description_bn": "Raksha Bandhan বাংলাদেশে হিন্দু ধর্মীয় দিন হিসেবে পালিত হয়।",
+      "description_bn": "রাখি বন্ধন ভাই-বোনের স্নেহ ও বন্ধনের উৎসব। রাখি পরানো, শুভেচ্ছা বিনিময় ও সম্পর্কের মঙ্গল কামনার মাধ্যমে দিনটি পালিত হয়।",
       "date": {
         "iso": "2024-08-19",
         "datetime": {
@@ -525,7 +525,7 @@
       "name": "Janmashtami",
       "name_bn": "জন্মাষ্টমী",
       "description": "Krishna Janmashtami is a Hindu festival that celebrates the birth of Krishna, the eighth incarnation of the god Vishnu. It is celebrated on the eighth day of the Hindu month of Bhadrava (Bhadrapada), which is usually in August or September.",
-      "description_bn": "জন্মাষ্টমী বাংলাদেশে জাতীয় ছুটি, হিন্দু ধর্মীয় দিন হিসেবে পালিত হয়।",
+      "description_bn": "জন্মাষ্টমী ভগবান শ্রীকৃষ্ণের জন্মতিথি। সনাতন ধর্মাবলম্বীরা উপবাস, পূজা, কীর্তন ও ধর্মীয় শোভাযাত্রার মাধ্যমে দিনটি পালন করেন।",
       "date": {
         "iso": "2024-08-26",
         "datetime": {
@@ -540,7 +540,7 @@
       "name": "Akhari Chahar Somba",
       "name_bn": "আখেরি চাহার সোম্বা",
       "description": "Akhari Chahar Somba is a optional holiday in Bangladesh",
-      "description_bn": "আখেরি চাহার সোম্বা বাংলাদেশে ঐচ্ছিক ছুটি হিসেবে পালিত হয়।",
+      "description_bn": "আখেরি চাহার সোম্বা ইসলাম ধর্মে সফর মাসের শেষ বুধবারের স্মারক দিন। এদিন মুসলমানরা দোয়া, নফল ইবাদত ও কল্যাণ কামনার মাধ্যমে দিনটি পালন করেন।",
       "date": {
         "iso": "2024-09-04",
         "datetime": {
@@ -555,7 +555,7 @@
       "name": "Ganesh Chaturthi",
       "name_bn": "Ganesh Chaturthi",
       "description": "Ganesh Chaturthi is the great Ganesha festival that celebrates the birthday of Lord Ganesha during the Hindu Month of Bhadra, which usually falls between mid-August and mid-September. It is also known as Vinayaka Chaturthi and can last up to 10 days.",
-      "description_bn": "Ganesh Chaturthi বাংলাদেশে হিন্দু ধর্মীয় দিন হিসেবে পালিত হয়।",
+      "description_bn": "গণেশ চতুর্থী ভগবান গণেশের জন্মোৎসব। সনাতন ধর্মাবলম্বীরা পূজা, প্রসাদ, ভক্তিগীতি ও মঙ্গল কামনার মাধ্যমে দিনটি পালন করেন।",
       "date": {
         "iso": "2024-09-07",
         "datetime": {
@@ -570,7 +570,7 @@
       "name": "Eid e-Milad-un Nabi",
       "name_bn": "ঈদে মিলাদুন্নবী",
       "description": "Mawlid, or Milad, marks the birth of the Islamic prophet Muhammed, or Mohamed, in the year 570 of the Gregorian calendar.",
-      "description_bn": "মহানবী হযরত মুহাম্মদ (সা.)-এর জন্মদিন স্মরণে ঈদে মিলাদুন্নবী পালিত হয়।",
+      "description_bn": "ঈদে মিলাদুন্নবী মহানবী হযরত মুহাম্মদ (সা.)-এর জন্মদিন স্মরণে পালিত হয়। মিলাদ, দরুদ, আলোচনা ও দোয়ার মাধ্যমে মুসলমানরা দিনটি পালন করেন।",
       "date": {
         "iso": "2024-09-16",
         "datetime": {
@@ -585,7 +585,7 @@
       "name": "Madhu Purnima",
       "name_bn": "মধু পূর্ণিমা",
       "description": "Madhu Purnima is a optional holiday in Bangladesh",
-      "description_bn": "মধু পূর্ণিমা বাংলাদেশে ঐচ্ছিক ছুটি হিসেবে পালিত হয়।",
+      "description_bn": "মধু পূর্ণিমা বৌদ্ধ ধর্মাবলম্বীদের একটি পবিত্র দিন। বুদ্ধের জীবনের করুণা ও দানের শিক্ষা স্মরণে প্রার্থনা, দান ও ধর্মীয় অনুষ্ঠান হয়।",
       "date": {
         "iso": "2024-09-16",
         "datetime": {
@@ -600,7 +600,7 @@
       "name": "September Equinox",
       "name_bn": "সেপ্টেম্বর বিষুব",
       "description": "September Equinox in Bangladesh (Dhaka)",
-      "description_bn": "সেপ্টেম্বর বিষুব বাংলাদেশে ঋতুভিত্তিক দিন হিসেবে পালিত হয়।",
+      "description_bn": "সেপ্টেম্বর বিষুব দিনে দিন ও রাত প্রায় সমান হয়। ঋতুচক্রের পরিবর্তন বোঝাতে জ্যোতির্বৈজ্ঞানিক এই ঘটনাটি গুরুত্ব বহন করে।",
       "date": {
         "iso": "2024-09-22T18:43:33+06:00",
         "datetime": {
@@ -625,7 +625,7 @@
       "name": "Mahalaya",
       "name_bn": "মহালয়া",
       "description": "Mahalaya is a optional holiday in Bangladesh",
-      "description_bn": "মহালয়া বাংলাদেশে ঐচ্ছিক ছুটি হিসেবে পালিত হয়।",
+      "description_bn": "মহালয়া দুর্গাপূজার আগমনী বার্তা বহন করে। দেবী দুর্গার আহ্বান, চণ্ডীপাঠ ও পূর্বপুরুষের তর্পণের মাধ্যমে দিনটি পালন করা হয়।",
       "date": {
         "iso": "2024-10-02",
         "datetime": {
@@ -640,7 +640,7 @@
       "name": "Durga Puja Holiday",
       "name_bn": "দুর্গাপূজার ছুটি",
       "description": "Durga Puja Holiday is a optional holiday in Bangladesh",
-      "description_bn": "দুর্গাপূজার ছুটি বাংলাদেশে ঐচ্ছিক ছুটি হিসেবে পালিত হয়।",
+      "description_bn": "দুর্গাপূজার ছুটি দেবী দুর্গার আরাধনা ঘিরে পালিত হয়। পরিবার, মণ্ডপ ও পূজা-অনুষ্ঠানে অংশ নিতে সনাতন ধর্মাবলম্বীরা এই সময়টি ব্যবহার করেন।",
       "date": {
         "iso": "2024-10-10",
         "datetime": {
@@ -655,7 +655,7 @@
       "name": "Ashtami",
       "name_bn": "অষ্টমী",
       "description": "Ashtami is a optional holiday in Bangladesh",
-      "description_bn": "অষ্টমী বাংলাদেশে ঐচ্ছিক ছুটি হিসেবে পালিত হয়।",
+      "description_bn": "অষ্টমী দুর্গাপূজার অন্যতম গুরুত্বপূর্ণ দিন। এদিন দেবী দুর্গার বিশেষ পূজা, অঞ্জলি ও প্রার্থনার মাধ্যমে সনাতন ধর্মাবলম্বীরা উৎসব পালন করেন।",
       "date": {
         "iso": "2024-10-11",
         "datetime": {
@@ -670,7 +670,7 @@
       "name": "Mahanabami",
       "name_bn": "মহানবমী",
       "description": "Mahanabami is a optional holiday in Bangladesh",
-      "description_bn": "মহানবমী বাংলাদেশে ঐচ্ছিক ছুটি হিসেবে পালিত হয়।",
+      "description_bn": "মহানবমী দুর্গাপূজার গুরুত্বপূর্ণ তিথি। দেবী দুর্গার বিশেষ পূজা, অঞ্জলি ও ধর্মীয় অনুষ্ঠানের মাধ্যমে সনাতন ধর্মাবলম্বীরা দিনটি পালন করেন।",
       "date": {
         "iso": "2024-10-12",
         "datetime": {
@@ -685,7 +685,7 @@
       "name": "Durga Puja",
       "name_bn": "দুর্গাপূজা",
       "description": "Durga Puja is a government holiday in Bangladesh",
-      "description_bn": "সনাতন ধর্মাবলম্বীদের প্রধান ধর্মীয় উৎসব দুর্গাপূজায় দেবী দুর্গার আরাধনা করা হয়।",
+      "description_bn": "দুর্গাপূজা সনাতন ধর্মাবলম্বীদের প্রধান ধর্মীয় উৎসব। দেবী দুর্গার আরাধনা, অঞ্জলি, সাংস্কৃতিক অনুষ্ঠান ও বিজয়ার মাধ্যমে উৎসব সম্পন্ন হয়।",
       "date": {
         "iso": "2024-10-13",
         "datetime": {
@@ -700,7 +700,7 @@
       "name": "Fateha-i-Yajdaham",
       "name_bn": "ফাতেহা-ই-ইয়াজদাহম",
       "description": "Fateha-i-Yajdaham is a optional holiday in Bangladesh",
-      "description_bn": "ফাতেহা-ই-ইয়াজদাহম বাংলাদেশে ঐচ্ছিক ছুটি হিসেবে পালিত হয়।",
+      "description_bn": "ফাতেহা-ই-ইয়াজদাহম বড় পীর হযরত আবদুল কাদের জিলানী (রহ.)-এর স্মরণে পালিত হয়। মুসলমানরা মিলাদ, দোয়া ও ইবাদতের মাধ্যমে দিনটি পালন করেন।",
       "date": {
         "iso": "2024-10-15",
         "datetime": {
@@ -715,7 +715,7 @@
       "name": "Lakshmi Puja",
       "name_bn": "লক্ষ্মী পূজা",
       "description": "Lakshmi Puja is a optional holiday in Bangladesh",
-      "description_bn": "লক্ষ্মী পূজা বাংলাদেশে ঐচ্ছিক ছুটি হিসেবে পালিত হয়।",
+      "description_bn": "লক্ষ্মী পূজা ধন-সম্পদ ও কল্যাণের দেবী লক্ষ্মীর আরাধনা। সনাতন ধর্মাবলম্বীরা পূজা, প্রদীপ ও পারিবারিক আয়োজনে সমৃদ্ধি কামনা করেন।",
       "date": {
         "iso": "2024-10-16",
         "datetime": {
@@ -730,7 +730,7 @@
       "name": "Prabarana Purnima",
       "name_bn": "প্রবারণা পূর্ণিমা",
       "description": "Prabarana Purnima is a optional holiday in Bangladesh",
-      "description_bn": "প্রবারণা পূর্ণিমা বাংলাদেশে ঐচ্ছিক ছুটি হিসেবে পালিত হয়।",
+      "description_bn": "প্রবারণা পূর্ণিমা বৌদ্ধ ধর্মাবলম্বীদের বর্ষাবাস সমাপ্তির দিন। প্রার্থনা, ফানুস উড়ানো, দান ও ধর্মীয় অনুষ্ঠানের মাধ্যমে দিনটি উদযাপিত হয়।",
       "date": {
         "iso": "2024-10-16",
         "datetime": {
@@ -745,7 +745,7 @@
       "name": "Sri Shayama Puja",
       "name_bn": "শ্রী শ্যামা পূজা",
       "description": "Sri Shayama Puja is a optional holiday in Bangladesh",
-      "description_bn": "শ্রী শ্যামা পূজা বাংলাদেশে ঐচ্ছিক ছুটি হিসেবে পালিত হয়।",
+      "description_bn": "শ্রী শ্যামা পূজা দেবী কালীর আরাধনার উৎসব। সনাতন ধর্মাবলম্বীরা পূজা, প্রদীপ, প্রার্থনা ও মঙ্গল কামনার মাধ্যমে দিনটি পালন করেন।",
       "date": {
         "iso": "2024-10-31",
         "datetime": {
@@ -760,7 +760,7 @@
       "name": "Victory Day",
       "name_bn": "বিজয় দিবস",
       "description": "Victory Day is a government holiday in Bangladesh",
-      "description_bn": "১৯৭১ সালের ১৬ ডিসেম্বর বাংলাদেশের বিজয় অর্জনের স্মরণে বিজয় দিবস পালিত হয়।",
+      "description_bn": "বিজয় দিবস ১৯৭১ সালের ১৬ ডিসেম্বর বাংলাদেশের বিজয় অর্জনের স্মরণে পালিত হয়। শহীদদের শ্রদ্ধা, জাতীয় পতাকা ও মুক্তিযুদ্ধের চেতনায় দিনটি উদযাপিত হয়।",
       "date": {
         "iso": "2024-12-16",
         "datetime": {
@@ -775,7 +775,7 @@
       "name": "Christmas Day",
       "name_bn": "বড়দিন",
       "description": "Christmas Day is one of the biggest Christian celebrations and falls on December 25 in the Gregorian calendar.",
-      "description_bn": "যিশু খ্রিস্টের জন্মদিন স্মরণে খ্রিস্টান ধর্মাবলম্বীরা বড়দিন উদযাপন করেন।",
+      "description_bn": "বড়দিন যিশু খ্রিস্টের জন্মদিন স্মরণে খ্রিস্টান ধর্মাবলম্বীদের প্রধান উৎসব। প্রার্থনা, গির্জার অনুষ্ঠান, শুভেচ্ছা বিনিময় ও পারিবারিক আয়োজনে দিনটি পালিত হয়।",
       "date": {
         "iso": "2024-12-25",
         "datetime": {
@@ -790,7 +790,7 @@
       "name": "Shab-e-Meraj",
       "name_bn": "শবে মেরাজ",
       "description": "Isra and Mi'raj (Isra Me'raj, Israa and Mi'raaj, Laylat Al-Isra wa Al-Miraj, Lailat al Miraj, Night Journey and Ascension to Heaven) marks the night that the Prophet Mohammad traveled from Mecca to Jerusalem, ascended to heaven and returned.",
-      "description_bn": "ইসলাম ধর্মের একটি পবিত্র রজনী, যেদিন মহানবী হযরত মুহাম্মদ (সা.) মেরাজে গমন করেন। এই রাতে মুসলমানরা নফল নামাজ, দোয়া ও ইবাদতের মাধ্যমে আল্লাহর নৈকট্য লাভের চেষ্টা করেন।",
+      "description_bn": "শবে মেরাজ ইসলাম ধর্মের একটি পবিত্র রজনী, যেদিন মহানবী হযরত মুহাম্মদ (সা.) মেরাজে গমন করেন। এই রাতে মুসলমানরা নফল নামাজ, দোয়া ও ইবাদতের মাধ্যমে আল্লাহর নৈকট্য লাভের চেষ্টা করেন।",
       "date": {
         "iso": "2025-01-28",
         "datetime": {
@@ -805,7 +805,7 @@
       "name": "Saraswati Puja",
       "name_bn": "সরস্বতী পূজা",
       "description": "Saraswati Puja is a optional holiday in Bangladesh",
-      "description_bn": "সরস্বতী পূজা বাংলাদেশে ঐচ্ছিক ছুটি হিসেবে পালিত হয়।",
+      "description_bn": "সরস্বতী পূজা বিদ্যা ও জ্ঞানের দেবী সরস্বতীর আরাধনা। শিক্ষার্থী ও ভক্তরা পূজা, অঞ্জলি, প্রসাদ ও সাংস্কৃতিক আয়োজনে দিনটি পালন করেন।",
       "date": {
         "iso": "2025-02-03",
         "datetime": {
@@ -820,7 +820,7 @@
       "name": "Maghi Purnima",
       "name_bn": "মাঘী পূর্ণিমা",
       "description": "Maghi Purnima is a optional holiday in Bangladesh",
-      "description_bn": "মাঘী পূর্ণিমা বাংলাদেশে ঐচ্ছিক ছুটি হিসেবে পালিত হয়।",
+      "description_bn": "মাঘী পূর্ণিমা বৌদ্ধ ধর্মাবলম্বীদের পবিত্র পূর্ণিমা তিথি। এদিন প্রার্থনা, ধর্মদেশনা, দান ও শান্তি কামনার মাধ্যমে দিনটি পালিত হয়।",
       "date": {
         "iso": "2025-02-11",
         "datetime": {
@@ -835,7 +835,7 @@
       "name": "Valentine's Day",
       "name_bn": "ভ্যালেন্টাইনস ডে",
       "description": "February 14 is Valentine's Day or Saint Valentine's Feast. The day of love owes its origins to ancient Roman and European Christian traditions.",
-      "description_bn": "ভ্যালেন্টাইনস ডে বাংলাদেশে পালনীয় দিন হিসেবে পালিত হয়।",
+      "description_bn": "ভ্যালেন্টাইনস ডে ভালোবাসা ও স্নেহ প্রকাশের দিন। প্রিয়জন, বন্ধু ও পরিবারের প্রতি শুভেচ্ছা, উপহার ও আন্তরিকতা প্রকাশের মাধ্যমে দিনটি পালিত হয়।",
       "date": {
         "iso": "2025-02-14",
         "datetime": {
@@ -850,7 +850,7 @@
       "name": "Shab e-Barat",
       "name_bn": "শবে বরাত",
       "description": "Shab e-Barat is a government holiday in Bangladesh",
-      "description_bn": "শবে বরাত বাংলাদেশে জাতীয় ছুটি হিসেবে পালিত হয়।",
+      "description_bn": "শবে বরাত মুসলমানদের কাছে ক্ষমা ও বরকতের পবিত্র রজনী। এ রাতে নফল নামাজ, দোয়া, কবর জিয়ারত ও আল্লাহর রহমত কামনা করা হয়।",
       "date": {
         "iso": "2025-02-15",
         "datetime": {
@@ -865,7 +865,7 @@
       "name": "Language Martyrs' Day",
       "name_bn": "শহীদ দিবস ও আন্তর্জাতিক মাতৃভাষা দিবস",
       "description": "Language Martyrs' Day is a government holiday in Bangladesh",
-      "description_bn": "বাংলা ভাষার জন্য জীবন উৎসর্গকারী শহীদদের স্মরণে বাংলাদেশে এই দিনটি পালন করা হয়। দিনটি আন্তর্জাতিক মাতৃভাষা দিবস হিসেবেও বিশ্বজুড়ে পালিত হয়।",
+      "description_bn": "ভাষা শহীদ দিবস বাংলা ভাষার জন্য জীবন উৎসর্গকারী শহীদদের স্মরণে পালিত হয়। শহীদ মিনারে শ্রদ্ধা নিবেদন ও সাংস্কৃতিক আয়োজনে ভাষার মর্যাদা তুলে ধরা হয়।",
       "date": {
         "iso": "2025-02-21",
         "datetime": {
@@ -880,7 +880,7 @@
       "name": "Maha Shivaratri",
       "name_bn": "মহা শিবরাত্রি",
       "description": "Maha Shivratri is an annual festival dedicated to Shiva, the Hindu God of destruction. For devotees, is a day of reflection and meditation.",
-      "description_bn": "মহা শিবরাত্রি বাংলাদেশে হিন্দু ধর্মীয় দিন, ঐচ্ছিক ছুটি হিসেবে পালিত হয়।",
+      "description_bn": "মহা শিবরাত্রি ভগবান শিবের আরাধনার পবিত্র রাত্রি। সনাতন ধর্মাবলম্বীরা উপবাস, পূজা, জাগরণ ও প্রার্থনার মাধ্যমে দিনটি পালন করেন।",
       "date": {
         "iso": "2025-02-26",
         "datetime": {
@@ -895,7 +895,7 @@
       "name": "National Flag Day",
       "name_bn": "জাতীয় পতাকা দিবস",
       "description": "National Flag Day is an observance in Bangladesh",
-      "description_bn": "জাতীয় পতাকা দিবস বাংলাদেশে পালনীয় দিন হিসেবে পালিত হয়।",
+      "description_bn": "জাতীয় পতাকা দিবসে বাংলাদেশের জাতীয় পতাকার ইতিহাস ও মর্যাদা স্মরণ করা হয়। স্বাধীনতা, সার্বভৌমত্ব ও জাতীয় পরিচয়ের প্রতীক হিসেবে পতাকাকে সম্মান জানানো হয়।",
       "date": {
         "iso": "2025-03-02",
         "datetime": {
@@ -910,7 +910,7 @@
       "name": "Ramadan Start",
       "name_bn": "রমজান শুরু",
       "description": "Ramadan is a period of prayer, reflection and fasting for many Muslims worldwide. It is the ninth month in the Islamic calendar.",
-      "description_bn": "রমজান শুরু বাংলাদেশে পালনীয় দিন হিসেবে পালিত হয়।",
+      "description_bn": "রমজান শুরু মুসলমানদের এক মাসের সিয়াম সাধনার সূচনা। ভোর থেকে সূর্যাস্ত পর্যন্ত রোজা, নামাজ, কোরআন তিলাওয়াত ও দানের মাধ্যমে মাসটি পালন করা হয়।",
       "date": {
         "iso": "2025-03-02",
         "datetime": {
@@ -925,7 +925,7 @@
       "name": "Doljatra",
       "name_bn": "Doljatra",
       "description": "Doljatra is an observance in Bangladesh",
-      "description_bn": "Doljatra বাংলাদেশে পালনীয় দিন হিসেবে পালিত হয়।",
+      "description_bn": "দোলযাত্রা সনাতন ধর্মাবলম্বীদের বসন্ত উৎসব। রঙ, আবির, কীর্তন ও শ্রীকৃষ্ণের আরাধনার মাধ্যমে আনন্দঘন পরিবেশে দিনটি পালিত হয়।",
       "date": {
         "iso": "2025-03-13",
         "datetime": {
@@ -940,7 +940,7 @@
       "name": "Holi",
       "name_bn": "দোলযাত্রা",
       "description": "Holi is a spring festival of colors celebrated by Hindus, Sikhs and others. It celebrates the triumph of good over evil and the upcoming season of spring. The festival can last up to sixteen days.",
-      "description_bn": "দোলযাত্রা বাংলাদেশে হিন্দু ধর্মীয় দিন হিসেবে পালিত হয়।",
+      "description_bn": "হোলি রঙের উৎসব এবং বসন্তের আনন্দের প্রতীক। সনাতন ধর্মাবলম্বীরা রঙ, আবির, গান ও সামাজিক মিলনের মাধ্যমে দিনটি উদযাপন করেন।",
       "date": {
         "iso": "2025-03-14",
         "datetime": {
@@ -955,7 +955,7 @@
       "name": "Independence Day",
       "name_bn": "স্বাধীনতা দিবস",
       "description": "Independence Day is a government holiday in Bangladesh",
-      "description_bn": "১৯৭১ সালের ২৬ মার্চ বাংলাদেশের স্বাধীনতার ঘোষণাকে স্মরণ করে স্বাধীনতা দিবস পালিত হয়।",
+      "description_bn": "স্বাধীনতা দিবস ১৯৭১ সালের ২৬ মার্চ বাংলাদেশের স্বাধীনতার ঘোষণাকে স্মরণ করে। জাতীয় পতাকা উত্তোলন, শ্রদ্ধা নিবেদন ও নানা আয়োজনে দিনটি পালিত হয়।",
       "date": {
         "iso": "2025-03-26",
         "datetime": {
@@ -970,7 +970,7 @@
       "name": "Shab-e-qadr",
       "name_bn": "শবে কদর",
       "description": "Laylat al-Qadr commmemorates the time when Mohammad received the first verses of the Koran (Qu'ran).",
-      "description_bn": "শবে কদর বাংলাদেশে জাতীয় ছুটি হিসেবে পালিত হয়।",
+      "description_bn": "শবে কদর রমজানের শেষ দশকের এক মহিমান্বিত রজনী। কোরআন নাজিলের স্মরণে মুসলমানরা রাতভর ইবাদত, দোয়া ও ক্ষমা প্রার্থনা করেন।",
       "date": {
         "iso": "2025-03-28",
         "datetime": {
@@ -985,7 +985,7 @@
       "name": "Eid ul-Fitr Holiday",
       "name_bn": "ঈদুল ফিতরের ছুটি",
       "description": "Eid ul-Fitr Holiday is a national holiday in Bangladesh",
-      "description_bn": "ঈদুল ফিতরের ছুটি বাংলাদেশে জাতীয় ছুটি হিসেবে পালিত হয়।",
+      "description_bn": "ঈদুল ফিতরের ছুটি রমজানের শেষে ঈদ উদযাপনের সময়। মুসলমানরা নামাজ, আত্মীয়স্বজনের সঙ্গে দেখা, দান ও আনন্দ ভাগাভাগির মাধ্যমে দিনগুলো পালন করেন।",
       "date": {
         "iso": "2025-03-29",
         "datetime": {
@@ -1000,7 +1000,7 @@
       "name": "Eid ul-Fitr Holiday",
       "name_bn": "ঈদুল ফিতরের ছুটি",
       "description": "Eid ul-Fitr Holiday is a national holiday in Bangladesh",
-      "description_bn": "ঈদুল ফিতরের ছুটি বাংলাদেশে জাতীয় ছুটি হিসেবে পালিত হয়।",
+      "description_bn": "ঈদুল ফিতরের ছুটি রমজানের শেষে ঈদ উদযাপনের সময়। মুসলমানরা নামাজ, আত্মীয়স্বজনের সঙ্গে দেখা, দান ও আনন্দ ভাগাভাগির মাধ্যমে দিনগুলো পালন করেন।",
       "date": {
         "iso": "2025-03-30",
         "datetime": {
@@ -1015,7 +1015,7 @@
       "name": "Eid ul-Fitr",
       "name_bn": "ঈদুল ফিতর",
       "description": "Eid al-Fitr is a holiday to mark the end of the Islamic month of Ramadan, during which Muslims fast during the hours of daylight.",
-      "description_bn": "রমজান মাসের সিয়াম সাধনা শেষে মুসলমানদের প্রধান ধর্মীয় উৎসব ঈদুল ফিতর উদযাপিত হয়।",
+      "description_bn": "ঈদুল ফিতর রমজান মাসের সিয়াম সাধনা শেষে মুসলমানদের আনন্দের উৎসব। ঈদের নামাজ, ফিতরা, শুভেচ্ছা বিনিময় ও পারিবারিক আয়োজনে দিনটি পালিত হয়।",
       "date": {
         "iso": "2025-03-31",
         "datetime": {
@@ -1030,7 +1030,7 @@
       "name": "Eid ul-Fitr Holiday",
       "name_bn": "ঈদুল ফিতরের ছুটি",
       "description": "Eid ul-Fitr Holiday is a government holiday in Bangladesh",
-      "description_bn": "ঈদুল ফিতরের ছুটি বাংলাদেশে জাতীয় ছুটি হিসেবে পালিত হয়।",
+      "description_bn": "ঈদুল ফিতরের ছুটি রমজানের শেষে ঈদ উদযাপনের সময়। মুসলমানরা নামাজ, আত্মীয়স্বজনের সঙ্গে দেখা, দান ও আনন্দ ভাগাভাগির মাধ্যমে দিনগুলো পালন করেন।",
       "date": {
         "iso": "2025-04-01",
         "datetime": {
@@ -1045,7 +1045,7 @@
       "name": "Eid ul-Fitr Holiday",
       "name_bn": "ঈদুল ফিতরের ছুটি",
       "description": "Eid ul-Fitr Holiday is a government holiday in Bangladesh",
-      "description_bn": "ঈদুল ফিতরের ছুটি বাংলাদেশে জাতীয় ছুটি হিসেবে পালিত হয়।",
+      "description_bn": "ঈদুল ফিতরের ছুটি রমজানের শেষে ঈদ উদযাপনের সময়। মুসলমানরা নামাজ, আত্মীয়স্বজনের সঙ্গে দেখা, দান ও আনন্দ ভাগাভাগির মাধ্যমে দিনগুলো পালন করেন।",
       "date": {
         "iso": "2025-04-02",
         "datetime": {
@@ -1060,7 +1060,7 @@
       "name": "Eid ul-Fitr Holiday",
       "name_bn": "ঈদুল ফিতরের ছুটি",
       "description": "Eid ul-Fitr Holiday is a government holiday in Bangladesh",
-      "description_bn": "ঈদুল ফিতরের ছুটি বাংলাদেশে জাতীয় ছুটি হিসেবে পালিত হয়।",
+      "description_bn": "ঈদুল ফিতরের ছুটি রমজানের শেষে ঈদ উদযাপনের সময়। মুসলমানরা নামাজ, আত্মীয়স্বজনের সঙ্গে দেখা, দান ও আনন্দ ভাগাভাগির মাধ্যমে দিনগুলো পালন করেন।",
       "date": {
         "iso": "2025-04-03",
         "datetime": {
@@ -1075,7 +1075,7 @@
       "name": "Chaitra Sankranti",
       "name_bn": "চৈত্র সংক্রান্তি",
       "description": "Chaitra Sankranti is a optional holiday in Bangladesh",
-      "description_bn": "চৈত্র সংক্রান্তি বাংলাদেশে ঐচ্ছিক ছুটি হিসেবে পালিত হয়।",
+      "description_bn": "চৈত্র সংক্রান্তি বাংলা বছরের শেষ দিন। গ্রামীণ মেলা, লোকাচার ও নানা আচার-অনুষ্ঠানের মাধ্যমে পুরোনো বছরকে বিদায় জানানো হয়।",
       "date": {
         "iso": "2025-04-13",
         "datetime": {
@@ -1090,7 +1090,7 @@
       "name": "Bengali New Year",
       "name_bn": "পহেলা বৈশাখ",
       "description": "Bengali New Year is a government holiday in Bangladesh",
-      "description_bn": "বাংলা সনের প্রথম দিন পহেলা বৈশাখে বাংলাদেশে নববর্ষ উদযাপন করা হয়।",
+      "description_bn": "পহেলা বৈশাখ বাংলা সনের প্রথম দিন। বাংলাদেশে মঙ্গল শোভাযাত্রা, হালখাতা, মেলা ও সাংস্কৃতিক আয়োজনের মাধ্যমে নববর্ষ উদযাপন করা হয়।",
       "date": {
         "iso": "2025-04-14",
         "datetime": {
@@ -1105,7 +1105,7 @@
       "name": "May Day",
       "name_bn": "মে দিবস",
       "description": "Labor Day, International Workers' Day, and May Day, is a day off for workers in many countries around the world.",
-      "description_bn": "শ্রমিকদের অধিকার ও অবদানের স্বীকৃতিতে আন্তর্জাতিক শ্রমিক দিবস পালিত হয়।",
+      "description_bn": "মে দিবস শ্রমিকদের অধিকার ও শ্রমের মর্যাদার আন্তর্জাতিক দিন। শ্রমিক আন্দোলনের ইতিহাস স্মরণ করে ন্যায্য অধিকার ও নিরাপদ কর্মপরিবেশের কথা বলা হয়।",
       "date": {
         "iso": "2025-05-01",
         "datetime": {
@@ -1120,7 +1120,7 @@
       "name": "Buddha Purnima Holiday",
       "name_bn": "বুদ্ধ পূর্ণিমার ছুটি",
       "description": "Buddha Purnima Holiday is a optional holiday in Bangladesh",
-      "description_bn": "বুদ্ধ পূর্ণিমার ছুটি বাংলাদেশে ঐচ্ছিক ছুটি হিসেবে পালিত হয়।",
+      "description_bn": "বুদ্ধ পূর্ণিমার ছুটি গৌতম বুদ্ধের জন্ম, বোধিলাভ ও মহাপরিনির্বাণ স্মরণে পালিত হয়। বৌদ্ধ ধর্মাবলম্বীরা প্রার্থনা, দান ও ধর্মীয় অনুষ্ঠানে অংশ নেন।",
       "date": {
         "iso": "2025-05-10",
         "datetime": {
@@ -1135,7 +1135,7 @@
       "name": "Buddha Purnima/Vesak",
       "name_bn": "বুদ্ধ পূর্ণিমা",
       "description": "Buddha Purnima/Vesak is a government holiday in Bangladesh",
-      "description_bn": "বুদ্ধ পূর্ণিমা বাংলাদেশে জাতীয় ছুটি হিসেবে পালিত হয়।",
+      "description_bn": "বুদ্ধ পূর্ণিমা গৌতম বুদ্ধের জীবনের তিনটি মহৎ ঘটনার স্মারক। এদিন বৌদ্ধরা বিহারে প্রার্থনা, প্রদীপ প্রজ্বালন ও দানশীলতার মাধ্যমে দিনটি পালন করেন।",
       "date": {
         "iso": "2025-05-11",
         "datetime": {
@@ -1150,7 +1150,7 @@
       "name": "Mother's Day",
       "name_bn": "মা দিবস",
       "description": "Mother's Day celebrates the achievements and efforts of mothers and mother figures.",
-      "description_bn": "মা দিবস বাংলাদেশে পালনীয় দিন হিসেবে পালিত হয়।",
+      "description_bn": "মা দিবসে মায়ের ভালোবাসা, ত্যাগ ও অবদানের প্রতি শ্রদ্ধা জানানো হয়। শুভেচ্ছা, উপহার ও পারিবারিক ভালোবাসার মাধ্যমে দিনটি পালন করা হয়।",
       "date": {
         "iso": "2025-05-11",
         "datetime": {
@@ -1165,7 +1165,7 @@
       "name": "Buddha Purnima Holiday",
       "name_bn": "বুদ্ধ পূর্ণিমার ছুটি",
       "description": "Buddha Purnima Holiday is a optional holiday in Bangladesh",
-      "description_bn": "বুদ্ধ পূর্ণিমার ছুটি বাংলাদেশে ঐচ্ছিক ছুটি হিসেবে পালিত হয়।",
+      "description_bn": "বুদ্ধ পূর্ণিমার ছুটি গৌতম বুদ্ধের জন্ম, বোধিলাভ ও মহাপরিনির্বাণ স্মরণে পালিত হয়। বৌদ্ধ ধর্মাবলম্বীরা প্রার্থনা, দান ও ধর্মীয় অনুষ্ঠানে অংশ নেন।",
       "date": {
         "iso": "2025-05-12",
         "datetime": {
@@ -1180,7 +1180,7 @@
       "name": "Eid al-Adha Holiday",
       "name_bn": "ঈদুল আজহার ছুটি",
       "description": "Eid al-Adha Holiday is a government holiday in Bangladesh",
-      "description_bn": "ঈদুল আজহার ছুটি বাংলাদেশে জাতীয় ছুটি হিসেবে পালিত হয়।",
+      "description_bn": "ঈদুল আজহার ছুটি কোরবানি ও ঈদ উদযাপনের ধারাবাহিক সময়। পরিবার, সমাজ ও দরিদ্র মানুষের সঙ্গে কোরবানির মাংস ভাগ করে আনন্দ প্রকাশ করা হয়।",
       "date": {
         "iso": "2025-06-05",
         "datetime": {
@@ -1195,7 +1195,7 @@
       "name": "Eid al-Adha Holiday",
       "name_bn": "ঈদুল আজহার ছুটি",
       "description": "Eid al-Adha Holiday is a government holiday in Bangladesh",
-      "description_bn": "ঈদুল আজহার ছুটি বাংলাদেশে জাতীয় ছুটি হিসেবে পালিত হয়।",
+      "description_bn": "ঈদুল আজহার ছুটি কোরবানি ও ঈদ উদযাপনের ধারাবাহিক সময়। পরিবার, সমাজ ও দরিদ্র মানুষের সঙ্গে কোরবানির মাংস ভাগ করে আনন্দ প্রকাশ করা হয়।",
       "date": {
         "iso": "2025-06-06",
         "datetime": {
@@ -1210,7 +1210,7 @@
       "name": "Eid al-Adha",
       "name_bn": "ঈদুল আজহা",
       "description": "Eid al-Adha (Id ul-Adha) is an Islamic festival falling on the 10th day of the month of Dhul Hijja (Thou al-Hijja) to commemorate the willingness of Ibrahim (Abraham) to sacrifice his son.",
-      "description_bn": "ত্যাগ ও কোরবানির মহিমা স্মরণ করে মুসলমানদের প্রধান ধর্মীয় উৎসব ঈদুল আজহা উদযাপিত হয়।",
+      "description_bn": "ঈদুল আজহা ত্যাগ ও কোরবানির মহিমা স্মরণে মুসলমানদের প্রধান ধর্মীয় উৎসব। নামাজ, কোরবানি, দান ও আত্মীয়স্বজনের সঙ্গে আনন্দ ভাগ করে দিনটি পালিত হয়।",
       "date": {
         "iso": "2025-06-07",
         "datetime": {
@@ -1225,7 +1225,7 @@
       "name": "Eid al-Adha Holiday",
       "name_bn": "ঈদুল আজহার ছুটি",
       "description": "Eid al-Adha Holiday is a government holiday in Bangladesh",
-      "description_bn": "ঈদুল আজহার ছুটি বাংলাদেশে জাতীয় ছুটি হিসেবে পালিত হয়।",
+      "description_bn": "ঈদুল আজহার ছুটি কোরবানি ও ঈদ উদযাপনের ধারাবাহিক সময়। পরিবার, সমাজ ও দরিদ্র মানুষের সঙ্গে কোরবানির মাংস ভাগ করে আনন্দ প্রকাশ করা হয়।",
       "date": {
         "iso": "2025-06-08",
         "datetime": {
@@ -1240,7 +1240,7 @@
       "name": "Eid al-Adha Holiday",
       "name_bn": "ঈদুল আজহার ছুটি",
       "description": "Eid al-Adha Holiday is a government holiday in Bangladesh",
-      "description_bn": "ঈদুল আজহার ছুটি বাংলাদেশে জাতীয় ছুটি হিসেবে পালিত হয়।",
+      "description_bn": "ঈদুল আজহার ছুটি কোরবানি ও ঈদ উদযাপনের ধারাবাহিক সময়। পরিবার, সমাজ ও দরিদ্র মানুষের সঙ্গে কোরবানির মাংস ভাগ করে আনন্দ প্রকাশ করা হয়।",
       "date": {
         "iso": "2025-06-09",
         "datetime": {
@@ -1255,7 +1255,7 @@
       "name": "Eid al-Adha Holiday",
       "name_bn": "ঈদুল আজহার ছুটি",
       "description": "Eid al-Adha Holiday is a government holiday in Bangladesh",
-      "description_bn": "ঈদুল আজহার ছুটি বাংলাদেশে জাতীয় ছুটি হিসেবে পালিত হয়।",
+      "description_bn": "ঈদুল আজহার ছুটি কোরবানি ও ঈদ উদযাপনের ধারাবাহিক সময়। পরিবার, সমাজ ও দরিদ্র মানুষের সঙ্গে কোরবানির মাংস ভাগ করে আনন্দ প্রকাশ করা হয়।",
       "date": {
         "iso": "2025-06-10",
         "datetime": {
@@ -1270,7 +1270,7 @@
       "name": "Eid al-Adha Holiday",
       "name_bn": "ঈদুল আজহার ছুটি",
       "description": "Eid al-Adha Holiday is a optional holiday in Bangladesh",
-      "description_bn": "ঈদুল আজহার ছুটি বাংলাদেশে ঐচ্ছিক ছুটি হিসেবে পালিত হয়।",
+      "description_bn": "ঈদুল আজহার ছুটি কোরবানি ও ঈদ উদযাপনের ধারাবাহিক সময়। পরিবার, সমাজ ও দরিদ্র মানুষের সঙ্গে কোরবানির মাংস ভাগ করে আনন্দ প্রকাশ করা হয়।",
       "date": {
         "iso": "2025-06-11",
         "datetime": {
@@ -1285,7 +1285,7 @@
       "name": "Father's Day",
       "name_bn": "বাবা দিবস",
       "description": "Father's Day celebrates fatherhood and male parenting on different dates worldwide.",
-      "description_bn": "বাবা দিবস বাংলাদেশে পালনীয় দিন হিসেবে পালিত হয়।",
+      "description_bn": "বাবা দিবসে বাবার ভালোবাসা, ত্যাগ ও অবদানের প্রতি কৃতজ্ঞতা প্রকাশ করা হয়। শুভেচ্ছা, উপহার ও পারিবারিক সময়ের মাধ্যমে দিনটি পালিত হয়।",
       "date": {
         "iso": "2025-06-15",
         "datetime": {
@@ -1300,7 +1300,7 @@
       "name": "Muharram",
       "name_bn": "মহররম",
       "description": "Muharram is the first month of the Islamic calendar and a time of remembrance or mourning.",
-      "description_bn": "মহররম বাংলাদেশে পালনীয় দিন হিসেবে পালিত হয়।",
+      "description_bn": "মহররম ইসলামি বর্ষপঞ্জির প্রথম মাস। মুসলমানরা নতুন হিজরি বছর, আত্মসংযম ও কারবালার শিক্ষা স্মরণ করে ধর্মীয় ভাবগাম্ভীর্যে মাসটি পালন করেন।",
       "date": {
         "iso": "2025-06-27",
         "datetime": {
@@ -1315,7 +1315,7 @@
       "name": "July 1 Bank Holiday",
       "name_bn": "১ জুলাই ব্যাংক ছুটি",
       "description": "July 1 Bank Holiday is a bank holiday in Bangladesh",
-      "description_bn": "১ জুলাই ব্যাংক ছুটি বাংলাদেশে পালনীয় দিন হিসেবে পালিত হয়।",
+      "description_bn": "১ জুলাই ব্যাংক ছুটি ব্যাংকিং খাতের নির্ধারিত বার্ষিক ছুটির দিন। এদিন ব্যাংকের নিয়মিত লেনদেন বন্ধ থাকে এবং হিসাব-নিকাশের কাজ সম্পন্ন হয়।",
       "date": {
         "iso": "2025-07-01",
         "datetime": {
@@ -1330,7 +1330,7 @@
       "name": "Ashura",
       "name_bn": "আশুরা",
       "description": "Ashura is a government holiday in Bangladesh",
-      "description_bn": "ইসলামি বর্ষপঞ্জির মহররম মাসের দশম দিনে আশুরা পালিত হয়।",
+      "description_bn": "আশুরা ইসলামি বর্ষপঞ্জির মহররম মাসের দশম দিন। কারবালার শোকাবহ ঘটনা স্মরণে মুসলমানরা দোয়া, রোজা ও ধর্মীয় ভাবগাম্ভীর্যের মাধ্যমে দিনটি পালন করেন।",
       "date": {
         "iso": "2025-07-06",
         "datetime": {
@@ -1345,7 +1345,7 @@
       "name": "Ashari Purnima",
       "name_bn": "আষাঢ়ী পূর্ণিমা",
       "description": "Ashari Purnima is a optional holiday in Bangladesh",
-      "description_bn": "আষাঢ়ী পূর্ণিমা বাংলাদেশে ঐচ্ছিক ছুটি হিসেবে পালিত হয়।",
+      "description_bn": "আষাঢ়ী পূর্ণিমা বৌদ্ধ ধর্মাবলম্বীদের একটি গুরুত্বপূর্ণ তিথি। এই দিনে বুদ্ধের ধর্মদেশনা ও বর্ষাবাসের সূচনার স্মরণে প্রার্থনা ও ধর্মীয় অনুষ্ঠান হয়।",
       "date": {
         "iso": "2025-07-09",
         "datetime": {
@@ -1360,7 +1360,7 @@
       "name": "Student-People Uprising Day",
       "name_bn": "ছাত্র-জনতার অভ্যুত্থান দিবস",
       "description": "Student-People Uprising Day is a government holiday in Bangladesh",
-      "description_bn": "ছাত্র-জনতার অভ্যুত্থান দিবস বাংলাদেশে জাতীয় ছুটি হিসেবে পালিত হয়।",
+      "description_bn": "ছাত্র-জনতার অভ্যুত্থান দিবস জনতার সংগ্রাম ও গণঅভ্যুত্থানের স্মরণে পালিত হয়। গণতান্ত্রিক অধিকার, আত্মত্যাগ ও ঐতিহাসিক পরিবর্তনের গুরুত্ব এদিন স্মরণ করা হয়।",
       "date": {
         "iso": "2025-08-05",
         "datetime": {
@@ -1375,7 +1375,7 @@
       "name": "Janmashtami",
       "name_bn": "জন্মাষ্টমী",
       "description": "Krishna Janmashtami is a Hindu festival that celebrates the birth of Krishna, the eighth incarnation of the god Vishnu. It is celebrated on the eighth day of the Hindu month of Bhadrava (Bhadrapada), which is usually in August or September.",
-      "description_bn": "জন্মাষ্টমী বাংলাদেশে জাতীয় ছুটি, হিন্দু ধর্মীয় দিন হিসেবে পালিত হয়।",
+      "description_bn": "জন্মাষ্টমী ভগবান শ্রীকৃষ্ণের জন্মতিথি। সনাতন ধর্মাবলম্বীরা উপবাস, পূজা, কীর্তন ও ধর্মীয় শোভাযাত্রার মাধ্যমে দিনটি পালন করেন।",
       "date": {
         "iso": "2025-08-16",
         "datetime": {
@@ -1390,7 +1390,7 @@
       "name": "Akhari Chahar Somba",
       "name_bn": "আখেরি চাহার সোম্বা",
       "description": "Akhari Chahar Somba is a optional holiday in Bangladesh",
-      "description_bn": "আখেরি চাহার সোম্বা বাংলাদেশে ঐচ্ছিক ছুটি হিসেবে পালিত হয়।",
+      "description_bn": "আখেরি চাহার সোম্বা ইসলাম ধর্মে সফর মাসের শেষ বুধবারের স্মারক দিন। এদিন মুসলমানরা দোয়া, নফল ইবাদত ও কল্যাণ কামনার মাধ্যমে দিনটি পালন করেন।",
       "date": {
         "iso": "2025-08-20",
         "datetime": {
@@ -1405,7 +1405,7 @@
       "name": "Eid e-Milad-un Nabi",
       "name_bn": "ঈদে মিলাদুন্নবী",
       "description": "Mawlid, or Milad, marks the birth of the Islamic prophet Muhammed, or Mohamed, in the year 570 of the Gregorian calendar.",
-      "description_bn": "মহানবী হযরত মুহাম্মদ (সা.)-এর জন্মদিন স্মরণে ঈদে মিলাদুন্নবী পালিত হয়।",
+      "description_bn": "ঈদে মিলাদুন্নবী মহানবী হযরত মুহাম্মদ (সা.)-এর জন্মদিন স্মরণে পালিত হয়। মিলাদ, দরুদ, আলোচনা ও দোয়ার মাধ্যমে মুসলমানরা দিনটি পালন করেন।",
       "date": {
         "iso": "2025-09-06",
         "datetime": {
@@ -1420,7 +1420,7 @@
       "name": "Madhu Purnima",
       "name_bn": "মধু পূর্ণিমা",
       "description": "Madhu Purnima is a optional holiday in Bangladesh",
-      "description_bn": "মধু পূর্ণিমা বাংলাদেশে ঐচ্ছিক ছুটি হিসেবে পালিত হয়।",
+      "description_bn": "মধু পূর্ণিমা বৌদ্ধ ধর্মাবলম্বীদের একটি পবিত্র দিন। বুদ্ধের জীবনের করুণা ও দানের শিক্ষা স্মরণে প্রার্থনা, দান ও ধর্মীয় অনুষ্ঠান হয়।",
       "date": {
         "iso": "2025-09-06",
         "datetime": {
@@ -1435,7 +1435,7 @@
       "name": "Mahalaya",
       "name_bn": "মহালয়া",
       "description": "Mahalaya is a optional holiday in Bangladesh",
-      "description_bn": "মহালয়া বাংলাদেশে ঐচ্ছিক ছুটি হিসেবে পালিত হয়।",
+      "description_bn": "মহালয়া দুর্গাপূজার আগমনী বার্তা বহন করে। দেবী দুর্গার আহ্বান, চণ্ডীপাঠ ও পূর্বপুরুষের তর্পণের মাধ্যমে দিনটি পালন করা হয়।",
       "date": {
         "iso": "2025-09-21",
         "datetime": {
@@ -1450,7 +1450,7 @@
       "name": "September Equinox",
       "name_bn": "সেপ্টেম্বর বিষুব",
       "description": "September Equinox in Bangladesh (Dhaka)",
-      "description_bn": "সেপ্টেম্বর বিষুব বাংলাদেশে ঋতুভিত্তিক দিন হিসেবে পালিত হয়।",
+      "description_bn": "সেপ্টেম্বর বিষুব দিনে দিন ও রাত প্রায় সমান হয়। ঋতুচক্রের পরিবর্তন বোঝাতে জ্যোতির্বৈজ্ঞানিক এই ঘটনাটি গুরুত্ব বহন করে।",
       "date": {
         "iso": "2025-09-23T00:19:22+06:00",
         "datetime": {
@@ -1475,7 +1475,7 @@
       "name": "Durga Puja Holiday",
       "name_bn": "দুর্গাপূজার ছুটি",
       "description": "Durga Puja Holiday is a optional holiday in Bangladesh",
-      "description_bn": "দুর্গাপূজার ছুটি বাংলাদেশে ঐচ্ছিক ছুটি হিসেবে পালিত হয়।",
+      "description_bn": "দুর্গাপূজার ছুটি দেবী দুর্গার আরাধনা ঘিরে পালিত হয়। পরিবার, মণ্ডপ ও পূজা-অনুষ্ঠানে অংশ নিতে সনাতন ধর্মাবলম্বীরা এই সময়টি ব্যবহার করেন।",
       "date": {
         "iso": "2025-09-29",
         "datetime": {
@@ -1490,7 +1490,7 @@
       "name": "Ashtami",
       "name_bn": "অষ্টমী",
       "description": "Ashtami is a optional holiday in Bangladesh",
-      "description_bn": "অষ্টমী বাংলাদেশে ঐচ্ছিক ছুটি হিসেবে পালিত হয়।",
+      "description_bn": "অষ্টমী দুর্গাপূজার অন্যতম গুরুত্বপূর্ণ দিন। এদিন দেবী দুর্গার বিশেষ পূজা, অঞ্জলি ও প্রার্থনার মাধ্যমে সনাতন ধর্মাবলম্বীরা উৎসব পালন করেন।",
       "date": {
         "iso": "2025-09-30",
         "datetime": {
@@ -1505,7 +1505,7 @@
       "name": "Mahanabami",
       "name_bn": "মহানবমী",
       "description": "Mahanabami is a government holiday in Bangladesh",
-      "description_bn": "মহানবমী বাংলাদেশে জাতীয় ছুটি হিসেবে পালিত হয়।",
+      "description_bn": "মহানবমী দুর্গাপূজার গুরুত্বপূর্ণ তিথি। দেবী দুর্গার বিশেষ পূজা, অঞ্জলি ও ধর্মীয় অনুষ্ঠানের মাধ্যমে সনাতন ধর্মাবলম্বীরা দিনটি পালন করেন।",
       "date": {
         "iso": "2025-10-01",
         "datetime": {
@@ -1520,7 +1520,7 @@
       "name": "Durga Puja",
       "name_bn": "দুর্গাপূজা",
       "description": "Durga Puja is a government holiday in Bangladesh",
-      "description_bn": "সনাতন ধর্মাবলম্বীদের প্রধান ধর্মীয় উৎসব দুর্গাপূজায় দেবী দুর্গার আরাধনা করা হয়।",
+      "description_bn": "দুর্গাপূজা সনাতন ধর্মাবলম্বীদের প্রধান ধর্মীয় উৎসব। দেবী দুর্গার আরাধনা, অঞ্জলি, সাংস্কৃতিক অনুষ্ঠান ও বিজয়ার মাধ্যমে উৎসব সম্পন্ন হয়।",
       "date": {
         "iso": "2025-10-02",
         "datetime": {
@@ -1535,7 +1535,7 @@
       "name": "Fateha-i-Yajdaham",
       "name_bn": "ফাতেহা-ই-ইয়াজদাহম",
       "description": "Fateha-i-Yajdaham is a optional holiday in Bangladesh",
-      "description_bn": "ফাতেহা-ই-ইয়াজদাহম বাংলাদেশে ঐচ্ছিক ছুটি হিসেবে পালিত হয়।",
+      "description_bn": "ফাতেহা-ই-ইয়াজদাহম বড় পীর হযরত আবদুল কাদের জিলানী (রহ.)-এর স্মরণে পালিত হয়। মুসলমানরা মিলাদ, দোয়া ও ইবাদতের মাধ্যমে দিনটি পালন করেন।",
       "date": {
         "iso": "2025-10-04",
         "datetime": {
@@ -1550,7 +1550,7 @@
       "name": "Prabarana Purnima",
       "name_bn": "প্রবারণা পূর্ণিমা",
       "description": "Prabarana Purnima is a optional holiday in Bangladesh",
-      "description_bn": "প্রবারণা পূর্ণিমা বাংলাদেশে ঐচ্ছিক ছুটি হিসেবে পালিত হয়।",
+      "description_bn": "প্রবারণা পূর্ণিমা বৌদ্ধ ধর্মাবলম্বীদের বর্ষাবাস সমাপ্তির দিন। প্রার্থনা, ফানুস উড়ানো, দান ও ধর্মীয় অনুষ্ঠানের মাধ্যমে দিনটি উদযাপিত হয়।",
       "date": {
         "iso": "2025-10-05",
         "datetime": {
@@ -1565,7 +1565,7 @@
       "name": "Lakshmi Puja",
       "name_bn": "লক্ষ্মী পূজা",
       "description": "Lakshmi Puja is a optional holiday in Bangladesh",
-      "description_bn": "লক্ষ্মী পূজা বাংলাদেশে ঐচ্ছিক ছুটি হিসেবে পালিত হয়।",
+      "description_bn": "লক্ষ্মী পূজা ধন-সম্পদ ও কল্যাণের দেবী লক্ষ্মীর আরাধনা। সনাতন ধর্মাবলম্বীরা পূজা, প্রদীপ ও পারিবারিক আয়োজনে সমৃদ্ধি কামনা করেন।",
       "date": {
         "iso": "2025-10-06",
         "datetime": {
@@ -1580,7 +1580,7 @@
       "name": "Sri Shayama Puja",
       "name_bn": "শ্রী শ্যামা পূজা",
       "description": "Sri Shayama Puja is a optional holiday in Bangladesh",
-      "description_bn": "শ্রী শ্যামা পূজা বাংলাদেশে ঐচ্ছিক ছুটি হিসেবে পালিত হয়।",
+      "description_bn": "শ্রী শ্যামা পূজা দেবী কালীর আরাধনার উৎসব। সনাতন ধর্মাবলম্বীরা পূজা, প্রদীপ, প্রার্থনা ও মঙ্গল কামনার মাধ্যমে দিনটি পালন করেন।",
       "date": {
         "iso": "2025-10-20",
         "datetime": {
@@ -1595,7 +1595,7 @@
       "name": "Victory Day",
       "name_bn": "বিজয় দিবস",
       "description": "Victory Day is a government holiday in Bangladesh",
-      "description_bn": "১৯৭১ সালের ১৬ ডিসেম্বর বাংলাদেশের বিজয় অর্জনের স্মরণে বিজয় দিবস পালিত হয়।",
+      "description_bn": "বিজয় দিবস ১৯৭১ সালের ১৬ ডিসেম্বর বাংলাদেশের বিজয় অর্জনের স্মরণে পালিত হয়। শহীদদের শ্রদ্ধা, জাতীয় পতাকা ও মুক্তিযুদ্ধের চেতনায় দিনটি উদযাপিত হয়।",
       "date": {
         "iso": "2025-12-16",
         "datetime": {
@@ -1610,7 +1610,7 @@
       "name": "Christmas Day",
       "name_bn": "বড়দিন",
       "description": "Christmas Day is one of the biggest Christian celebrations and falls on December 25 in the Gregorian calendar.",
-      "description_bn": "যিশু খ্রিস্টের জন্মদিন স্মরণে খ্রিস্টান ধর্মাবলম্বীরা বড়দিন উদযাপন করেন।",
+      "description_bn": "বড়দিন যিশু খ্রিস্টের জন্মদিন স্মরণে খ্রিস্টান ধর্মাবলম্বীদের প্রধান উৎসব। প্রার্থনা, গির্জার অনুষ্ঠান, শুভেচ্ছা বিনিময় ও পারিবারিক আয়োজনে দিনটি পালিত হয়।",
       "date": {
         "iso": "2025-12-25",
         "datetime": {
@@ -1625,7 +1625,7 @@
       "name": "Shab-e-Meraj",
       "name_bn": "শবে মেরাজ",
       "description": "Isra and Mi'raj (Isra Me'raj, Israa and Mi'raaj, Laylat Al-Isra wa Al-Miraj, Lailat al Miraj, Night Journey and Ascension to Heaven) marks the night that the Prophet Mohammad traveled from Mecca to Jerusalem, ascended to heaven and returned.",
-      "description_bn": "ইসলাম ধর্মের একটি পবিত্র রজনী, যেদিন মহানবী হযরত মুহাম্মদ (সা.) মেরাজে গমন করেন। এই রাতে মুসলমানরা নফল নামাজ, দোয়া ও ইবাদতের মাধ্যমে আল্লাহর নৈকট্য লাভের চেষ্টা করেন।",
+      "description_bn": "শবে মেরাজ ইসলাম ধর্মের একটি পবিত্র রজনী, যেদিন মহানবী হযরত মুহাম্মদ (সা.) মেরাজে গমন করেন। এই রাতে মুসলমানরা নফল নামাজ, দোয়া ও ইবাদতের মাধ্যমে আল্লাহর নৈকট্য লাভের চেষ্টা করেন।",
       "date": {
         "iso": "2026-01-17",
         "datetime": {
@@ -1640,7 +1640,7 @@
       "name": "Saraswati Puja",
       "name_bn": "সরস্বতী পূজা",
       "description": "Saraswati Puja is an optional holiday in Bangladesh",
-      "description_bn": "সরস্বতী পূজা বাংলাদেশে ঐচ্ছিক ছুটি হিসেবে পালিত হয়।",
+      "description_bn": "সরস্বতী পূজা বিদ্যা ও জ্ঞানের দেবী সরস্বতীর আরাধনা। শিক্ষার্থী ও ভক্তরা পূজা, অঞ্জলি, প্রসাদ ও সাংস্কৃতিক আয়োজনে দিনটি পালন করেন।",
       "date": {
         "iso": "2026-01-23",
         "datetime": {
@@ -1655,7 +1655,7 @@
       "name": "Maghi Purnima",
       "name_bn": "মাঘী পূর্ণিমা",
       "description": "Maghi Purnima is an optional holiday in Bangladesh",
-      "description_bn": "মাঘী পূর্ণিমা বাংলাদেশে ঐচ্ছিক ছুটি হিসেবে পালিত হয়।",
+      "description_bn": "মাঘী পূর্ণিমা বৌদ্ধ ধর্মাবলম্বীদের পবিত্র পূর্ণিমা তিথি। এদিন প্রার্থনা, ধর্মদেশনা, দান ও শান্তি কামনার মাধ্যমে দিনটি পালিত হয়।",
       "date": {
         "iso": "2026-02-01",
         "datetime": {
@@ -1670,7 +1670,7 @@
       "name": "Shab e-Barat",
       "name_bn": "শবে বরাত",
       "description": "Shab e-Barat is a government holiday in Bangladesh",
-      "description_bn": "শবে বরাত বাংলাদেশে জাতীয় ছুটি হিসেবে পালিত হয়।",
+      "description_bn": "শবে বরাত মুসলমানদের কাছে ক্ষমা ও বরকতের পবিত্র রজনী। এ রাতে নফল নামাজ, দোয়া, কবর জিয়ারত ও আল্লাহর রহমত কামনা করা হয়।",
       "date": {
         "iso": "2026-02-04",
         "datetime": {
@@ -1685,7 +1685,7 @@
       "name": "Election Day",
       "name_bn": "নির্বাচন দিবস",
       "description": "Election Day is a national holiday in Bangladesh",
-      "description_bn": "নির্বাচন দিবস বাংলাদেশে জাতীয় ছুটি হিসেবে পালিত হয়।",
+      "description_bn": "নির্বাচন দিবসে নাগরিকরা ভোটের মাধ্যমে প্রতিনিধি নির্বাচন করেন। গণতান্ত্রিক অধিকার প্রয়োগ ও শান্তিপূর্ণ অংশগ্রহণের জন্য দিনটি গুরুত্বপূর্ণ।",
       "date": {
         "iso": "2026-02-11",
         "datetime": {
@@ -1700,7 +1700,7 @@
       "name": "Election Day Holiday",
       "name_bn": "নির্বাচন দিবসের ছুটি",
       "description": "Election Day Holiday is a national holiday in Bangladesh",
-      "description_bn": "নির্বাচন দিবসের ছুটি বাংলাদেশে জাতীয় ছুটি হিসেবে পালিত হয়।",
+      "description_bn": "নির্বাচন দিবসের ছুটি ভোটারদের ভোটকেন্দ্রে গিয়ে ভোট দেওয়ার সুযোগ করে দেয়। এদিন নাগরিক অংশগ্রহণ ও গণতান্ত্রিক প্রক্রিয়াকে গুরুত্ব দেওয়া হয়।",
       "date": {
         "iso": "2026-02-12",
         "datetime": {
@@ -1715,7 +1715,7 @@
       "name": "Valentine's Day",
       "name_bn": "ভ্যালেন্টাইনস ডে",
       "description": "February 14 is Valentine's Day or Saint Valentine's Feast. The day of love owes its origins to ancient Roman and European Christian traditions.",
-      "description_bn": "ভ্যালেন্টাইনস ডে বাংলাদেশে পালনীয় দিন হিসেবে পালিত হয়।",
+      "description_bn": "ভ্যালেন্টাইনস ডে ভালোবাসা ও স্নেহ প্রকাশের দিন। প্রিয়জন, বন্ধু ও পরিবারের প্রতি শুভেচ্ছা, উপহার ও আন্তরিকতা প্রকাশের মাধ্যমে দিনটি পালিত হয়।",
       "date": {
         "iso": "2026-02-14",
         "datetime": {
@@ -1730,7 +1730,7 @@
       "name": "Maha Shivaratri",
       "name_bn": "মহা শিবরাত্রি",
       "description": "Maha Shivratri is an annual festival dedicated to Shiva, the Hindu God of destruction. For devotees, is a day of reflection and meditation.",
-      "description_bn": "মহা শিবরাত্রি বাংলাদেশে হিন্দু ধর্মীয় দিন, ঐচ্ছিক ছুটি হিসেবে পালিত হয়।",
+      "description_bn": "মহা শিবরাত্রি ভগবান শিবের আরাধনার পবিত্র রাত্রি। সনাতন ধর্মাবলম্বীরা উপবাস, পূজা, জাগরণ ও প্রার্থনার মাধ্যমে দিনটি পালন করেন।",
       "date": {
         "iso": "2026-02-15",
         "datetime": {
@@ -1745,7 +1745,7 @@
       "name": "Ramadan Start",
       "name_bn": "রমজান শুরু",
       "description": "Ramadan is a period of prayer, reflection and fasting for many Muslims worldwide. It is the ninth month in the Islamic calendar.",
-      "description_bn": "রমজান শুরু বাংলাদেশে পালনীয় দিন হিসেবে পালিত হয়।",
+      "description_bn": "রমজান শুরু মুসলমানদের এক মাসের সিয়াম সাধনার সূচনা। ভোর থেকে সূর্যাস্ত পর্যন্ত রোজা, নামাজ, কোরআন তিলাওয়াত ও দানের মাধ্যমে মাসটি পালন করা হয়।",
       "date": {
         "iso": "2026-02-18",
         "datetime": {
@@ -1760,7 +1760,7 @@
       "name": "Language Martyrs' Day",
       "name_bn": "শহীদ দিবস ও আন্তর্জাতিক মাতৃভাষা দিবস",
       "description": "Language Martyrs' Day is a government holiday in Bangladesh",
-      "description_bn": "বাংলা ভাষার জন্য জীবন উৎসর্গকারী শহীদদের স্মরণে বাংলাদেশে এই দিনটি পালন করা হয়। দিনটি আন্তর্জাতিক মাতৃভাষা দিবস হিসেবেও বিশ্বজুড়ে পালিত হয়।",
+      "description_bn": "ভাষা শহীদ দিবস বাংলা ভাষার জন্য জীবন উৎসর্গকারী শহীদদের স্মরণে পালিত হয়। শহীদ মিনারে শ্রদ্ধা নিবেদন ও সাংস্কৃতিক আয়োজনে ভাষার মর্যাদা তুলে ধরা হয়।",
       "date": {
         "iso": "2026-02-21",
         "datetime": {
@@ -1775,7 +1775,7 @@
       "name": "National Flag Day",
       "name_bn": "জাতীয় পতাকা দিবস",
       "description": "National Flag Day is an observance in Bangladesh",
-      "description_bn": "জাতীয় পতাকা দিবস বাংলাদেশে পালনীয় দিন হিসেবে পালিত হয়।",
+      "description_bn": "জাতীয় পতাকা দিবসে বাংলাদেশের জাতীয় পতাকার ইতিহাস ও মর্যাদা স্মরণ করা হয়। স্বাধীনতা, সার্বভৌমত্ব ও জাতীয় পরিচয়ের প্রতীক হিসেবে পতাকাকে সম্মান জানানো হয়।",
       "date": {
         "iso": "2026-03-02",
         "datetime": {
@@ -1790,7 +1790,7 @@
       "name": "Holi",
       "name_bn": "দোলযাত্রা",
       "description": "Holi is a spring festival of colors celebrated by Hindus, Sikhs and others. It celebrates the triumph of good over evil and the upcoming season of spring. The festival can last up to sixteen days.",
-      "description_bn": "দোলযাত্রা বাংলাদেশে ঐচ্ছিক ছুটি হিসেবে পালিত হয়।",
+      "description_bn": "হোলি রঙের উৎসব এবং বসন্তের আনন্দের প্রতীক। সনাতন ধর্মাবলম্বীরা রঙ, আবির, গান ও সামাজিক মিলনের মাধ্যমে দিনটি উদযাপন করেন।",
       "date": {
         "iso": "2026-03-03",
         "datetime": {
@@ -1805,7 +1805,7 @@
       "name": "Shab-e-qadr",
       "name_bn": "শবে কদর",
       "description": "Laylat al-Qadr commemorates the time when Mohammad received the first verses of the Koran (Qu'ran).",
-      "description_bn": "শবে কদর বাংলাদেশে জাতীয় ছুটি হিসেবে পালিত হয়।",
+      "description_bn": "শবে কদর রমজানের শেষ দশকের এক মহিমান্বিত রজনী। কোরআন নাজিলের স্মরণে মুসলমানরা রাতভর ইবাদত, দোয়া ও ক্ষমা প্রার্থনা করেন।",
       "date": {
         "iso": "2026-03-17",
         "datetime": {
@@ -1820,7 +1820,7 @@
       "name": "Eid ul-Fitr Holiday",
       "name_bn": "ঈদুল ফিতরের ছুটি",
       "description": "Eid ul-Fitr Holiday is a government holiday in Bangladesh",
-      "description_bn": "ঈদুল ফিতরের ছুটি বাংলাদেশে জাতীয় ছুটি হিসেবে পালিত হয়।",
+      "description_bn": "ঈদুল ফিতরের ছুটি রমজানের শেষে ঈদ উদযাপনের সময়। মুসলমানরা নামাজ, আত্মীয়স্বজনের সঙ্গে দেখা, দান ও আনন্দ ভাগাভাগির মাধ্যমে দিনগুলো পালন করেন।",
       "date": {
         "iso": "2026-03-19",
         "datetime": {
@@ -1835,7 +1835,7 @@
       "name": "Eid ul-Fitr Holiday",
       "name_bn": "ঈদুল ফিতরের ছুটি",
       "description": "Eid ul-Fitr Holiday is a national holiday in Bangladesh",
-      "description_bn": "ঈদুল ফিতরের ছুটি বাংলাদেশে জাতীয় ছুটি হিসেবে পালিত হয়।",
+      "description_bn": "ঈদুল ফিতরের ছুটি রমজানের শেষে ঈদ উদযাপনের সময়। মুসলমানরা নামাজ, আত্মীয়স্বজনের সঙ্গে দেখা, দান ও আনন্দ ভাগাভাগির মাধ্যমে দিনগুলো পালন করেন।",
       "date": {
         "iso": "2026-03-20",
         "datetime": {
@@ -1850,7 +1850,7 @@
       "name": "Jumatul Bidah",
       "name_bn": "জুমাতুল বিদা",
       "description": "Jumatul Bidah is a government holiday in Bangladesh",
-      "description_bn": "জুমাতুল বিদা বাংলাদেশে জাতীয় ছুটি হিসেবে পালিত হয়।",
+      "description_bn": "জুমাতুল বিদা রমজান মাসের শেষ শুক্রবার। মুসলমানরা জুমার নামাজ, দোয়া ও ইবাদতের মাধ্যমে রমজানের বিদায় মুহূর্তকে গুরুত্বের সঙ্গে পালন করেন।",
       "date": {
         "iso": "2026-03-20",
         "datetime": {
@@ -1865,7 +1865,7 @@
       "name": "Eid ul-Fitr",
       "name_bn": "ঈদুল ফিতর",
       "description": "Eid al-Fitr is a holiday to mark the end of the Islamic month of Ramadan, during which Muslims fast during the hours of daylight.",
-      "description_bn": "রমজান মাসের সিয়াম সাধনা শেষে মুসলমানদের প্রধান ধর্মীয় উৎসব ঈদুল ফিতর উদযাপিত হয়।",
+      "description_bn": "ঈদুল ফিতর রমজান মাসের সিয়াম সাধনা শেষে মুসলমানদের আনন্দের উৎসব। ঈদের নামাজ, ফিতরা, শুভেচ্ছা বিনিময় ও পারিবারিক আয়োজনে দিনটি পালিত হয়।",
       "date": {
         "iso": "2026-03-21",
         "datetime": {
@@ -1880,7 +1880,7 @@
       "name": "Eid ul-Fitr Holiday",
       "name_bn": "ঈদুল ফিতরের ছুটি",
       "description": "Eid ul-Fitr Holiday is a government holiday in Bangladesh",
-      "description_bn": "ঈদুল ফিতরের ছুটি বাংলাদেশে জাতীয় ছুটি হিসেবে পালিত হয়।",
+      "description_bn": "ঈদুল ফিতরের ছুটি রমজানের শেষে ঈদ উদযাপনের সময়। মুসলমানরা নামাজ, আত্মীয়স্বজনের সঙ্গে দেখা, দান ও আনন্দ ভাগাভাগির মাধ্যমে দিনগুলো পালন করেন।",
       "date": {
         "iso": "2026-03-22",
         "datetime": {
@@ -1895,7 +1895,7 @@
       "name": "Eid ul-Fitr Holiday",
       "name_bn": "ঈদুল ফিতরের ছুটি",
       "description": "Eid ul-Fitr Holiday is a government holiday in Bangladesh",
-      "description_bn": "ঈদুল ফিতরের ছুটি বাংলাদেশে জাতীয় ছুটি হিসেবে পালিত হয়।",
+      "description_bn": "ঈদুল ফিতরের ছুটি রমজানের শেষে ঈদ উদযাপনের সময়। মুসলমানরা নামাজ, আত্মীয়স্বজনের সঙ্গে দেখা, দান ও আনন্দ ভাগাভাগির মাধ্যমে দিনগুলো পালন করেন।",
       "date": {
         "iso": "2026-03-23",
         "datetime": {
@@ -1910,7 +1910,7 @@
       "name": "Eid ul-Fitr Holiday",
       "name_bn": "ঈদুল ফিতরের ছুটি",
       "description": "Eid ul-Fitr Holiday is an optional holiday in Bangladesh",
-      "description_bn": "ঈদুল ফিতরের ছুটি বাংলাদেশে ঐচ্ছিক ছুটি হিসেবে পালিত হয়।",
+      "description_bn": "ঈদুল ফিতরের ছুটি রমজানের শেষে ঈদ উদযাপনের সময়। মুসলমানরা নামাজ, আত্মীয়স্বজনের সঙ্গে দেখা, দান ও আনন্দ ভাগাভাগির মাধ্যমে দিনগুলো পালন করেন।",
       "date": {
         "iso": "2026-03-24",
         "datetime": {
@@ -1925,7 +1925,7 @@
       "name": "Independence Day",
       "name_bn": "স্বাধীনতা দিবস",
       "description": "Independence Day is a government holiday in Bangladesh",
-      "description_bn": "১৯৭১ সালের ২৬ মার্চ বাংলাদেশের স্বাধীনতার ঘোষণাকে স্মরণ করে স্বাধীনতা দিবস পালিত হয়।",
+      "description_bn": "স্বাধীনতা দিবস ১৯৭১ সালের ২৬ মার্চ বাংলাদেশের স্বাধীনতার ঘোষণাকে স্মরণ করে। জাতীয় পতাকা উত্তোলন, শ্রদ্ধা নিবেদন ও নানা আয়োজনে দিনটি পালিত হয়।",
       "date": {
         "iso": "2026-03-26",
         "datetime": {
@@ -1940,7 +1940,7 @@
       "name": "Chaitra Sankranti",
       "name_bn": "চৈত্র সংক্রান্তি",
       "description": "Chaitra Sankranti is a government holiday in Bangladesh",
-      "description_bn": "চৈত্র সংক্রান্তি বাংলাদেশে জাতীয় ছুটি হিসেবে পালিত হয়।",
+      "description_bn": "চৈত্র সংক্রান্তি বাংলা বছরের শেষ দিন। গ্রামীণ মেলা, লোকাচার ও নানা আচার-অনুষ্ঠানের মাধ্যমে পুরোনো বছরকে বিদায় জানানো হয়।",
       "date": {
         "iso": "2026-04-13",
         "datetime": {
@@ -1955,7 +1955,7 @@
       "name": "Bengali New Year",
       "name_bn": "পহেলা বৈশাখ",
       "description": "Bengali New Year is a government holiday in Bangladesh",
-      "description_bn": "বাংলা সনের প্রথম দিন পহেলা বৈশাখে বাংলাদেশে নববর্ষ উদযাপন করা হয়।",
+      "description_bn": "পহেলা বৈশাখ বাংলা সনের প্রথম দিন। বাংলাদেশে মঙ্গল শোভাযাত্রা, হালখাতা, মেলা ও সাংস্কৃতিক আয়োজনের মাধ্যমে নববর্ষ উদযাপন করা হয়।",
       "date": {
         "iso": "2026-04-14",
         "datetime": {
@@ -1970,7 +1970,7 @@
       "name": "Buddha Purnima Holiday",
       "name_bn": "বুদ্ধ পূর্ণিমার ছুটি",
       "description": "Buddha Purnima Holiday is an optional holiday in Bangladesh",
-      "description_bn": "বুদ্ধ পূর্ণিমার ছুটি বাংলাদেশে ঐচ্ছিক ছুটি হিসেবে পালিত হয়।",
+      "description_bn": "বুদ্ধ পূর্ণিমার ছুটি গৌতম বুদ্ধের জন্ম, বোধিলাভ ও মহাপরিনির্বাণ স্মরণে পালিত হয়। বৌদ্ধ ধর্মাবলম্বীরা প্রার্থনা, দান ও ধর্মীয় অনুষ্ঠানে অংশ নেন।",
       "date": {
         "iso": "2026-04-30",
         "datetime": {
@@ -1985,7 +1985,7 @@
       "name": "Buddha Purnima/Vesak",
       "name_bn": "বুদ্ধ পূর্ণিমা",
       "description": "Buddha Purnima/Vesak is a government holiday in Bangladesh",
-      "description_bn": "বুদ্ধ পূর্ণিমা বাংলাদেশে জাতীয় ছুটি হিসেবে পালিত হয়।",
+      "description_bn": "বুদ্ধ পূর্ণিমা গৌতম বুদ্ধের জীবনের তিনটি মহৎ ঘটনার স্মারক। এদিন বৌদ্ধরা বিহারে প্রার্থনা, প্রদীপ প্রজ্বালন ও দানশীলতার মাধ্যমে দিনটি পালন করেন।",
       "date": {
         "iso": "2026-05-01",
         "datetime": {
@@ -2000,7 +2000,7 @@
       "name": "May Day",
       "name_bn": "মে দিবস",
       "description": "Labor Day, International Workers' Day, and May Day, is a day off for workers in many countries around the world.",
-      "description_bn": "শ্রমিকদের অধিকার ও অবদানের স্বীকৃতিতে আন্তর্জাতিক শ্রমিক দিবস পালিত হয়।",
+      "description_bn": "মে দিবস শ্রমিকদের অধিকার ও শ্রমের মর্যাদার আন্তর্জাতিক দিন। শ্রমিক আন্দোলনের ইতিহাস স্মরণ করে ন্যায্য অধিকার ও নিরাপদ কর্মপরিবেশের কথা বলা হয়।",
       "date": {
         "iso": "2026-05-01",
         "datetime": {
@@ -2015,7 +2015,7 @@
       "name": "Buddha Purnima Holiday",
       "name_bn": "বুদ্ধ পূর্ণিমার ছুটি",
       "description": "Buddha Purnima Holiday is an optional holiday in Bangladesh",
-      "description_bn": "বুদ্ধ পূর্ণিমার ছুটি বাংলাদেশে ঐচ্ছিক ছুটি হিসেবে পালিত হয়।",
+      "description_bn": "বুদ্ধ পূর্ণিমার ছুটি গৌতম বুদ্ধের জন্ম, বোধিলাভ ও মহাপরিনির্বাণ স্মরণে পালিত হয়। বৌদ্ধ ধর্মাবলম্বীরা প্রার্থনা, দান ও ধর্মীয় অনুষ্ঠানে অংশ নেন।",
       "date": {
         "iso": "2026-05-02",
         "datetime": {
@@ -2030,7 +2030,7 @@
       "name": "Mother's Day",
       "name_bn": "মা দিবস",
       "description": "Mother's Day celebrates the achievements and efforts of mothers and mother figures.",
-      "description_bn": "মা দিবস বাংলাদেশে পালনীয় দিন হিসেবে পালিত হয়।",
+      "description_bn": "মা দিবসে মায়ের ভালোবাসা, ত্যাগ ও অবদানের প্রতি শ্রদ্ধা জানানো হয়। শুভেচ্ছা, উপহার ও পারিবারিক ভালোবাসার মাধ্যমে দিনটি পালন করা হয়।",
       "date": {
         "iso": "2026-05-10",
         "datetime": {
@@ -2045,7 +2045,7 @@
       "name": "Eid al-Adha Holiday",
       "name_bn": "ঈদুল আজহার ছুটি",
       "description": "Eid al-Adha Holiday is a government holiday in Bangladesh",
-      "description_bn": "ঈদুল আজহার ছুটি বাংলাদেশে জাতীয় ছুটি হিসেবে পালিত হয়।",
+      "description_bn": "ঈদুল আজহার ছুটি কোরবানি ও ঈদ উদযাপনের ধারাবাহিক সময়। পরিবার, সমাজ ও দরিদ্র মানুষের সঙ্গে কোরবানির মাংস ভাগ করে আনন্দ প্রকাশ করা হয়।",
       "date": {
         "iso": "2026-05-26",
         "datetime": {
@@ -2060,7 +2060,7 @@
       "name": "Eid al-Adha Holiday",
       "name_bn": "ঈদুল আজহার ছুটি",
       "description": "Eid al-Adha Holiday is a government holiday in Bangladesh",
-      "description_bn": "ঈদুল আজহার ছুটি বাংলাদেশে জাতীয় ছুটি হিসেবে পালিত হয়।",
+      "description_bn": "ঈদুল আজহার ছুটি কোরবানি ও ঈদ উদযাপনের ধারাবাহিক সময়। পরিবার, সমাজ ও দরিদ্র মানুষের সঙ্গে কোরবানির মাংস ভাগ করে আনন্দ প্রকাশ করা হয়।",
       "date": {
         "iso": "2026-05-27",
         "datetime": {
@@ -2075,7 +2075,7 @@
       "name": "Eid al-Adha",
       "name_bn": "ঈদুল আজহা",
       "description": "Eid al-Adha (Id ul-Adha) is an Islamic festival falling on the 10th day of the month of Dhul Hijja (Thou al-Hijja) to commemorate the willingness of Ibrahim (Abraham) to sacrifice his son.",
-      "description_bn": "ত্যাগ ও কোরবানির মহিমা স্মরণ করে মুসলমানদের প্রধান ধর্মীয় উৎসব ঈদুল আজহা উদযাপিত হয়।",
+      "description_bn": "ঈদুল আজহা ত্যাগ ও কোরবানির মহিমা স্মরণে মুসলমানদের প্রধান ধর্মীয় উৎসব। নামাজ, কোরবানি, দান ও আত্মীয়স্বজনের সঙ্গে আনন্দ ভাগ করে দিনটি পালিত হয়।",
       "date": {
         "iso": "2026-05-28",
         "datetime": {
@@ -2090,7 +2090,7 @@
       "name": "Eid al-Adha Holiday",
       "name_bn": "ঈদুল আজহার ছুটি",
       "description": "Eid al-Adha Holiday is a government holiday in Bangladesh",
-      "description_bn": "ঈদুল আজহার ছুটি বাংলাদেশে জাতীয় ছুটি হিসেবে পালিত হয়।",
+      "description_bn": "ঈদুল আজহার ছুটি কোরবানি ও ঈদ উদযাপনের ধারাবাহিক সময়। পরিবার, সমাজ ও দরিদ্র মানুষের সঙ্গে কোরবানির মাংস ভাগ করে আনন্দ প্রকাশ করা হয়।",
       "date": {
         "iso": "2026-05-29",
         "datetime": {
@@ -2105,7 +2105,7 @@
       "name": "Eid al-Adha Holiday",
       "name_bn": "ঈদুল আজহার ছুটি",
       "description": "Eid al-Adha Holiday is a government holiday in Bangladesh",
-      "description_bn": "ঈদুল আজহার ছুটি বাংলাদেশে জাতীয় ছুটি হিসেবে পালিত হয়।",
+      "description_bn": "ঈদুল আজহার ছুটি কোরবানি ও ঈদ উদযাপনের ধারাবাহিক সময়। পরিবার, সমাজ ও দরিদ্র মানুষের সঙ্গে কোরবানির মাংস ভাগ করে আনন্দ প্রকাশ করা হয়।",
       "date": {
         "iso": "2026-05-30",
         "datetime": {
@@ -2120,7 +2120,7 @@
       "name": "Eid al-Adha Holiday",
       "name_bn": "ঈদুল আজহার ছুটি",
       "description": "Eid al-Adha Holiday is a government holiday in Bangladesh",
-      "description_bn": "ঈদুল আজহার ছুটি বাংলাদেশে জাতীয় ছুটি হিসেবে পালিত হয়।",
+      "description_bn": "ঈদুল আজহার ছুটি কোরবানি ও ঈদ উদযাপনের ধারাবাহিক সময়। পরিবার, সমাজ ও দরিদ্র মানুষের সঙ্গে কোরবানির মাংস ভাগ করে আনন্দ প্রকাশ করা হয়।",
       "date": {
         "iso": "2026-05-31",
         "datetime": {
@@ -2135,7 +2135,7 @@
       "name": "Eid al-Adha Holiday",
       "name_bn": "ঈদুল আজহার ছুটি",
       "description": "Eid al-Adha Holiday is an optional holiday in Bangladesh",
-      "description_bn": "ঈদুল আজহার ছুটি বাংলাদেশে ঐচ্ছিক ছুটি হিসেবে পালিত হয়।",
+      "description_bn": "ঈদুল আজহার ছুটি কোরবানি ও ঈদ উদযাপনের ধারাবাহিক সময়। পরিবার, সমাজ ও দরিদ্র মানুষের সঙ্গে কোরবানির মাংস ভাগ করে আনন্দ প্রকাশ করা হয়।",
       "date": {
         "iso": "2026-06-01",
         "datetime": {
@@ -2150,7 +2150,7 @@
       "name": "Muharram",
       "name_bn": "মহররম",
       "description": "Muharram is the first month of the Islamic calendar and a time of remembrance or mourning.",
-      "description_bn": "মহররম বাংলাদেশে জাতীয় ছুটি হিসেবে পালিত হয়।",
+      "description_bn": "মহররম ইসলামি বর্ষপঞ্জির প্রথম মাস। মুসলমানরা নতুন হিজরি বছর, আত্মসংযম ও কারবালার শিক্ষা স্মরণ করে ধর্মীয় ভাবগাম্ভীর্যে মাসটি পালন করেন।",
       "date": {
         "iso": "2026-06-17",
         "datetime": {
@@ -2165,7 +2165,7 @@
       "name": "Father's Day",
       "name_bn": "বাবা দিবস",
       "description": "Father's Day celebrates fatherhood and male parenting on different dates worldwide.",
-      "description_bn": "বাবা দিবস বাংলাদেশে পালনীয় দিন হিসেবে পালিত হয়।",
+      "description_bn": "বাবা দিবসে বাবার ভালোবাসা, ত্যাগ ও অবদানের প্রতি কৃতজ্ঞতা প্রকাশ করা হয়। শুভেচ্ছা, উপহার ও পারিবারিক সময়ের মাধ্যমে দিনটি পালিত হয়।",
       "date": {
         "iso": "2026-06-21",
         "datetime": {
@@ -2180,7 +2180,7 @@
       "name": "Ashura",
       "name_bn": "আশুরা",
       "description": "Ashura is a government holiday in Bangladesh",
-      "description_bn": "ইসলামি বর্ষপঞ্জির মহররম মাসের দশম দিনে আশুরা পালিত হয়।",
+      "description_bn": "আশুরা ইসলামি বর্ষপঞ্জির মহররম মাসের দশম দিন। কারবালার শোকাবহ ঘটনা স্মরণে মুসলমানরা দোয়া, রোজা ও ধর্মীয় ভাবগাম্ভীর্যের মাধ্যমে দিনটি পালন করেন।",
       "date": {
         "iso": "2026-06-26",
         "datetime": {
@@ -2195,7 +2195,7 @@
       "name": "July 1 Bank Holiday",
       "name_bn": "১ জুলাই ব্যাংক ছুটি",
       "description": "July 1 Bank Holiday is a bank holiday in Bangladesh",
-      "description_bn": "১ জুলাই ব্যাংক ছুটি বাংলাদেশে পালনীয় দিন হিসেবে পালিত হয়।",
+      "description_bn": "১ জুলাই ব্যাংক ছুটি ব্যাংকিং খাতের নির্ধারিত বার্ষিক ছুটির দিন। এদিন ব্যাংকের নিয়মিত লেনদেন বন্ধ থাকে এবং হিসাব-নিকাশের কাজ সম্পন্ন হয়।",
       "date": {
         "iso": "2026-07-01",
         "datetime": {
@@ -2210,7 +2210,7 @@
       "name": "Ashari Purnima",
       "name_bn": "আষাঢ়ী পূর্ণিমা",
       "description": "Ashari Purnima is an optional holiday in Bangladesh",
-      "description_bn": "আষাঢ়ী পূর্ণিমা বাংলাদেশে ঐচ্ছিক ছুটি হিসেবে পালিত হয়।",
+      "description_bn": "আষাঢ়ী পূর্ণিমা বৌদ্ধ ধর্মাবলম্বীদের একটি গুরুত্বপূর্ণ তিথি। এই দিনে বুদ্ধের ধর্মদেশনা ও বর্ষাবাসের সূচনার স্মরণে প্রার্থনা ও ধর্মীয় অনুষ্ঠান হয়।",
       "date": {
         "iso": "2026-07-29",
         "datetime": {
@@ -2225,7 +2225,7 @@
       "name": "Student-People Uprising Day",
       "name_bn": "ছাত্র-জনতার অভ্যুত্থান দিবস",
       "description": "Student-People Uprising Day is a government holiday in Bangladesh",
-      "description_bn": "ছাত্র-জনতার অভ্যুত্থান দিবস বাংলাদেশে জাতীয় ছুটি হিসেবে পালিত হয়।",
+      "description_bn": "ছাত্র-জনতার অভ্যুত্থান দিবস জনতার সংগ্রাম ও গণঅভ্যুত্থানের স্মরণে পালিত হয়। গণতান্ত্রিক অধিকার, আত্মত্যাগ ও ঐতিহাসিক পরিবর্তনের গুরুত্ব এদিন স্মরণ করা হয়।",
       "date": {
         "iso": "2026-08-05",
         "datetime": {
@@ -2240,7 +2240,7 @@
       "name": "Akhari Chahar Somba",
       "name_bn": "আখেরি চাহার সোম্বা",
       "description": "Akhari Chahar Somba is an optional holiday in Bangladesh",
-      "description_bn": "আখেরি চাহার সোম্বা বাংলাদেশে ঐচ্ছিক ছুটি হিসেবে পালিত হয়।",
+      "description_bn": "আখেরি চাহার সোম্বা ইসলাম ধর্মে সফর মাসের শেষ বুধবারের স্মারক দিন। এদিন মুসলমানরা দোয়া, নফল ইবাদত ও কল্যাণ কামনার মাধ্যমে দিনটি পালন করেন।",
       "date": {
         "iso": "2026-08-12",
         "datetime": {
@@ -2255,7 +2255,7 @@
       "name": "Eid e-Milad-un Nabi",
       "name_bn": "ঈদে মিলাদুন্নবী",
       "description": "Mawlid, or Milad, marks the birth of the Islamic prophet Muhammed, or Mohamed, in the year 570 of the Gregorian calendar.",
-      "description_bn": "মহানবী হযরত মুহাম্মদ (সা.)-এর জন্মদিন স্মরণে ঈদে মিলাদুন্নবী পালিত হয়।",
+      "description_bn": "ঈদে মিলাদুন্নবী মহানবী হযরত মুহাম্মদ (সা.)-এর জন্মদিন স্মরণে পালিত হয়। মিলাদ, দরুদ, আলোচনা ও দোয়ার মাধ্যমে মুসলমানরা দিনটি পালন করেন।",
       "date": {
         "iso": "2026-08-26",
         "datetime": {
@@ -2270,7 +2270,7 @@
       "name": "Janmashtami",
       "name_bn": "জন্মাষ্টমী",
       "description": "Krishna Janmashtami is a Hindu festival that celebrates the birth of Krishna, the eighth incarnation of the god Vishnu. It is celebrated on the eighth day of the Hindu month of Bhadrava (Bhadrapada), which is usually in August or September.",
-      "description_bn": "জন্মাষ্টমী বাংলাদেশে জাতীয় ছুটি, হিন্দু ধর্মীয় দিন হিসেবে পালিত হয়।",
+      "description_bn": "জন্মাষ্টমী ভগবান শ্রীকৃষ্ণের জন্মতিথি। সনাতন ধর্মাবলম্বীরা উপবাস, পূজা, কীর্তন ও ধর্মীয় শোভাযাত্রার মাধ্যমে দিনটি পালন করেন।",
       "date": {
         "iso": "2026-09-04",
         "datetime": {
@@ -2285,7 +2285,7 @@
       "name": "September Equinox",
       "name_bn": "সেপ্টেম্বর বিষুব",
       "description": "September Equinox in Bangladesh (Dhaka)",
-      "description_bn": "সেপ্টেম্বর বিষুব বাংলাদেশে ঋতুভিত্তিক দিন হিসেবে পালিত হয়।",
+      "description_bn": "সেপ্টেম্বর বিষুব দিনে দিন ও রাত প্রায় সমান হয়। ঋতুচক্রের পরিবর্তন বোঝাতে জ্যোতির্বৈজ্ঞানিক এই ঘটনাটি গুরুত্ব বহন করে।",
       "date": {
         "iso": "2026-09-23T06:05:13+06:00",
         "datetime": {
@@ -2310,7 +2310,7 @@
       "name": "Fateha-i-Yajdaham",
       "name_bn": "ফাতেহা-ই-ইয়াজদাহম",
       "description": "Fateha-i-Yajdaham is an optional holiday in Bangladesh",
-      "description_bn": "ফাতেহা-ই-ইয়াজদাহম বাংলাদেশে ঐচ্ছিক ছুটি হিসেবে পালিত হয়।",
+      "description_bn": "ফাতেহা-ই-ইয়াজদাহম বড় পীর হযরত আবদুল কাদের জিলানী (রহ.)-এর স্মরণে পালিত হয়। মুসলমানরা মিলাদ, দোয়া ও ইবাদতের মাধ্যমে দিনটি পালন করেন।",
       "date": {
         "iso": "2026-09-24",
         "datetime": {
@@ -2325,7 +2325,7 @@
       "name": "Madhu Purnima",
       "name_bn": "মধু পূর্ণিমা",
       "description": "Madhu Purnima is an optional holiday in Bangladesh",
-      "description_bn": "মধু পূর্ণিমা বাংলাদেশে ঐচ্ছিক ছুটি হিসেবে পালিত হয়।",
+      "description_bn": "মধু পূর্ণিমা বৌদ্ধ ধর্মাবলম্বীদের একটি পবিত্র দিন। বুদ্ধের জীবনের করুণা ও দানের শিক্ষা স্মরণে প্রার্থনা, দান ও ধর্মীয় অনুষ্ঠান হয়।",
       "date": {
         "iso": "2026-09-26",
         "datetime": {
@@ -2340,7 +2340,7 @@
       "name": "Mahalaya",
       "name_bn": "মহালয়া",
       "description": "Mahalaya is an optional holiday in Bangladesh",
-      "description_bn": "মহালয়া বাংলাদেশে ঐচ্ছিক ছুটি হিসেবে পালিত হয়।",
+      "description_bn": "মহালয়া দুর্গাপূজার আগমনী বার্তা বহন করে। দেবী দুর্গার আহ্বান, চণ্ডীপাঠ ও পূর্বপুরুষের তর্পণের মাধ্যমে দিনটি পালন করা হয়।",
       "date": {
         "iso": "2026-10-10",
         "datetime": {
@@ -2355,7 +2355,7 @@
       "name": "Durga Puja Holiday",
       "name_bn": "দুর্গাপূজার ছুটি",
       "description": "Durga Puja Holiday is an optional holiday in Bangladesh",
-      "description_bn": "দুর্গাপূজার ছুটি বাংলাদেশে ঐচ্ছিক ছুটি হিসেবে পালিত হয়।",
+      "description_bn": "দুর্গাপূজার ছুটি দেবী দুর্গার আরাধনা ঘিরে পালিত হয়। পরিবার, মণ্ডপ ও পূজা-অনুষ্ঠানে অংশ নিতে সনাতন ধর্মাবলম্বীরা এই সময়টি ব্যবহার করেন।",
       "date": {
         "iso": "2026-10-18",
         "datetime": {
@@ -2370,7 +2370,7 @@
       "name": "Ashtami",
       "name_bn": "অষ্টমী",
       "description": "Ashtami is an optional holiday in Bangladesh",
-      "description_bn": "অষ্টমী বাংলাদেশে ঐচ্ছিক ছুটি হিসেবে পালিত হয়।",
+      "description_bn": "অষ্টমী দুর্গাপূজার অন্যতম গুরুত্বপূর্ণ দিন। এদিন দেবী দুর্গার বিশেষ পূজা, অঞ্জলি ও প্রার্থনার মাধ্যমে সনাতন ধর্মাবলম্বীরা উৎসব পালন করেন।",
       "date": {
         "iso": "2026-10-19",
         "datetime": {
@@ -2385,7 +2385,7 @@
       "name": "Mahanabami",
       "name_bn": "মহানবমী",
       "description": "Mahanabami is a government holiday in Bangladesh",
-      "description_bn": "মহানবমী বাংলাদেশে জাতীয় ছুটি হিসেবে পালিত হয়।",
+      "description_bn": "মহানবমী দুর্গাপূজার গুরুত্বপূর্ণ তিথি। দেবী দুর্গার বিশেষ পূজা, অঞ্জলি ও ধর্মীয় অনুষ্ঠানের মাধ্যমে সনাতন ধর্মাবলম্বীরা দিনটি পালন করেন।",
       "date": {
         "iso": "2026-10-20",
         "datetime": {
@@ -2400,7 +2400,7 @@
       "name": "Durga Puja",
       "name_bn": "দুর্গাপূজা",
       "description": "Durga Puja is a government holiday in Bangladesh",
-      "description_bn": "সনাতন ধর্মাবলম্বীদের প্রধান ধর্মীয় উৎসব দুর্গাপূজায় দেবী দুর্গার আরাধনা করা হয়।",
+      "description_bn": "দুর্গাপূজা সনাতন ধর্মাবলম্বীদের প্রধান ধর্মীয় উৎসব। দেবী দুর্গার আরাধনা, অঞ্জলি, সাংস্কৃতিক অনুষ্ঠান ও বিজয়ার মাধ্যমে উৎসব সম্পন্ন হয়।",
       "date": {
         "iso": "2026-10-21",
         "datetime": {
@@ -2415,7 +2415,7 @@
       "name": "Lakshmi Puja",
       "name_bn": "লক্ষ্মী পূজা",
       "description": "Lakshmi Puja is an optional holiday in Bangladesh",
-      "description_bn": "লক্ষ্মী পূজা বাংলাদেশে ঐচ্ছিক ছুটি হিসেবে পালিত হয়।",
+      "description_bn": "লক্ষ্মী পূজা ধন-সম্পদ ও কল্যাণের দেবী লক্ষ্মীর আরাধনা। সনাতন ধর্মাবলম্বীরা পূজা, প্রদীপ ও পারিবারিক আয়োজনে সমৃদ্ধি কামনা করেন।",
       "date": {
         "iso": "2026-10-25",
         "datetime": {
@@ -2430,7 +2430,7 @@
       "name": "Prabarana Purnima",
       "name_bn": "প্রবারণা পূর্ণিমা",
       "description": "Prabarana Purnima is an optional holiday in Bangladesh",
-      "description_bn": "প্রবারণা পূর্ণিমা বাংলাদেশে ঐচ্ছিক ছুটি হিসেবে পালিত হয়।",
+      "description_bn": "প্রবারণা পূর্ণিমা বৌদ্ধ ধর্মাবলম্বীদের বর্ষাবাস সমাপ্তির দিন। প্রার্থনা, ফানুস উড়ানো, দান ও ধর্মীয় অনুষ্ঠানের মাধ্যমে দিনটি উদযাপিত হয়।",
       "date": {
         "iso": "2026-10-25",
         "datetime": {
@@ -2445,7 +2445,7 @@
       "name": "Sri Shayama Puja",
       "name_bn": "শ্রী শ্যামা পূজা",
       "description": "Sri Shayama Puja is an optional holiday in Bangladesh",
-      "description_bn": "শ্রী শ্যামা পূজা বাংলাদেশে ঐচ্ছিক ছুটি হিসেবে পালিত হয়।",
+      "description_bn": "শ্রী শ্যামা পূজা দেবী কালীর আরাধনার উৎসব। সনাতন ধর্মাবলম্বীরা পূজা, প্রদীপ, প্রার্থনা ও মঙ্গল কামনার মাধ্যমে দিনটি পালন করেন।",
       "date": {
         "iso": "2026-11-08",
         "datetime": {
@@ -2460,7 +2460,7 @@
       "name": "Victory Day",
       "name_bn": "বিজয় দিবস",
       "description": "Victory Day is a government holiday in Bangladesh",
-      "description_bn": "১৯৭১ সালের ১৬ ডিসেম্বর বাংলাদেশের বিজয় অর্জনের স্মরণে বিজয় দিবস পালিত হয়।",
+      "description_bn": "বিজয় দিবস ১৯৭১ সালের ১৬ ডিসেম্বর বাংলাদেশের বিজয় অর্জনের স্মরণে পালিত হয়। শহীদদের শ্রদ্ধা, জাতীয় পতাকা ও মুক্তিযুদ্ধের চেতনায় দিনটি উদযাপিত হয়।",
       "date": {
         "iso": "2026-12-16",
         "datetime": {
@@ -2475,7 +2475,7 @@
       "name": "Christmas Day",
       "name_bn": "বড়দিন",
       "description": "Christmas Day is one of the biggest Christian celebrations and falls on December 25 in the Gregorian calendar.",
-      "description_bn": "যিশু খ্রিস্টের জন্মদিন স্মরণে খ্রিস্টান ধর্মাবলম্বীরা বড়দিন উদযাপন করেন।",
+      "description_bn": "বড়দিন যিশু খ্রিস্টের জন্মদিন স্মরণে খ্রিস্টান ধর্মাবলম্বীদের প্রধান উৎসব। প্রার্থনা, গির্জার অনুষ্ঠান, শুভেচ্ছা বিনিময় ও পারিবারিক আয়োজনে দিনটি পালিত হয়।",
       "date": {
         "iso": "2026-12-25",
         "datetime": {
@@ -2490,7 +2490,7 @@
       "name": "Shab-e-Meraj",
       "name_bn": "শবে মেরাজ",
       "description": "Isra and Mi'raj (Isra Me'raj, Israa and Mi'raaj, Laylat Al-Isra wa Al-Miraj, Lailat al Miraj, Night Journey and Ascension to Heaven) marks the night that the Prophet Mohammad traveled from Mecca to Jerusalem, ascended to heaven and returned.",
-      "description_bn": "ইসলাম ধর্মের একটি পবিত্র রজনী, যেদিন মহানবী হযরত মুহাম্মদ (সা.) মেরাজে গমন করেন। এই রাতে মুসলমানরা নফল নামাজ, দোয়া ও ইবাদতের মাধ্যমে আল্লাহর নৈকট্য লাভের চেষ্টা করেন।",
+      "description_bn": "শবে মেরাজ ইসলাম ধর্মের একটি পবিত্র রজনী, যেদিন মহানবী হযরত মুহাম্মদ (সা.) মেরাজে গমন করেন। এই রাতে মুসলমানরা নফল নামাজ, দোয়া ও ইবাদতের মাধ্যমে আল্লাহর নৈকট্য লাভের চেষ্টা করেন।",
       "date": {
         "iso": "2027-01-06",
         "datetime": {
@@ -2505,7 +2505,7 @@
       "name": "Shab e-Barat",
       "name_bn": "শবে বরাত",
       "description": "Shab e-Barat is a government holiday in Bangladesh",
-      "description_bn": "শবে বরাত বাংলাদেশে জাতীয় ছুটি হিসেবে পালিত হয়।",
+      "description_bn": "শবে বরাত মুসলমানদের কাছে ক্ষমা ও বরকতের পবিত্র রজনী। এ রাতে নফল নামাজ, দোয়া, কবর জিয়ারত ও আল্লাহর রহমত কামনা করা হয়।",
       "date": {
         "iso": "2027-01-24",
         "datetime": {
@@ -2520,7 +2520,7 @@
       "name": "Ramadan Start",
       "name_bn": "রমজান শুরু",
       "description": "Ramadan is a period of prayer, reflection and fasting for many Muslims worldwide. It is the ninth month in the Islamic calendar.",
-      "description_bn": "রমজান শুরু বাংলাদেশে পালনীয় দিন হিসেবে পালিত হয়।",
+      "description_bn": "রমজান শুরু মুসলমানদের এক মাসের সিয়াম সাধনার সূচনা। ভোর থেকে সূর্যাস্ত পর্যন্ত রোজা, নামাজ, কোরআন তিলাওয়াত ও দানের মাধ্যমে মাসটি পালন করা হয়।",
       "date": {
         "iso": "2027-02-08",
         "datetime": {
@@ -2535,7 +2535,7 @@
       "name": "Saraswati Puja",
       "name_bn": "সরস্বতী পূজা",
       "description": "Saraswati Puja is an optional holiday in Bangladesh",
-      "description_bn": "সরস্বতী পূজা বাংলাদেশে ঐচ্ছিক ছুটি হিসেবে পালিত হয়।",
+      "description_bn": "সরস্বতী পূজা বিদ্যা ও জ্ঞানের দেবী সরস্বতীর আরাধনা। শিক্ষার্থী ও ভক্তরা পূজা, অঞ্জলি, প্রসাদ ও সাংস্কৃতিক আয়োজনে দিনটি পালন করেন।",
       "date": {
         "iso": "2027-02-11",
         "datetime": {
@@ -2550,7 +2550,7 @@
       "name": "Valentine's Day",
       "name_bn": "ভ্যালেন্টাইনস ডে",
       "description": "February 14 is Valentine's Day or Saint Valentine's Feast. The day of love owes its origins to ancient Roman and European Christian traditions.",
-      "description_bn": "ভ্যালেন্টাইনস ডে বাংলাদেশে পালনীয় দিন হিসেবে পালিত হয়।",
+      "description_bn": "ভ্যালেন্টাইনস ডে ভালোবাসা ও স্নেহ প্রকাশের দিন। প্রিয়জন, বন্ধু ও পরিবারের প্রতি শুভেচ্ছা, উপহার ও আন্তরিকতা প্রকাশের মাধ্যমে দিনটি পালিত হয়।",
       "date": {
         "iso": "2027-02-14",
         "datetime": {
@@ -2565,7 +2565,7 @@
       "name": "Maghi Purnima",
       "name_bn": "মাঘী পূর্ণিমা",
       "description": "Maghi Purnima is an optional holiday in Bangladesh",
-      "description_bn": "মাঘী পূর্ণিমা বাংলাদেশে ঐচ্ছিক ছুটি হিসেবে পালিত হয়।",
+      "description_bn": "মাঘী পূর্ণিমা বৌদ্ধ ধর্মাবলম্বীদের পবিত্র পূর্ণিমা তিথি। এদিন প্রার্থনা, ধর্মদেশনা, দান ও শান্তি কামনার মাধ্যমে দিনটি পালিত হয়।",
       "date": {
         "iso": "2027-02-20",
         "datetime": {
@@ -2580,7 +2580,7 @@
       "name": "Language Martyrs' Day",
       "name_bn": "শহীদ দিবস ও আন্তর্জাতিক মাতৃভাষা দিবস",
       "description": "Language Martyrs' Day is a government holiday in Bangladesh",
-      "description_bn": "বাংলা ভাষার জন্য জীবন উৎসর্গকারী শহীদদের স্মরণে বাংলাদেশে এই দিনটি পালন করা হয়। দিনটি আন্তর্জাতিক মাতৃভাষা দিবস হিসেবেও বিশ্বজুড়ে পালিত হয়।",
+      "description_bn": "ভাষা শহীদ দিবস বাংলা ভাষার জন্য জীবন উৎসর্গকারী শহীদদের স্মরণে পালিত হয়। শহীদ মিনারে শ্রদ্ধা নিবেদন ও সাংস্কৃতিক আয়োজনে ভাষার মর্যাদা তুলে ধরা হয়।",
       "date": {
         "iso": "2027-02-21",
         "datetime": {
@@ -2595,7 +2595,7 @@
       "name": "National Flag Day",
       "name_bn": "জাতীয় পতাকা দিবস",
       "description": "National Flag Day is an observance in Bangladesh",
-      "description_bn": "জাতীয় পতাকা দিবস বাংলাদেশে পালনীয় দিন হিসেবে পালিত হয়।",
+      "description_bn": "জাতীয় পতাকা দিবসে বাংলাদেশের জাতীয় পতাকার ইতিহাস ও মর্যাদা স্মরণ করা হয়। স্বাধীনতা, সার্বভৌমত্ব ও জাতীয় পরিচয়ের প্রতীক হিসেবে পতাকাকে সম্মান জানানো হয়।",
       "date": {
         "iso": "2027-03-02",
         "datetime": {
@@ -2610,7 +2610,7 @@
       "name": "Jumatul Bidah",
       "name_bn": "জুমাতুল বিদা",
       "description": "Jumatul Bidah is a government holiday in Bangladesh",
-      "description_bn": "জুমাতুল বিদা বাংলাদেশে জাতীয় ছুটি হিসেবে পালিত হয়।",
+      "description_bn": "জুমাতুল বিদা রমজান মাসের শেষ শুক্রবার। মুসলমানরা জুমার নামাজ, দোয়া ও ইবাদতের মাধ্যমে রমজানের বিদায় মুহূর্তকে গুরুত্বের সঙ্গে পালন করেন।",
       "date": {
         "iso": "2027-03-05",
         "datetime": {
@@ -2625,7 +2625,7 @@
       "name": "Maha Shivaratri",
       "name_bn": "মহা শিবরাত্রি",
       "description": "Maha Shivratri is an annual festival dedicated to Shiva, the Hindu God of destruction. For devotees, is a day of reflection and meditation.",
-      "description_bn": "মহা শিবরাত্রি বাংলাদেশে হিন্দু ধর্মীয় দিন, ঐচ্ছিক ছুটি হিসেবে পালিত হয়।",
+      "description_bn": "মহা শিবরাত্রি ভগবান শিবের আরাধনার পবিত্র রাত্রি। সনাতন ধর্মাবলম্বীরা উপবাস, পূজা, জাগরণ ও প্রার্থনার মাধ্যমে দিনটি পালন করেন।",
       "date": {
         "iso": "2027-03-06",
         "datetime": {
@@ -2640,7 +2640,7 @@
       "name": "Shab-e-qadr",
       "name_bn": "শবে কদর",
       "description": "Laylat al-Qadr commemorates the time when Mohammad received the first verses of the Koran (Qu'ran).",
-      "description_bn": "শবে কদর বাংলাদেশে জাতীয় ছুটি হিসেবে পালিত হয়।",
+      "description_bn": "শবে কদর রমজানের শেষ দশকের এক মহিমান্বিত রজনী। কোরআন নাজিলের স্মরণে মুসলমানরা রাতভর ইবাদত, দোয়া ও ক্ষমা প্রার্থনা করেন।",
       "date": {
         "iso": "2027-03-06",
         "datetime": {
@@ -2655,7 +2655,7 @@
       "name": "Eid ul-Fitr Holiday",
       "name_bn": "ঈদুল ফিতরের ছুটি",
       "description": "Eid ul-Fitr Holiday is a government holiday in Bangladesh",
-      "description_bn": "ঈদুল ফিতরের ছুটি বাংলাদেশে জাতীয় ছুটি হিসেবে পালিত হয়।",
+      "description_bn": "ঈদুল ফিতরের ছুটি রমজানের শেষে ঈদ উদযাপনের সময়। মুসলমানরা নামাজ, আত্মীয়স্বজনের সঙ্গে দেখা, দান ও আনন্দ ভাগাভাগির মাধ্যমে দিনগুলো পালন করেন।",
       "date": {
         "iso": "2027-03-08",
         "datetime": {
@@ -2670,7 +2670,7 @@
       "name": "Eid ul-Fitr Holiday",
       "name_bn": "ঈদুল ফিতরের ছুটি",
       "description": "Eid ul-Fitr Holiday is a national holiday in Bangladesh",
-      "description_bn": "ঈদুল ফিতরের ছুটি বাংলাদেশে জাতীয় ছুটি হিসেবে পালিত হয়।",
+      "description_bn": "ঈদুল ফিতরের ছুটি রমজানের শেষে ঈদ উদযাপনের সময়। মুসলমানরা নামাজ, আত্মীয়স্বজনের সঙ্গে দেখা, দান ও আনন্দ ভাগাভাগির মাধ্যমে দিনগুলো পালন করেন।",
       "date": {
         "iso": "2027-03-09",
         "datetime": {
@@ -2685,7 +2685,7 @@
       "name": "Eid ul-Fitr",
       "name_bn": "ঈদুল ফিতর",
       "description": "Eid al-Fitr is a holiday to mark the end of the Islamic month of Ramadan, during which Muslims fast during the hours of daylight.",
-      "description_bn": "রমজান মাসের সিয়াম সাধনা শেষে মুসলমানদের প্রধান ধর্মীয় উৎসব ঈদুল ফিতর উদযাপিত হয়।",
+      "description_bn": "ঈদুল ফিতর রমজান মাসের সিয়াম সাধনা শেষে মুসলমানদের আনন্দের উৎসব। ঈদের নামাজ, ফিতরা, শুভেচ্ছা বিনিময় ও পারিবারিক আয়োজনে দিনটি পালিত হয়।",
       "date": {
         "iso": "2027-03-10",
         "datetime": {
@@ -2700,7 +2700,7 @@
       "name": "Eid ul-Fitr Holiday",
       "name_bn": "ঈদুল ফিতরের ছুটি",
       "description": "Eid ul-Fitr Holiday is a government holiday in Bangladesh",
-      "description_bn": "ঈদুল ফিতরের ছুটি বাংলাদেশে জাতীয় ছুটি হিসেবে পালিত হয়।",
+      "description_bn": "ঈদুল ফিতরের ছুটি রমজানের শেষে ঈদ উদযাপনের সময়। মুসলমানরা নামাজ, আত্মীয়স্বজনের সঙ্গে দেখা, দান ও আনন্দ ভাগাভাগির মাধ্যমে দিনগুলো পালন করেন।",
       "date": {
         "iso": "2027-03-11",
         "datetime": {
@@ -2715,7 +2715,7 @@
       "name": "Eid ul-Fitr Holiday",
       "name_bn": "ঈদুল ফিতরের ছুটি",
       "description": "Eid ul-Fitr Holiday is a government holiday in Bangladesh",
-      "description_bn": "ঈদুল ফিতরের ছুটি বাংলাদেশে জাতীয় ছুটি হিসেবে পালিত হয়।",
+      "description_bn": "ঈদুল ফিতরের ছুটি রমজানের শেষে ঈদ উদযাপনের সময়। মুসলমানরা নামাজ, আত্মীয়স্বজনের সঙ্গে দেখা, দান ও আনন্দ ভাগাভাগির মাধ্যমে দিনগুলো পালন করেন।",
       "date": {
         "iso": "2027-03-12",
         "datetime": {
@@ -2730,7 +2730,7 @@
       "name": "Eid ul-Fitr Holiday",
       "name_bn": "ঈদুল ফিতরের ছুটি",
       "description": "Eid ul-Fitr Holiday is an optional holiday in Bangladesh",
-      "description_bn": "ঈদুল ফিতরের ছুটি বাংলাদেশে ঐচ্ছিক ছুটি হিসেবে পালিত হয়।",
+      "description_bn": "ঈদুল ফিতরের ছুটি রমজানের শেষে ঈদ উদযাপনের সময়। মুসলমানরা নামাজ, আত্মীয়স্বজনের সঙ্গে দেখা, দান ও আনন্দ ভাগাভাগির মাধ্যমে দিনগুলো পালন করেন।",
       "date": {
         "iso": "2027-03-13",
         "datetime": {
@@ -2745,7 +2745,7 @@
       "name": "Holi",
       "name_bn": "দোলযাত্রা",
       "description": "Holi is a spring festival of colors celebrated by Hindus, Sikhs and others. It celebrates the triumph of good over evil and the upcoming season of spring. The festival can last up to sixteen days.",
-      "description_bn": "দোলযাত্রা বাংলাদেশে ঐচ্ছিক ছুটি হিসেবে পালিত হয়।",
+      "description_bn": "হোলি রঙের উৎসব এবং বসন্তের আনন্দের প্রতীক। সনাতন ধর্মাবলম্বীরা রঙ, আবির, গান ও সামাজিক মিলনের মাধ্যমে দিনটি উদযাপন করেন।",
       "date": {
         "iso": "2027-03-22",
         "datetime": {
@@ -2760,7 +2760,7 @@
       "name": "Independence Day",
       "name_bn": "স্বাধীনতা দিবস",
       "description": "Independence Day is a government holiday in Bangladesh",
-      "description_bn": "১৯৭১ সালের ২৬ মার্চ বাংলাদেশের স্বাধীনতার ঘোষণাকে স্মরণ করে স্বাধীনতা দিবস পালিত হয়।",
+      "description_bn": "স্বাধীনতা দিবস ১৯৭১ সালের ২৬ মার্চ বাংলাদেশের স্বাধীনতার ঘোষণাকে স্মরণ করে। জাতীয় পতাকা উত্তোলন, শ্রদ্ধা নিবেদন ও নানা আয়োজনে দিনটি পালিত হয়।",
       "date": {
         "iso": "2027-03-26",
         "datetime": {
@@ -2775,7 +2775,7 @@
       "name": "Chaitra Sankranti",
       "name_bn": "চৈত্র সংক্রান্তি",
       "description": "Chaitra Sankranti is a government holiday in Bangladesh",
-      "description_bn": "চৈত্র সংক্রান্তি বাংলাদেশে জাতীয় ছুটি হিসেবে পালিত হয়।",
+      "description_bn": "চৈত্র সংক্রান্তি বাংলা বছরের শেষ দিন। গ্রামীণ মেলা, লোকাচার ও নানা আচার-অনুষ্ঠানের মাধ্যমে পুরোনো বছরকে বিদায় জানানো হয়।",
       "date": {
         "iso": "2027-04-13",
         "datetime": {
@@ -2790,7 +2790,7 @@
       "name": "Bengali New Year",
       "name_bn": "পহেলা বৈশাখ",
       "description": "Bengali New Year is a government holiday in Bangladesh",
-      "description_bn": "বাংলা সনের প্রথম দিন পহেলা বৈশাখে বাংলাদেশে নববর্ষ উদযাপন করা হয়।",
+      "description_bn": "পহেলা বৈশাখ বাংলা সনের প্রথম দিন। বাংলাদেশে মঙ্গল শোভাযাত্রা, হালখাতা, মেলা ও সাংস্কৃতিক আয়োজনের মাধ্যমে নববর্ষ উদযাপন করা হয়।",
       "date": {
         "iso": "2027-04-14",
         "datetime": {
@@ -2805,7 +2805,7 @@
       "name": "May Day",
       "name_bn": "মে দিবস",
       "description": "Labor Day, International Workers' Day, and May Day, is a day off for workers in many countries around the world.",
-      "description_bn": "শ্রমিকদের অধিকার ও অবদানের স্বীকৃতিতে আন্তর্জাতিক শ্রমিক দিবস পালিত হয়।",
+      "description_bn": "মে দিবস শ্রমিকদের অধিকার ও শ্রমের মর্যাদার আন্তর্জাতিক দিন। শ্রমিক আন্দোলনের ইতিহাস স্মরণ করে ন্যায্য অধিকার ও নিরাপদ কর্মপরিবেশের কথা বলা হয়।",
       "date": {
         "iso": "2027-05-01",
         "datetime": {
@@ -2820,7 +2820,7 @@
       "name": "Mother's Day",
       "name_bn": "মা দিবস",
       "description": "Mother's Day celebrates the achievements and efforts of mothers and mother figures.",
-      "description_bn": "মা দিবস বাংলাদেশে পালনীয় দিন হিসেবে পালিত হয়।",
+      "description_bn": "মা দিবসে মায়ের ভালোবাসা, ত্যাগ ও অবদানের প্রতি শ্রদ্ধা জানানো হয়। শুভেচ্ছা, উপহার ও পারিবারিক ভালোবাসার মাধ্যমে দিনটি পালন করা হয়।",
       "date": {
         "iso": "2027-05-09",
         "datetime": {
@@ -2835,7 +2835,7 @@
       "name": "Eid al-Adha Holiday",
       "name_bn": "ঈদুল আজহার ছুটি",
       "description": "Eid al-Adha Holiday is a government holiday in Bangladesh",
-      "description_bn": "ঈদুল আজহার ছুটি বাংলাদেশে জাতীয় ছুটি হিসেবে পালিত হয়।",
+      "description_bn": "ঈদুল আজহার ছুটি কোরবানি ও ঈদ উদযাপনের ধারাবাহিক সময়। পরিবার, সমাজ ও দরিদ্র মানুষের সঙ্গে কোরবানির মাংস ভাগ করে আনন্দ প্রকাশ করা হয়।",
       "date": {
         "iso": "2027-05-14",
         "datetime": {
@@ -2850,7 +2850,7 @@
       "name": "Eid al-Adha Holiday",
       "name_bn": "ঈদুল আজহার ছুটি",
       "description": "Eid al-Adha Holiday is a government holiday in Bangladesh",
-      "description_bn": "ঈদুল আজহার ছুটি বাংলাদেশে জাতীয় ছুটি হিসেবে পালিত হয়।",
+      "description_bn": "ঈদুল আজহার ছুটি কোরবানি ও ঈদ উদযাপনের ধারাবাহিক সময়। পরিবার, সমাজ ও দরিদ্র মানুষের সঙ্গে কোরবানির মাংস ভাগ করে আনন্দ প্রকাশ করা হয়।",
       "date": {
         "iso": "2027-05-15",
         "datetime": {
@@ -2865,7 +2865,7 @@
       "name": "Eid al-Adha",
       "name_bn": "ঈদুল আজহা",
       "description": "Eid al-Adha (Id ul-Adha) is an Islamic festival falling on the 10th day of the month of Dhul Hijja (Thou al-Hijja) to commemorate the willingness of Ibrahim (Abraham) to sacrifice his son.",
-      "description_bn": "ত্যাগ ও কোরবানির মহিমা স্মরণ করে মুসলমানদের প্রধান ধর্মীয় উৎসব ঈদুল আজহা উদযাপিত হয়।",
+      "description_bn": "ঈদুল আজহা ত্যাগ ও কোরবানির মহিমা স্মরণে মুসলমানদের প্রধান ধর্মীয় উৎসব। নামাজ, কোরবানি, দান ও আত্মীয়স্বজনের সঙ্গে আনন্দ ভাগ করে দিনটি পালিত হয়।",
       "date": {
         "iso": "2027-05-16",
         "datetime": {
@@ -2880,7 +2880,7 @@
       "name": "Eid al-Adha Holiday",
       "name_bn": "ঈদুল আজহার ছুটি",
       "description": "Eid al-Adha Holiday is a government holiday in Bangladesh",
-      "description_bn": "ঈদুল আজহার ছুটি বাংলাদেশে জাতীয় ছুটি হিসেবে পালিত হয়।",
+      "description_bn": "ঈদুল আজহার ছুটি কোরবানি ও ঈদ উদযাপনের ধারাবাহিক সময়। পরিবার, সমাজ ও দরিদ্র মানুষের সঙ্গে কোরবানির মাংস ভাগ করে আনন্দ প্রকাশ করা হয়।",
       "date": {
         "iso": "2027-05-17",
         "datetime": {
@@ -2895,7 +2895,7 @@
       "name": "Eid al-Adha Holiday",
       "name_bn": "ঈদুল আজহার ছুটি",
       "description": "Eid al-Adha Holiday is a government holiday in Bangladesh",
-      "description_bn": "ঈদুল আজহার ছুটি বাংলাদেশে জাতীয় ছুটি হিসেবে পালিত হয়।",
+      "description_bn": "ঈদুল আজহার ছুটি কোরবানি ও ঈদ উদযাপনের ধারাবাহিক সময়। পরিবার, সমাজ ও দরিদ্র মানুষের সঙ্গে কোরবানির মাংস ভাগ করে আনন্দ প্রকাশ করা হয়।",
       "date": {
         "iso": "2027-05-18",
         "datetime": {
@@ -2910,7 +2910,7 @@
       "name": "Buddha Purnima Holiday",
       "name_bn": "বুদ্ধ পূর্ণিমার ছুটি",
       "description": "Buddha Purnima Holiday is an optional holiday in Bangladesh",
-      "description_bn": "বুদ্ধ পূর্ণিমার ছুটি বাংলাদেশে ঐচ্ছিক ছুটি হিসেবে পালিত হয়।",
+      "description_bn": "বুদ্ধ পূর্ণিমার ছুটি গৌতম বুদ্ধের জন্ম, বোধিলাভ ও মহাপরিনির্বাণ স্মরণে পালিত হয়। বৌদ্ধ ধর্মাবলম্বীরা প্রার্থনা, দান ও ধর্মীয় অনুষ্ঠানে অংশ নেন।",
       "date": {
         "iso": "2027-05-19",
         "datetime": {
@@ -2925,7 +2925,7 @@
       "name": "Eid al-Adha Holiday",
       "name_bn": "ঈদুল আজহার ছুটি",
       "description": "Eid al-Adha Holiday is a government holiday in Bangladesh",
-      "description_bn": "ঈদুল আজহার ছুটি বাংলাদেশে জাতীয় ছুটি হিসেবে পালিত হয়।",
+      "description_bn": "ঈদুল আজহার ছুটি কোরবানি ও ঈদ উদযাপনের ধারাবাহিক সময়। পরিবার, সমাজ ও দরিদ্র মানুষের সঙ্গে কোরবানির মাংস ভাগ করে আনন্দ প্রকাশ করা হয়।",
       "date": {
         "iso": "2027-05-19",
         "datetime": {
@@ -2940,7 +2940,7 @@
       "name": "Buddha Purnima/Vesak",
       "name_bn": "বুদ্ধ পূর্ণিমা",
       "description": "Buddha Purnima/Vesak is a government holiday in Bangladesh",
-      "description_bn": "বুদ্ধ পূর্ণিমা বাংলাদেশে জাতীয় ছুটি হিসেবে পালিত হয়।",
+      "description_bn": "বুদ্ধ পূর্ণিমা গৌতম বুদ্ধের জীবনের তিনটি মহৎ ঘটনার স্মারক। এদিন বৌদ্ধরা বিহারে প্রার্থনা, প্রদীপ প্রজ্বালন ও দানশীলতার মাধ্যমে দিনটি পালন করেন।",
       "date": {
         "iso": "2027-05-20",
         "datetime": {
@@ -2955,7 +2955,7 @@
       "name": "Eid al-Adha Holiday",
       "name_bn": "ঈদুল আজহার ছুটি",
       "description": "Eid al-Adha Holiday is an optional holiday in Bangladesh",
-      "description_bn": "ঈদুল আজহার ছুটি বাংলাদেশে ঐচ্ছিক ছুটি হিসেবে পালিত হয়।",
+      "description_bn": "ঈদুল আজহার ছুটি কোরবানি ও ঈদ উদযাপনের ধারাবাহিক সময়। পরিবার, সমাজ ও দরিদ্র মানুষের সঙ্গে কোরবানির মাংস ভাগ করে আনন্দ প্রকাশ করা হয়।",
       "date": {
         "iso": "2027-05-20",
         "datetime": {
@@ -2970,7 +2970,7 @@
       "name": "Buddha Purnima Holiday",
       "name_bn": "বুদ্ধ পূর্ণিমার ছুটি",
       "description": "Buddha Purnima Holiday is an optional holiday in Bangladesh",
-      "description_bn": "বুদ্ধ পূর্ণিমার ছুটি বাংলাদেশে ঐচ্ছিক ছুটি হিসেবে পালিত হয়।",
+      "description_bn": "বুদ্ধ পূর্ণিমার ছুটি গৌতম বুদ্ধের জন্ম, বোধিলাভ ও মহাপরিনির্বাণ স্মরণে পালিত হয়। বৌদ্ধ ধর্মাবলম্বীরা প্রার্থনা, দান ও ধর্মীয় অনুষ্ঠানে অংশ নেন।",
       "date": {
         "iso": "2027-05-21",
         "datetime": {
@@ -2985,7 +2985,7 @@
       "name": "Muharram",
       "name_bn": "মহররম",
       "description": "Muharram is the first month of the Islamic calendar and a time of remembrance or mourning.",
-      "description_bn": "মহররম বাংলাদেশে জাতীয় ছুটি হিসেবে পালিত হয়।",
+      "description_bn": "মহররম ইসলামি বর্ষপঞ্জির প্রথম মাস। মুসলমানরা নতুন হিজরি বছর, আত্মসংযম ও কারবালার শিক্ষা স্মরণ করে ধর্মীয় ভাবগাম্ভীর্যে মাসটি পালন করেন।",
       "date": {
         "iso": "2027-06-06",
         "datetime": {
@@ -3000,7 +3000,7 @@
       "name": "Ashura",
       "name_bn": "আশুরা",
       "description": "Ashura is a government holiday in Bangladesh",
-      "description_bn": "ইসলামি বর্ষপঞ্জির মহররম মাসের দশম দিনে আশুরা পালিত হয়।",
+      "description_bn": "আশুরা ইসলামি বর্ষপঞ্জির মহররম মাসের দশম দিন। কারবালার শোকাবহ ঘটনা স্মরণে মুসলমানরা দোয়া, রোজা ও ধর্মীয় ভাবগাম্ভীর্যের মাধ্যমে দিনটি পালন করেন।",
       "date": {
         "iso": "2027-06-15",
         "datetime": {
@@ -3015,7 +3015,7 @@
       "name": "Father's Day",
       "name_bn": "বাবা দিবস",
       "description": "Father's Day celebrates fatherhood and male parenting on different dates worldwide.",
-      "description_bn": "বাবা দিবস বাংলাদেশে পালনীয় দিন হিসেবে পালিত হয়।",
+      "description_bn": "বাবা দিবসে বাবার ভালোবাসা, ত্যাগ ও অবদানের প্রতি কৃতজ্ঞতা প্রকাশ করা হয়। শুভেচ্ছা, উপহার ও পারিবারিক সময়ের মাধ্যমে দিনটি পালিত হয়।",
       "date": {
         "iso": "2027-06-20",
         "datetime": {
@@ -3030,7 +3030,7 @@
       "name": "July 1 Bank Holiday",
       "name_bn": "১ জুলাই ব্যাংক ছুটি",
       "description": "July 1 Bank Holiday is a bank holiday in Bangladesh",
-      "description_bn": "১ জুলাই ব্যাংক ছুটি বাংলাদেশে পালনীয় দিন হিসেবে পালিত হয়।",
+      "description_bn": "১ জুলাই ব্যাংক ছুটি ব্যাংকিং খাতের নির্ধারিত বার্ষিক ছুটির দিন। এদিন ব্যাংকের নিয়মিত লেনদেন বন্ধ থাকে এবং হিসাব-নিকাশের কাজ সম্পন্ন হয়।",
       "date": {
         "iso": "2027-07-01",
         "datetime": {
@@ -3045,7 +3045,7 @@
       "name": "Ashari Purnima",
       "name_bn": "আষাঢ়ী পূর্ণিমা",
       "description": "Ashari Purnima is an optional holiday in Bangladesh",
-      "description_bn": "আষাঢ়ী পূর্ণিমা বাংলাদেশে ঐচ্ছিক ছুটি হিসেবে পালিত হয়।",
+      "description_bn": "আষাঢ়ী পূর্ণিমা বৌদ্ধ ধর্মাবলম্বীদের একটি গুরুত্বপূর্ণ তিথি। এই দিনে বুদ্ধের ধর্মদেশনা ও বর্ষাবাসের সূচনার স্মরণে প্রার্থনা ও ধর্মীয় অনুষ্ঠান হয়।",
       "date": {
         "iso": "2027-07-18",
         "datetime": {
@@ -3060,7 +3060,7 @@
       "name": "Akhari Chahar Somba",
       "name_bn": "আখেরি চাহার সোম্বা",
       "description": "Akhari Chahar Somba is an optional holiday in Bangladesh",
-      "description_bn": "আখেরি চাহার সোম্বা বাংলাদেশে ঐচ্ছিক ছুটি হিসেবে পালিত হয়।",
+      "description_bn": "আখেরি চাহার সোম্বা ইসলাম ধর্মে সফর মাসের শেষ বুধবারের স্মারক দিন। এদিন মুসলমানরা দোয়া, নফল ইবাদত ও কল্যাণ কামনার মাধ্যমে দিনটি পালন করেন।",
       "date": {
         "iso": "2027-07-28",
         "datetime": {
@@ -3075,7 +3075,7 @@
       "name": "Student-People Uprising Day",
       "name_bn": "ছাত্র-জনতার অভ্যুত্থান দিবস",
       "description": "Student-People Uprising Day is a government holiday in Bangladesh",
-      "description_bn": "ছাত্র-জনতার অভ্যুত্থান দিবস বাংলাদেশে জাতীয় ছুটি হিসেবে পালিত হয়।",
+      "description_bn": "ছাত্র-জনতার অভ্যুত্থান দিবস জনতার সংগ্রাম ও গণঅভ্যুত্থানের স্মরণে পালিত হয়। গণতান্ত্রিক অধিকার, আত্মত্যাগ ও ঐতিহাসিক পরিবর্তনের গুরুত্ব এদিন স্মরণ করা হয়।",
       "date": {
         "iso": "2027-08-05",
         "datetime": {
@@ -3090,7 +3090,7 @@
       "name": "Eid e-Milad-un Nabi",
       "name_bn": "ঈদে মিলাদুন্নবী",
       "description": "Mawlid, or Milad, marks the birth of the Islamic prophet Muhammed, or Mohamed, in the year 570 of the Gregorian calendar.",
-      "description_bn": "মহানবী হযরত মুহাম্মদ (সা.)-এর জন্মদিন স্মরণে ঈদে মিলাদুন্নবী পালিত হয়।",
+      "description_bn": "ঈদে মিলাদুন্নবী মহানবী হযরত মুহাম্মদ (সা.)-এর জন্মদিন স্মরণে পালিত হয়। মিলাদ, দরুদ, আলোচনা ও দোয়ার মাধ্যমে মুসলমানরা দিনটি পালন করেন।",
       "date": {
         "iso": "2027-08-15",
         "datetime": {
@@ -3105,7 +3105,7 @@
       "name": "Janmashtami",
       "name_bn": "জন্মাষ্টমী",
       "description": "Krishna Janmashtami is a Hindu festival that celebrates the birth of Krishna, the eighth incarnation of the god Vishnu. It is celebrated on the eighth day of the Hindu month of Bhadrava (Bhadrapada), which is usually in August or September.",
-      "description_bn": "জন্মাষ্টমী বাংলাদেশে জাতীয় ছুটি, হিন্দু ধর্মীয় দিন হিসেবে পালিত হয়।",
+      "description_bn": "জন্মাষ্টমী ভগবান শ্রীকৃষ্ণের জন্মতিথি। সনাতন ধর্মাবলম্বীরা উপবাস, পূজা, কীর্তন ও ধর্মীয় শোভাযাত্রার মাধ্যমে দিনটি পালন করেন।",
       "date": {
         "iso": "2027-08-25",
         "datetime": {
@@ -3120,7 +3120,7 @@
       "name": "Fateha-i-Yajdaham",
       "name_bn": "ফাতেহা-ই-ইয়াজদাহম",
       "description": "Fateha-i-Yajdaham is an optional holiday in Bangladesh",
-      "description_bn": "ফাতেহা-ই-ইয়াজদাহম বাংলাদেশে ঐচ্ছিক ছুটি হিসেবে পালিত হয়।",
+      "description_bn": "ফাতেহা-ই-ইয়াজদাহম বড় পীর হযরত আবদুল কাদের জিলানী (রহ.)-এর স্মরণে পালিত হয়। মুসলমানরা মিলাদ, দোয়া ও ইবাদতের মাধ্যমে দিনটি পালন করেন।",
       "date": {
         "iso": "2027-09-13",
         "datetime": {
@@ -3135,7 +3135,7 @@
       "name": "Madhu Purnima",
       "name_bn": "মধু পূর্ণিমা",
       "description": "Madhu Purnima is an optional holiday in Bangladesh",
-      "description_bn": "মধু পূর্ণিমা বাংলাদেশে ঐচ্ছিক ছুটি হিসেবে পালিত হয়।",
+      "description_bn": "মধু পূর্ণিমা বৌদ্ধ ধর্মাবলম্বীদের একটি পবিত্র দিন। বুদ্ধের জীবনের করুণা ও দানের শিক্ষা স্মরণে প্রার্থনা, দান ও ধর্মীয় অনুষ্ঠান হয়।",
       "date": {
         "iso": "2027-09-15",
         "datetime": {
@@ -3150,7 +3150,7 @@
       "name": "September Equinox",
       "name_bn": "সেপ্টেম্বর বিষুব",
       "description": "September Equinox in Bangladesh (Dhaka)",
-      "description_bn": "সেপ্টেম্বর বিষুব বাংলাদেশে ঋতুভিত্তিক দিন হিসেবে পালিত হয়।",
+      "description_bn": "সেপ্টেম্বর বিষুব দিনে দিন ও রাত প্রায় সমান হয়। ঋতুচক্রের পরিবর্তন বোঝাতে জ্যোতির্বৈজ্ঞানিক এই ঘটনাটি গুরুত্ব বহন করে।",
       "date": {
         "iso": "2027-09-23T12:02:00+06:00",
         "datetime": {
@@ -3175,7 +3175,7 @@
       "name": "Mahalaya",
       "name_bn": "মহালয়া",
       "description": "Mahalaya is an optional holiday in Bangladesh",
-      "description_bn": "মহালয়া বাংলাদেশে ঐচ্ছিক ছুটি হিসেবে পালিত হয়।",
+      "description_bn": "মহালয়া দুর্গাপূজার আগমনী বার্তা বহন করে। দেবী দুর্গার আহ্বান, চণ্ডীপাঠ ও পূর্বপুরুষের তর্পণের মাধ্যমে দিনটি পালন করা হয়।",
       "date": {
         "iso": "2027-09-29",
         "datetime": {
@@ -3190,7 +3190,7 @@
       "name": "Durga Puja Holiday",
       "name_bn": "দুর্গাপূজার ছুটি",
       "description": "Durga Puja Holiday is an optional holiday in Bangladesh",
-      "description_bn": "দুর্গাপূজার ছুটি বাংলাদেশে ঐচ্ছিক ছুটি হিসেবে পালিত হয়।",
+      "description_bn": "দুর্গাপূজার ছুটি দেবী দুর্গার আরাধনা ঘিরে পালিত হয়। পরিবার, মণ্ডপ ও পূজা-অনুষ্ঠানে অংশ নিতে সনাতন ধর্মাবলম্বীরা এই সময়টি ব্যবহার করেন।",
       "date": {
         "iso": "2027-10-07",
         "datetime": {
@@ -3205,7 +3205,7 @@
       "name": "Ashtami",
       "name_bn": "অষ্টমী",
       "description": "Ashtami is an optional holiday in Bangladesh",
-      "description_bn": "অষ্টমী বাংলাদেশে ঐচ্ছিক ছুটি হিসেবে পালিত হয়।",
+      "description_bn": "অষ্টমী দুর্গাপূজার অন্যতম গুরুত্বপূর্ণ দিন। এদিন দেবী দুর্গার বিশেষ পূজা, অঞ্জলি ও প্রার্থনার মাধ্যমে সনাতন ধর্মাবলম্বীরা উৎসব পালন করেন।",
       "date": {
         "iso": "2027-10-08",
         "datetime": {
@@ -3220,7 +3220,7 @@
       "name": "Mahanabami",
       "name_bn": "মহানবমী",
       "description": "Mahanabami is a government holiday in Bangladesh",
-      "description_bn": "মহানবমী বাংলাদেশে জাতীয় ছুটি হিসেবে পালিত হয়।",
+      "description_bn": "মহানবমী দুর্গাপূজার গুরুত্বপূর্ণ তিথি। দেবী দুর্গার বিশেষ পূজা, অঞ্জলি ও ধর্মীয় অনুষ্ঠানের মাধ্যমে সনাতন ধর্মাবলম্বীরা দিনটি পালন করেন।",
       "date": {
         "iso": "2027-10-09",
         "datetime": {
@@ -3235,7 +3235,7 @@
       "name": "Durga Puja",
       "name_bn": "দুর্গাপূজা",
       "description": "Durga Puja is a government holiday in Bangladesh",
-      "description_bn": "সনাতন ধর্মাবলম্বীদের প্রধান ধর্মীয় উৎসব দুর্গাপূজায় দেবী দুর্গার আরাধনা করা হয়।",
+      "description_bn": "দুর্গাপূজা সনাতন ধর্মাবলম্বীদের প্রধান ধর্মীয় উৎসব। দেবী দুর্গার আরাধনা, অঞ্জলি, সাংস্কৃতিক অনুষ্ঠান ও বিজয়ার মাধ্যমে উৎসব সম্পন্ন হয়।",
       "date": {
         "iso": "2027-10-10",
         "datetime": {
@@ -3250,7 +3250,7 @@
       "name": "Lakshmi Puja",
       "name_bn": "লক্ষ্মী পূজা",
       "description": "Lakshmi Puja is an optional holiday in Bangladesh",
-      "description_bn": "লক্ষ্মী পূজা বাংলাদেশে ঐচ্ছিক ছুটি হিসেবে পালিত হয়।",
+      "description_bn": "লক্ষ্মী পূজা ধন-সম্পদ ও কল্যাণের দেবী লক্ষ্মীর আরাধনা। সনাতন ধর্মাবলম্বীরা পূজা, প্রদীপ ও পারিবারিক আয়োজনে সমৃদ্ধি কামনা করেন।",
       "date": {
         "iso": "2027-10-14",
         "datetime": {
@@ -3265,7 +3265,7 @@
       "name": "Prabarana Purnima",
       "name_bn": "প্রবারণা পূর্ণিমা",
       "description": "Prabarana Purnima is an optional holiday in Bangladesh",
-      "description_bn": "প্রবারণা পূর্ণিমা বাংলাদেশে ঐচ্ছিক ছুটি হিসেবে পালিত হয়।",
+      "description_bn": "প্রবারণা পূর্ণিমা বৌদ্ধ ধর্মাবলম্বীদের বর্ষাবাস সমাপ্তির দিন। প্রার্থনা, ফানুস উড়ানো, দান ও ধর্মীয় অনুষ্ঠানের মাধ্যমে দিনটি উদযাপিত হয়।",
       "date": {
         "iso": "2027-10-14",
         "datetime": {
@@ -3280,7 +3280,7 @@
       "name": "Sri Shayama Puja",
       "name_bn": "শ্রী শ্যামা পূজা",
       "description": "Sri Shayama Puja is an optional holiday in Bangladesh",
-      "description_bn": "শ্রী শ্যামা পূজা বাংলাদেশে ঐচ্ছিক ছুটি হিসেবে পালিত হয়।",
+      "description_bn": "শ্রী শ্যামা পূজা দেবী কালীর আরাধনার উৎসব। সনাতন ধর্মাবলম্বীরা পূজা, প্রদীপ, প্রার্থনা ও মঙ্গল কামনার মাধ্যমে দিনটি পালন করেন।",
       "date": {
         "iso": "2027-10-28",
         "datetime": {
@@ -3295,7 +3295,7 @@
       "name": "Victory Day",
       "name_bn": "বিজয় দিবস",
       "description": "Victory Day is a government holiday in Bangladesh",
-      "description_bn": "১৯৭১ সালের ১৬ ডিসেম্বর বাংলাদেশের বিজয় অর্জনের স্মরণে বিজয় দিবস পালিত হয়।",
+      "description_bn": "বিজয় দিবস ১৯৭১ সালের ১৬ ডিসেম্বর বাংলাদেশের বিজয় অর্জনের স্মরণে পালিত হয়। শহীদদের শ্রদ্ধা, জাতীয় পতাকা ও মুক্তিযুদ্ধের চেতনায় দিনটি উদযাপিত হয়।",
       "date": {
         "iso": "2027-12-16",
         "datetime": {
@@ -3310,7 +3310,7 @@
       "name": "Christmas Day",
       "name_bn": "বড়দিন",
       "description": "Christmas Day is one of the biggest Christian celebrations and falls on December 25 in the Gregorian calendar.",
-      "description_bn": "যিশু খ্রিস্টের জন্মদিন স্মরণে খ্রিস্টান ধর্মাবলম্বীরা বড়দিন উদযাপন করেন।",
+      "description_bn": "বড়দিন যিশু খ্রিস্টের জন্মদিন স্মরণে খ্রিস্টান ধর্মাবলম্বীদের প্রধান উৎসব। প্রার্থনা, গির্জার অনুষ্ঠান, শুভেচ্ছা বিনিময় ও পারিবারিক আয়োজনে দিনটি পালিত হয়।",
       "date": {
         "iso": "2027-12-25",
         "datetime": {
@@ -3325,7 +3325,7 @@
       "name": "Shab e-Barat",
       "name_bn": "শবে বরাত",
       "description": "Shab e-Barat is a government holiday in Bangladesh",
-      "description_bn": "শবে বরাত বাংলাদেশে জাতীয় ছুটি হিসেবে পালিত হয়।",
+      "description_bn": "শবে বরাত মুসলমানদের কাছে ক্ষমা ও বরকতের পবিত্র রজনী। এ রাতে নফল নামাজ, দোয়া, কবর জিয়ারত ও আল্লাহর রহমত কামনা করা হয়।",
       "date": {
         "iso": "2028-01-13",
         "datetime": {
@@ -3340,7 +3340,7 @@
       "name": "Ramadan Start",
       "name_bn": "রমজান শুরু",
       "description": "Ramadan is a period of prayer, reflection and fasting for many Muslims worldwide. It is the ninth month in the Islamic calendar.",
-      "description_bn": "রমজান শুরু বাংলাদেশে পালনীয় দিন হিসেবে পালিত হয়।",
+      "description_bn": "রমজান শুরু মুসলমানদের এক মাসের সিয়াম সাধনার সূচনা। ভোর থেকে সূর্যাস্ত পর্যন্ত রোজা, নামাজ, কোরআন তিলাওয়াত ও দানের মাধ্যমে মাসটি পালন করা হয়।",
       "date": {
         "iso": "2028-01-28",
         "datetime": {
@@ -3355,7 +3355,7 @@
       "name": "Saraswati Puja",
       "name_bn": "সরস্বতী পূজা",
       "description": "Saraswati Puja is an optional holiday in Bangladesh",
-      "description_bn": "সরস্বতী পূজা বাংলাদেশে ঐচ্ছিক ছুটি হিসেবে পালিত হয়।",
+      "description_bn": "সরস্বতী পূজা বিদ্যা ও জ্ঞানের দেবী সরস্বতীর আরাধনা। শিক্ষার্থী ও ভক্তরা পূজা, অঞ্জলি, প্রসাদ ও সাংস্কৃতিক আয়োজনে দিনটি পালন করেন।",
       "date": {
         "iso": "2028-01-31",
         "datetime": {
@@ -3370,7 +3370,7 @@
       "name": "Maghi Purnima",
       "name_bn": "মাঘী পূর্ণিমা",
       "description": "Maghi Purnima is an optional holiday in Bangladesh",
-      "description_bn": "মাঘী পূর্ণিমা বাংলাদেশে ঐচ্ছিক ছুটি হিসেবে পালিত হয়।",
+      "description_bn": "মাঘী পূর্ণিমা বৌদ্ধ ধর্মাবলম্বীদের পবিত্র পূর্ণিমা তিথি। এদিন প্রার্থনা, ধর্মদেশনা, দান ও শান্তি কামনার মাধ্যমে দিনটি পালিত হয়।",
       "date": {
         "iso": "2028-02-10",
         "datetime": {
@@ -3385,7 +3385,7 @@
       "name": "Valentine's Day",
       "name_bn": "ভ্যালেন্টাইনস ডে",
       "description": "February 14 is Valentine's Day or Saint Valentine's Feast. The day of love owes its origins to ancient Roman and European Christian traditions.",
-      "description_bn": "ভ্যালেন্টাইনস ডে বাংলাদেশে পালনীয় দিন হিসেবে পালিত হয়।",
+      "description_bn": "ভ্যালেন্টাইনস ডে ভালোবাসা ও স্নেহ প্রকাশের দিন। প্রিয়জন, বন্ধু ও পরিবারের প্রতি শুভেচ্ছা, উপহার ও আন্তরিকতা প্রকাশের মাধ্যমে দিনটি পালিত হয়।",
       "date": {
         "iso": "2028-02-14",
         "datetime": {
@@ -3400,7 +3400,7 @@
       "name": "Language Martyrs' Day",
       "name_bn": "শহীদ দিবস ও আন্তর্জাতিক মাতৃভাষা দিবস",
       "description": "Language Martyrs' Day is a government holiday in Bangladesh",
-      "description_bn": "বাংলা ভাষার জন্য জীবন উৎসর্গকারী শহীদদের স্মরণে বাংলাদেশে এই দিনটি পালন করা হয়। দিনটি আন্তর্জাতিক মাতৃভাষা দিবস হিসেবেও বিশ্বজুড়ে পালিত হয়।",
+      "description_bn": "ভাষা শহীদ দিবস বাংলা ভাষার জন্য জীবন উৎসর্গকারী শহীদদের স্মরণে পালিত হয়। শহীদ মিনারে শ্রদ্ধা নিবেদন ও সাংস্কৃতিক আয়োজনে ভাষার মর্যাদা তুলে ধরা হয়।",
       "date": {
         "iso": "2028-02-21",
         "datetime": {
@@ -3415,7 +3415,7 @@
       "name": "Maha Shivaratri",
       "name_bn": "মহা শিবরাত্রি",
       "description": "Maha Shivratri is an annual festival dedicated to Shiva, the Hindu God of destruction. For devotees, is a day of reflection and meditation.",
-      "description_bn": "মহা শিবরাত্রি বাংলাদেশে হিন্দু ধর্মীয় দিন, ঐচ্ছিক ছুটি হিসেবে পালিত হয়।",
+      "description_bn": "মহা শিবরাত্রি ভগবান শিবের আরাধনার পবিত্র রাত্রি। সনাতন ধর্মাবলম্বীরা উপবাস, পূজা, জাগরণ ও প্রার্থনার মাধ্যমে দিনটি পালন করেন।",
       "date": {
         "iso": "2028-02-23",
         "datetime": {
@@ -3430,7 +3430,7 @@
       "name": "Shab-e-qadr",
       "name_bn": "শবে কদর",
       "description": "Laylat al-Qadr commemorates the time when Mohammad received the first verses of the Koran (Qu'ran).",
-      "description_bn": "শবে কদর বাংলাদেশে জাতীয় ছুটি হিসেবে পালিত হয়।",
+      "description_bn": "শবে কদর রমজানের শেষ দশকের এক মহিমান্বিত রজনী। কোরআন নাজিলের স্মরণে মুসলমানরা রাতভর ইবাদত, দোয়া ও ক্ষমা প্রার্থনা করেন।",
       "date": {
         "iso": "2028-02-23",
         "datetime": {
@@ -3445,7 +3445,7 @@
       "name": "Eid ul-Fitr Holiday",
       "name_bn": "ঈদুল ফিতরের ছুটি",
       "description": "Eid ul-Fitr Holiday is a government holiday in Bangladesh",
-      "description_bn": "ঈদুল ফিতরের ছুটি বাংলাদেশে জাতীয় ছুটি হিসেবে পালিত হয়।",
+      "description_bn": "ঈদুল ফিতরের ছুটি রমজানের শেষে ঈদ উদযাপনের সময়। মুসলমানরা নামাজ, আত্মীয়স্বজনের সঙ্গে দেখা, দান ও আনন্দ ভাগাভাগির মাধ্যমে দিনগুলো পালন করেন।",
       "date": {
         "iso": "2028-02-25",
         "datetime": {
@@ -3460,7 +3460,7 @@
       "name": "Jumatul Bidah",
       "name_bn": "জুমাতুল বিদা",
       "description": "Jumatul Bidah is a government holiday in Bangladesh",
-      "description_bn": "জুমাতুল বিদা বাংলাদেশে জাতীয় ছুটি হিসেবে পালিত হয়।",
+      "description_bn": "জুমাতুল বিদা রমজান মাসের শেষ শুক্রবার। মুসলমানরা জুমার নামাজ, দোয়া ও ইবাদতের মাধ্যমে রমজানের বিদায় মুহূর্তকে গুরুত্বের সঙ্গে পালন করেন।",
       "date": {
         "iso": "2028-02-25",
         "datetime": {
@@ -3475,7 +3475,7 @@
       "name": "Eid ul-Fitr Holiday",
       "name_bn": "ঈদুল ফিতরের ছুটি",
       "description": "Eid ul-Fitr Holiday is a national holiday in Bangladesh",
-      "description_bn": "ঈদুল ফিতরের ছুটি বাংলাদেশে জাতীয় ছুটি হিসেবে পালিত হয়।",
+      "description_bn": "ঈদুল ফিতরের ছুটি রমজানের শেষে ঈদ উদযাপনের সময়। মুসলমানরা নামাজ, আত্মীয়স্বজনের সঙ্গে দেখা, দান ও আনন্দ ভাগাভাগির মাধ্যমে দিনগুলো পালন করেন।",
       "date": {
         "iso": "2028-02-26",
         "datetime": {
@@ -3490,7 +3490,7 @@
       "name": "Eid ul-Fitr",
       "name_bn": "ঈদুল ফিতর",
       "description": "Eid al-Fitr is a holiday to mark the end of the Islamic month of Ramadan, during which Muslims fast during the hours of daylight.",
-      "description_bn": "রমজান মাসের সিয়াম সাধনা শেষে মুসলমানদের প্রধান ধর্মীয় উৎসব ঈদুল ফিতর উদযাপিত হয়।",
+      "description_bn": "ঈদুল ফিতর রমজান মাসের সিয়াম সাধনা শেষে মুসলমানদের আনন্দের উৎসব। ঈদের নামাজ, ফিতরা, শুভেচ্ছা বিনিময় ও পারিবারিক আয়োজনে দিনটি পালিত হয়।",
       "date": {
         "iso": "2028-02-27",
         "datetime": {
@@ -3505,7 +3505,7 @@
       "name": "Eid ul-Fitr Holiday",
       "name_bn": "ঈদুল ফিতরের ছুটি",
       "description": "Eid ul-Fitr Holiday is a government holiday in Bangladesh",
-      "description_bn": "ঈদুল ফিতরের ছুটি বাংলাদেশে জাতীয় ছুটি হিসেবে পালিত হয়।",
+      "description_bn": "ঈদুল ফিতরের ছুটি রমজানের শেষে ঈদ উদযাপনের সময়। মুসলমানরা নামাজ, আত্মীয়স্বজনের সঙ্গে দেখা, দান ও আনন্দ ভাগাভাগির মাধ্যমে দিনগুলো পালন করেন।",
       "date": {
         "iso": "2028-02-28",
         "datetime": {
@@ -3520,7 +3520,7 @@
       "name": "Eid ul-Fitr Holiday",
       "name_bn": "ঈদুল ফিতরের ছুটি",
       "description": "Eid ul-Fitr Holiday is a government holiday in Bangladesh",
-      "description_bn": "ঈদুল ফিতরের ছুটি বাংলাদেশে জাতীয় ছুটি হিসেবে পালিত হয়।",
+      "description_bn": "ঈদুল ফিতরের ছুটি রমজানের শেষে ঈদ উদযাপনের সময়। মুসলমানরা নামাজ, আত্মীয়স্বজনের সঙ্গে দেখা, দান ও আনন্দ ভাগাভাগির মাধ্যমে দিনগুলো পালন করেন।",
       "date": {
         "iso": "2028-02-29",
         "datetime": {
@@ -3535,7 +3535,7 @@
       "name": "Eid ul-Fitr Holiday",
       "name_bn": "ঈদুল ফিতরের ছুটি",
       "description": "Eid ul-Fitr Holiday is an optional holiday in Bangladesh",
-      "description_bn": "ঈদুল ফিতরের ছুটি বাংলাদেশে ঐচ্ছিক ছুটি হিসেবে পালিত হয়।",
+      "description_bn": "ঈদুল ফিতরের ছুটি রমজানের শেষে ঈদ উদযাপনের সময়। মুসলমানরা নামাজ, আত্মীয়স্বজনের সঙ্গে দেখা, দান ও আনন্দ ভাগাভাগির মাধ্যমে দিনগুলো পালন করেন।",
       "date": {
         "iso": "2028-03-01",
         "datetime": {
@@ -3550,7 +3550,7 @@
       "name": "National Flag Day",
       "name_bn": "জাতীয় পতাকা দিবস",
       "description": "National Flag Day is an observance in Bangladesh",
-      "description_bn": "জাতীয় পতাকা দিবস বাংলাদেশে পালনীয় দিন হিসেবে পালিত হয়।",
+      "description_bn": "জাতীয় পতাকা দিবসে বাংলাদেশের জাতীয় পতাকার ইতিহাস ও মর্যাদা স্মরণ করা হয়। স্বাধীনতা, সার্বভৌমত্ব ও জাতীয় পরিচয়ের প্রতীক হিসেবে পতাকাকে সম্মান জানানো হয়।",
       "date": {
         "iso": "2028-03-02",
         "datetime": {
@@ -3565,7 +3565,7 @@
       "name": "Holi",
       "name_bn": "দোলযাত্রা",
       "description": "Holi is a spring festival of colors celebrated by Hindus, Sikhs and others. It celebrates the triumph of good over evil and the upcoming season of spring. The festival can last up to sixteen days.",
-      "description_bn": "দোলযাত্রা বাংলাদেশে ঐচ্ছিক ছুটি হিসেবে পালিত হয়।",
+      "description_bn": "হোলি রঙের উৎসব এবং বসন্তের আনন্দের প্রতীক। সনাতন ধর্মাবলম্বীরা রঙ, আবির, গান ও সামাজিক মিলনের মাধ্যমে দিনটি উদযাপন করেন।",
       "date": {
         "iso": "2028-03-11",
         "datetime": {
@@ -3580,7 +3580,7 @@
       "name": "Independence Day",
       "name_bn": "স্বাধীনতা দিবস",
       "description": "Independence Day is a government holiday in Bangladesh",
-      "description_bn": "১৯৭১ সালের ২৬ মার্চ বাংলাদেশের স্বাধীনতার ঘোষণাকে স্মরণ করে স্বাধীনতা দিবস পালিত হয়।",
+      "description_bn": "স্বাধীনতা দিবস ১৯৭১ সালের ২৬ মার্চ বাংলাদেশের স্বাধীনতার ঘোষণাকে স্মরণ করে। জাতীয় পতাকা উত্তোলন, শ্রদ্ধা নিবেদন ও নানা আয়োজনে দিনটি পালিত হয়।",
       "date": {
         "iso": "2028-03-26",
         "datetime": {
@@ -3595,7 +3595,7 @@
       "name": "Chaitra Sankranti",
       "name_bn": "চৈত্র সংক্রান্তি",
       "description": "Chaitra Sankranti is a government holiday in Bangladesh",
-      "description_bn": "চৈত্র সংক্রান্তি বাংলাদেশে জাতীয় ছুটি হিসেবে পালিত হয়।",
+      "description_bn": "চৈত্র সংক্রান্তি বাংলা বছরের শেষ দিন। গ্রামীণ মেলা, লোকাচার ও নানা আচার-অনুষ্ঠানের মাধ্যমে পুরোনো বছরকে বিদায় জানানো হয়।",
       "date": {
         "iso": "2028-04-13",
         "datetime": {
@@ -3610,7 +3610,7 @@
       "name": "Bengali New Year",
       "name_bn": "পহেলা বৈশাখ",
       "description": "Bengali New Year is a government holiday in Bangladesh",
-      "description_bn": "বাংলা সনের প্রথম দিন পহেলা বৈশাখে বাংলাদেশে নববর্ষ উদযাপন করা হয়।",
+      "description_bn": "পহেলা বৈশাখ বাংলা সনের প্রথম দিন। বাংলাদেশে মঙ্গল শোভাযাত্রা, হালখাতা, মেলা ও সাংস্কৃতিক আয়োজনের মাধ্যমে নববর্ষ উদযাপন করা হয়।",
       "date": {
         "iso": "2028-04-14",
         "datetime": {
@@ -3625,7 +3625,7 @@
       "name": "May Day",
       "name_bn": "মে দিবস",
       "description": "Labor Day, International Workers' Day, and May Day, is a day off for workers in many countries around the world.",
-      "description_bn": "শ্রমিকদের অধিকার ও অবদানের স্বীকৃতিতে আন্তর্জাতিক শ্রমিক দিবস পালিত হয়।",
+      "description_bn": "মে দিবস শ্রমিকদের অধিকার ও শ্রমের মর্যাদার আন্তর্জাতিক দিন। শ্রমিক আন্দোলনের ইতিহাস স্মরণ করে ন্যায্য অধিকার ও নিরাপদ কর্মপরিবেশের কথা বলা হয়।",
       "date": {
         "iso": "2028-05-01",
         "datetime": {
@@ -3640,7 +3640,7 @@
       "name": "Eid al-Adha Holiday",
       "name_bn": "ঈদুল আজহার ছুটি",
       "description": "Eid al-Adha Holiday is a government holiday in Bangladesh",
-      "description_bn": "ঈদুল আজহার ছুটি বাংলাদেশে জাতীয় ছুটি হিসেবে পালিত হয়।",
+      "description_bn": "ঈদুল আজহার ছুটি কোরবানি ও ঈদ উদযাপনের ধারাবাহিক সময়। পরিবার, সমাজ ও দরিদ্র মানুষের সঙ্গে কোরবানির মাংস ভাগ করে আনন্দ প্রকাশ করা হয়।",
       "date": {
         "iso": "2028-05-02",
         "datetime": {
@@ -3655,7 +3655,7 @@
       "name": "Eid al-Adha Holiday",
       "name_bn": "ঈদুল আজহার ছুটি",
       "description": "Eid al-Adha Holiday is a government holiday in Bangladesh",
-      "description_bn": "ঈদুল আজহার ছুটি বাংলাদেশে জাতীয় ছুটি হিসেবে পালিত হয়।",
+      "description_bn": "ঈদুল আজহার ছুটি কোরবানি ও ঈদ উদযাপনের ধারাবাহিক সময়। পরিবার, সমাজ ও দরিদ্র মানুষের সঙ্গে কোরবানির মাংস ভাগ করে আনন্দ প্রকাশ করা হয়।",
       "date": {
         "iso": "2028-05-03",
         "datetime": {
@@ -3670,7 +3670,7 @@
       "name": "Eid al-Adha",
       "name_bn": "ঈদুল আজহা",
       "description": "Eid al-Adha (Id ul-Adha) is an Islamic festival falling on the 10th day of the month of Dhul Hijja (Thou al-Hijja) to commemorate the willingness of Ibrahim (Abraham) to sacrifice his son.",
-      "description_bn": "ত্যাগ ও কোরবানির মহিমা স্মরণ করে মুসলমানদের প্রধান ধর্মীয় উৎসব ঈদুল আজহা উদযাপিত হয়।",
+      "description_bn": "ঈদুল আজহা ত্যাগ ও কোরবানির মহিমা স্মরণে মুসলমানদের প্রধান ধর্মীয় উৎসব। নামাজ, কোরবানি, দান ও আত্মীয়স্বজনের সঙ্গে আনন্দ ভাগ করে দিনটি পালিত হয়।",
       "date": {
         "iso": "2028-05-04",
         "datetime": {
@@ -3685,7 +3685,7 @@
       "name": "Eid al-Adha Holiday",
       "name_bn": "ঈদুল আজহার ছুটি",
       "description": "Eid al-Adha Holiday is a government holiday in Bangladesh",
-      "description_bn": "ঈদুল আজহার ছুটি বাংলাদেশে জাতীয় ছুটি হিসেবে পালিত হয়।",
+      "description_bn": "ঈদুল আজহার ছুটি কোরবানি ও ঈদ উদযাপনের ধারাবাহিক সময়। পরিবার, সমাজ ও দরিদ্র মানুষের সঙ্গে কোরবানির মাংস ভাগ করে আনন্দ প্রকাশ করা হয়।",
       "date": {
         "iso": "2028-05-05",
         "datetime": {
@@ -3700,7 +3700,7 @@
       "name": "Eid al-Adha Holiday",
       "name_bn": "ঈদুল আজহার ছুটি",
       "description": "Eid al-Adha Holiday is a government holiday in Bangladesh",
-      "description_bn": "ঈদুল আজহার ছুটি বাংলাদেশে জাতীয় ছুটি হিসেবে পালিত হয়।",
+      "description_bn": "ঈদুল আজহার ছুটি কোরবানি ও ঈদ উদযাপনের ধারাবাহিক সময়। পরিবার, সমাজ ও দরিদ্র মানুষের সঙ্গে কোরবানির মাংস ভাগ করে আনন্দ প্রকাশ করা হয়।",
       "date": {
         "iso": "2028-05-06",
         "datetime": {
@@ -3715,7 +3715,7 @@
       "name": "Buddha Purnima Holiday",
       "name_bn": "বুদ্ধ পূর্ণিমার ছুটি",
       "description": "Buddha Purnima Holiday is an optional holiday in Bangladesh",
-      "description_bn": "বুদ্ধ পূর্ণিমার ছুটি বাংলাদেশে ঐচ্ছিক ছুটি হিসেবে পালিত হয়।",
+      "description_bn": "বুদ্ধ পূর্ণিমার ছুটি গৌতম বুদ্ধের জন্ম, বোধিলাভ ও মহাপরিনির্বাণ স্মরণে পালিত হয়। বৌদ্ধ ধর্মাবলম্বীরা প্রার্থনা, দান ও ধর্মীয় অনুষ্ঠানে অংশ নেন।",
       "date": {
         "iso": "2028-05-07",
         "datetime": {
@@ -3730,7 +3730,7 @@
       "name": "Eid al-Adha Holiday",
       "name_bn": "ঈদুল আজহার ছুটি",
       "description": "Eid al-Adha Holiday is a government holiday in Bangladesh",
-      "description_bn": "ঈদুল আজহার ছুটি বাংলাদেশে জাতীয় ছুটি হিসেবে পালিত হয়।",
+      "description_bn": "ঈদুল আজহার ছুটি কোরবানি ও ঈদ উদযাপনের ধারাবাহিক সময়। পরিবার, সমাজ ও দরিদ্র মানুষের সঙ্গে কোরবানির মাংস ভাগ করে আনন্দ প্রকাশ করা হয়।",
       "date": {
         "iso": "2028-05-07",
         "datetime": {
@@ -3745,7 +3745,7 @@
       "name": "Buddha Purnima/Vesak",
       "name_bn": "বুদ্ধ পূর্ণিমা",
       "description": "Buddha Purnima/Vesak is a government holiday in Bangladesh",
-      "description_bn": "বুদ্ধ পূর্ণিমা বাংলাদেশে জাতীয় ছুটি হিসেবে পালিত হয়।",
+      "description_bn": "বুদ্ধ পূর্ণিমা গৌতম বুদ্ধের জীবনের তিনটি মহৎ ঘটনার স্মারক। এদিন বৌদ্ধরা বিহারে প্রার্থনা, প্রদীপ প্রজ্বালন ও দানশীলতার মাধ্যমে দিনটি পালন করেন।",
       "date": {
         "iso": "2028-05-08",
         "datetime": {
@@ -3760,7 +3760,7 @@
       "name": "Eid al-Adha Holiday",
       "name_bn": "ঈদুল আজহার ছুটি",
       "description": "Eid al-Adha Holiday is an optional holiday in Bangladesh",
-      "description_bn": "ঈদুল আজহার ছুটি বাংলাদেশে ঐচ্ছিক ছুটি হিসেবে পালিত হয়।",
+      "description_bn": "ঈদুল আজহার ছুটি কোরবানি ও ঈদ উদযাপনের ধারাবাহিক সময়। পরিবার, সমাজ ও দরিদ্র মানুষের সঙ্গে কোরবানির মাংস ভাগ করে আনন্দ প্রকাশ করা হয়।",
       "date": {
         "iso": "2028-05-08",
         "datetime": {
@@ -3775,7 +3775,7 @@
       "name": "Buddha Purnima Holiday",
       "name_bn": "বুদ্ধ পূর্ণিমার ছুটি",
       "description": "Buddha Purnima Holiday is an optional holiday in Bangladesh",
-      "description_bn": "বুদ্ধ পূর্ণিমার ছুটি বাংলাদেশে ঐচ্ছিক ছুটি হিসেবে পালিত হয়।",
+      "description_bn": "বুদ্ধ পূর্ণিমার ছুটি গৌতম বুদ্ধের জন্ম, বোধিলাভ ও মহাপরিনির্বাণ স্মরণে পালিত হয়। বৌদ্ধ ধর্মাবলম্বীরা প্রার্থনা, দান ও ধর্মীয় অনুষ্ঠানে অংশ নেন।",
       "date": {
         "iso": "2028-05-09",
         "datetime": {
@@ -3790,7 +3790,7 @@
       "name": "Mother's Day",
       "name_bn": "মা দিবস",
       "description": "Mother's Day celebrates the achievements and efforts of mothers and mother figures.",
-      "description_bn": "মা দিবস বাংলাদেশে পালনীয় দিন হিসেবে পালিত হয়।",
+      "description_bn": "মা দিবসে মায়ের ভালোবাসা, ত্যাগ ও অবদানের প্রতি শ্রদ্ধা জানানো হয়। শুভেচ্ছা, উপহার ও পারিবারিক ভালোবাসার মাধ্যমে দিনটি পালন করা হয়।",
       "date": {
         "iso": "2028-05-14",
         "datetime": {
@@ -3805,7 +3805,7 @@
       "name": "Muharram",
       "name_bn": "মহররম",
       "description": "Muharram is the first month of the Islamic calendar and a time of remembrance or mourning.",
-      "description_bn": "মহররম বাংলাদেশে জাতীয় ছুটি হিসেবে পালিত হয়।",
+      "description_bn": "মহররম ইসলামি বর্ষপঞ্জির প্রথম মাস। মুসলমানরা নতুন হিজরি বছর, আত্মসংযম ও কারবালার শিক্ষা স্মরণ করে ধর্মীয় ভাবগাম্ভীর্যে মাসটি পালন করেন।",
       "date": {
         "iso": "2028-05-25",
         "datetime": {
@@ -3820,7 +3820,7 @@
       "name": "Ashura",
       "name_bn": "আশুরা",
       "description": "Ashura is a government holiday in Bangladesh",
-      "description_bn": "ইসলামি বর্ষপঞ্জির মহররম মাসের দশম দিনে আশুরা পালিত হয়।",
+      "description_bn": "আশুরা ইসলামি বর্ষপঞ্জির মহররম মাসের দশম দিন। কারবালার শোকাবহ ঘটনা স্মরণে মুসলমানরা দোয়া, রোজা ও ধর্মীয় ভাবগাম্ভীর্যের মাধ্যমে দিনটি পালন করেন।",
       "date": {
         "iso": "2028-06-03",
         "datetime": {
@@ -3835,7 +3835,7 @@
       "name": "Father's Day",
       "name_bn": "বাবা দিবস",
       "description": "Father's Day celebrates fatherhood and male parenting on different dates worldwide.",
-      "description_bn": "বাবা দিবস বাংলাদেশে পালনীয় দিন হিসেবে পালিত হয়।",
+      "description_bn": "বাবা দিবসে বাবার ভালোবাসা, ত্যাগ ও অবদানের প্রতি কৃতজ্ঞতা প্রকাশ করা হয়। শুভেচ্ছা, উপহার ও পারিবারিক সময়ের মাধ্যমে দিনটি পালিত হয়।",
       "date": {
         "iso": "2028-06-18",
         "datetime": {
@@ -3850,7 +3850,7 @@
       "name": "July 1 Bank Holiday",
       "name_bn": "১ জুলাই ব্যাংক ছুটি",
       "description": "July 1 Bank Holiday is a bank holiday in Bangladesh",
-      "description_bn": "১ জুলাই ব্যাংক ছুটি বাংলাদেশে পালনীয় দিন হিসেবে পালিত হয়।",
+      "description_bn": "১ জুলাই ব্যাংক ছুটি ব্যাংকিং খাতের নির্ধারিত বার্ষিক ছুটির দিন। এদিন ব্যাংকের নিয়মিত লেনদেন বন্ধ থাকে এবং হিসাব-নিকাশের কাজ সম্পন্ন হয়।",
       "date": {
         "iso": "2028-07-01",
         "datetime": {
@@ -3865,7 +3865,7 @@
       "name": "Ashari Purnima",
       "name_bn": "আষাঢ়ী পূর্ণিমা",
       "description": "Ashari Purnima is an optional holiday in Bangladesh",
-      "description_bn": "আষাঢ়ী পূর্ণিমা বাংলাদেশে ঐচ্ছিক ছুটি হিসেবে পালিত হয়।",
+      "description_bn": "আষাঢ়ী পূর্ণিমা বৌদ্ধ ধর্মাবলম্বীদের একটি গুরুত্বপূর্ণ তিথি। এই দিনে বুদ্ধের ধর্মদেশনা ও বর্ষাবাসের সূচনার স্মরণে প্রার্থনা ও ধর্মীয় অনুষ্ঠান হয়।",
       "date": {
         "iso": "2028-07-06",
         "datetime": {
@@ -3880,7 +3880,7 @@
       "name": "Akhari Chahar Somba",
       "name_bn": "আখেরি চাহার সোম্বা",
       "description": "Akhari Chahar Somba is an optional holiday in Bangladesh",
-      "description_bn": "আখেরি চাহার সোম্বা বাংলাদেশে ঐচ্ছিক ছুটি হিসেবে পালিত হয়।",
+      "description_bn": "আখেরি চাহার সোম্বা ইসলাম ধর্মে সফর মাসের শেষ বুধবারের স্মারক দিন। এদিন মুসলমানরা দোয়া, নফল ইবাদত ও কল্যাণ কামনার মাধ্যমে দিনটি পালন করেন।",
       "date": {
         "iso": "2028-07-19",
         "datetime": {
@@ -3895,7 +3895,7 @@
       "name": "Eid e-Milad-un Nabi",
       "name_bn": "ঈদে মিলাদুন্নবী",
       "description": "Mawlid, or Milad, marks the birth of the Islamic prophet Muhammed, or Mohamed, in the year 570 of the Gregorian calendar.",
-      "description_bn": "মহানবী হযরত মুহাম্মদ (সা.)-এর জন্মদিন স্মরণে ঈদে মিলাদুন্নবী পালিত হয়।",
+      "description_bn": "ঈদে মিলাদুন্নবী মহানবী হযরত মুহাম্মদ (সা.)-এর জন্মদিন স্মরণে পালিত হয়। মিলাদ, দরুদ, আলোচনা ও দোয়ার মাধ্যমে মুসলমানরা দিনটি পালন করেন।",
       "date": {
         "iso": "2028-08-03",
         "datetime": {
@@ -3910,7 +3910,7 @@
       "name": "Student-People Uprising Day",
       "name_bn": "ছাত্র-জনতার অভ্যুত্থান দিবস",
       "description": "Student-People Uprising Day is a government holiday in Bangladesh",
-      "description_bn": "ছাত্র-জনতার অভ্যুত্থান দিবস বাংলাদেশে জাতীয় ছুটি হিসেবে পালিত হয়।",
+      "description_bn": "ছাত্র-জনতার অভ্যুত্থান দিবস জনতার সংগ্রাম ও গণঅভ্যুত্থানের স্মরণে পালিত হয়। গণতান্ত্রিক অধিকার, আত্মত্যাগ ও ঐতিহাসিক পরিবর্তনের গুরুত্ব এদিন স্মরণ করা হয়।",
       "date": {
         "iso": "2028-08-05",
         "datetime": {
@@ -3925,7 +3925,7 @@
       "name": "Janmashtami",
       "name_bn": "জন্মাষ্টমী",
       "description": "Krishna Janmashtami is a Hindu festival that celebrates the birth of Krishna, the eighth incarnation of the god Vishnu. It is celebrated on the eighth day of the Hindu month of Bhadrava (Bhadrapada), which is usually in August or September.",
-      "description_bn": "জন্মাষ্টমী বাংলাদেশে জাতীয় ছুটি, হিন্দু ধর্মীয় দিন হিসেবে পালিত হয়।",
+      "description_bn": "জন্মাষ্টমী ভগবান শ্রীকৃষ্ণের জন্মতিথি। সনাতন ধর্মাবলম্বীরা উপবাস, পূজা, কীর্তন ও ধর্মীয় শোভাযাত্রার মাধ্যমে দিনটি পালন করেন।",
       "date": {
         "iso": "2028-08-13",
         "datetime": {
@@ -3940,7 +3940,7 @@
       "name": "Fateha-i-Yajdaham",
       "name_bn": "ফাতেহা-ই-ইয়াজদাহম",
       "description": "Fateha-i-Yajdaham is an optional holiday in Bangladesh",
-      "description_bn": "ফাতেহা-ই-ইয়াজদাহম বাংলাদেশে ঐচ্ছিক ছুটি হিসেবে পালিত হয়।",
+      "description_bn": "ফাতেহা-ই-ইয়াজদাহম বড় পীর হযরত আবদুল কাদের জিলানী (রহ.)-এর স্মরণে পালিত হয়। মুসলমানরা মিলাদ, দোয়া ও ইবাদতের মাধ্যমে দিনটি পালন করেন।",
       "date": {
         "iso": "2028-09-01",
         "datetime": {
@@ -3955,7 +3955,7 @@
       "name": "Madhu Purnima",
       "name_bn": "মধু পূর্ণিমা",
       "description": "Madhu Purnima is an optional holiday in Bangladesh",
-      "description_bn": "মধু পূর্ণিমা বাংলাদেশে ঐচ্ছিক ছুটি হিসেবে পালিত হয়।",
+      "description_bn": "মধু পূর্ণিমা বৌদ্ধ ধর্মাবলম্বীদের একটি পবিত্র দিন। বুদ্ধের জীবনের করুণা ও দানের শিক্ষা স্মরণে প্রার্থনা, দান ও ধর্মীয় অনুষ্ঠান হয়।",
       "date": {
         "iso": "2028-09-03",
         "datetime": {
@@ -3970,7 +3970,7 @@
       "name": "Mahalaya",
       "name_bn": "মহালয়া",
       "description": "Mahalaya is an optional holiday in Bangladesh",
-      "description_bn": "মহালয়া বাংলাদেশে ঐচ্ছিক ছুটি হিসেবে পালিত হয়।",
+      "description_bn": "মহালয়া দুর্গাপূজার আগমনী বার্তা বহন করে। দেবী দুর্গার আহ্বান, চণ্ডীপাঠ ও পূর্বপুরুষের তর্পণের মাধ্যমে দিনটি পালন করা হয়।",
       "date": {
         "iso": "2028-09-18",
         "datetime": {
@@ -3985,7 +3985,7 @@
       "name": "September Equinox",
       "name_bn": "সেপ্টেম্বর বিষুব",
       "description": "September Equinox in Bangladesh (Dhaka)",
-      "description_bn": "সেপ্টেম্বর বিষুব বাংলাদেশে ঋতুভিত্তিক দিন হিসেবে পালিত হয়।",
+      "description_bn": "সেপ্টেম্বর বিষুব দিনে দিন ও রাত প্রায় সমান হয়। ঋতুচক্রের পরিবর্তন বোঝাতে জ্যোতির্বৈজ্ঞানিক এই ঘটনাটি গুরুত্ব বহন করে।",
       "date": {
         "iso": "2028-09-22T17:45:00+06:00",
         "datetime": {
@@ -4010,7 +4010,7 @@
       "name": "Durga Puja Holiday",
       "name_bn": "দুর্গাপূজার ছুটি",
       "description": "Durga Puja Holiday is an optional holiday in Bangladesh",
-      "description_bn": "দুর্গাপূজার ছুটি বাংলাদেশে ঐচ্ছিক ছুটি হিসেবে পালিত হয়।",
+      "description_bn": "দুর্গাপূজার ছুটি দেবী দুর্গার আরাধনা ঘিরে পালিত হয়। পরিবার, মণ্ডপ ও পূজা-অনুষ্ঠানে অংশ নিতে সনাতন ধর্মাবলম্বীরা এই সময়টি ব্যবহার করেন।",
       "date": {
         "iso": "2028-09-25",
         "datetime": {
@@ -4025,7 +4025,7 @@
       "name": "Ashtami",
       "name_bn": "অষ্টমী",
       "description": "Ashtami is an optional holiday in Bangladesh",
-      "description_bn": "অষ্টমী বাংলাদেশে ঐচ্ছিক ছুটি হিসেবে পালিত হয়।",
+      "description_bn": "অষ্টমী দুর্গাপূজার অন্যতম গুরুত্বপূর্ণ দিন। এদিন দেবী দুর্গার বিশেষ পূজা, অঞ্জলি ও প্রার্থনার মাধ্যমে সনাতন ধর্মাবলম্বীরা উৎসব পালন করেন।",
       "date": {
         "iso": "2028-09-26",
         "datetime": {
@@ -4040,7 +4040,7 @@
       "name": "Mahanabami",
       "name_bn": "মহানবমী",
       "description": "Mahanabami is a government holiday in Bangladesh",
-      "description_bn": "মহানবমী বাংলাদেশে জাতীয় ছুটি হিসেবে পালিত হয়।",
+      "description_bn": "মহানবমী দুর্গাপূজার গুরুত্বপূর্ণ তিথি। দেবী দুর্গার বিশেষ পূজা, অঞ্জলি ও ধর্মীয় অনুষ্ঠানের মাধ্যমে সনাতন ধর্মাবলম্বীরা দিনটি পালন করেন।",
       "date": {
         "iso": "2028-09-27",
         "datetime": {
@@ -4055,7 +4055,7 @@
       "name": "Durga Puja",
       "name_bn": "দুর্গাপূজা",
       "description": "Durga Puja is a government holiday in Bangladesh",
-      "description_bn": "সনাতন ধর্মাবলম্বীদের প্রধান ধর্মীয় উৎসব দুর্গাপূজায় দেবী দুর্গার আরাধনা করা হয়।",
+      "description_bn": "দুর্গাপূজা সনাতন ধর্মাবলম্বীদের প্রধান ধর্মীয় উৎসব। দেবী দুর্গার আরাধনা, অঞ্জলি, সাংস্কৃতিক অনুষ্ঠান ও বিজয়ার মাধ্যমে উৎসব সম্পন্ন হয়।",
       "date": {
         "iso": "2028-09-28",
         "datetime": {
@@ -4070,7 +4070,7 @@
       "name": "Lakshmi Puja",
       "name_bn": "লক্ষ্মী পূজা",
       "description": "Lakshmi Puja is an optional holiday in Bangladesh",
-      "description_bn": "লক্ষ্মী পূজা বাংলাদেশে ঐচ্ছিক ছুটি হিসেবে পালিত হয়।",
+      "description_bn": "লক্ষ্মী পূজা ধন-সম্পদ ও কল্যাণের দেবী লক্ষ্মীর আরাধনা। সনাতন ধর্মাবলম্বীরা পূজা, প্রদীপ ও পারিবারিক আয়োজনে সমৃদ্ধি কামনা করেন।",
       "date": {
         "iso": "2028-10-02",
         "datetime": {
@@ -4085,7 +4085,7 @@
       "name": "Prabarana Purnima",
       "name_bn": "প্রবারণা পূর্ণিমা",
       "description": "Prabarana Purnima is an optional holiday in Bangladesh",
-      "description_bn": "প্রবারণা পূর্ণিমা বাংলাদেশে ঐচ্ছিক ছুটি হিসেবে পালিত হয়।",
+      "description_bn": "প্রবারণা পূর্ণিমা বৌদ্ধ ধর্মাবলম্বীদের বর্ষাবাস সমাপ্তির দিন। প্রার্থনা, ফানুস উড়ানো, দান ও ধর্মীয় অনুষ্ঠানের মাধ্যমে দিনটি উদযাপিত হয়।",
       "date": {
         "iso": "2028-10-02",
         "datetime": {
@@ -4100,7 +4100,7 @@
       "name": "Sri Shayama Puja",
       "name_bn": "শ্রী শ্যামা পূজা",
       "description": "Sri Shayama Puja is an optional holiday in Bangladesh",
-      "description_bn": "শ্রী শ্যামা পূজা বাংলাদেশে ঐচ্ছিক ছুটি হিসেবে পালিত হয়।",
+      "description_bn": "শ্রী শ্যামা পূজা দেবী কালীর আরাধনার উৎসব। সনাতন ধর্মাবলম্বীরা পূজা, প্রদীপ, প্রার্থনা ও মঙ্গল কামনার মাধ্যমে দিনটি পালন করেন।",
       "date": {
         "iso": "2028-10-17",
         "datetime": {
@@ -4115,7 +4115,7 @@
       "name": "Shab-e-Meraj",
       "name_bn": "শবে মেরাজ",
       "description": "Isra and Mi'raj (Isra Me'raj, Israa and Mi'raaj, Laylat Al-Isra wa Al-Miraj, Lailat al Miraj, Night Journey and Ascension to Heaven) marks the night that the Prophet Mohammad traveled from Mecca to Jerusalem, ascended to heaven and returned.",
-      "description_bn": "ইসলাম ধর্মের একটি পবিত্র রজনী, যেদিন মহানবী হযরত মুহাম্মদ (সা.) মেরাজে গমন করেন। এই রাতে মুসলমানরা নফল নামাজ, দোয়া ও ইবাদতের মাধ্যমে আল্লাহর নৈকট্য লাভের চেষ্টা করেন।",
+      "description_bn": "শবে মেরাজ ইসলাম ধর্মের একটি পবিত্র রজনী, যেদিন মহানবী হযরত মুহাম্মদ (সা.) মেরাজে গমন করেন। এই রাতে মুসলমানরা নফল নামাজ, দোয়া ও ইবাদতের মাধ্যমে আল্লাহর নৈকট্য লাভের চেষ্টা করেন।",
       "date": {
         "iso": "2028-12-14",
         "datetime": {
@@ -4130,7 +4130,7 @@
       "name": "Victory Day",
       "name_bn": "বিজয় দিবস",
       "description": "Victory Day is a government holiday in Bangladesh",
-      "description_bn": "১৯৭১ সালের ১৬ ডিসেম্বর বাংলাদেশের বিজয় অর্জনের স্মরণে বিজয় দিবস পালিত হয়।",
+      "description_bn": "বিজয় দিবস ১৯৭১ সালের ১৬ ডিসেম্বর বাংলাদেশের বিজয় অর্জনের স্মরণে পালিত হয়। শহীদদের শ্রদ্ধা, জাতীয় পতাকা ও মুক্তিযুদ্ধের চেতনায় দিনটি উদযাপিত হয়।",
       "date": {
         "iso": "2028-12-16",
         "datetime": {
@@ -4145,7 +4145,7 @@
       "name": "Christmas Day",
       "name_bn": "বড়দিন",
       "description": "Christmas Day is one of the biggest Christian celebrations and falls on December 25 in the Gregorian calendar.",
-      "description_bn": "যিশু খ্রিস্টের জন্মদিন স্মরণে খ্রিস্টান ধর্মাবলম্বীরা বড়দিন উদযাপন করেন।",
+      "description_bn": "বড়দিন যিশু খ্রিস্টের জন্মদিন স্মরণে খ্রিস্টান ধর্মাবলম্বীদের প্রধান উৎসব। প্রার্থনা, গির্জার অনুষ্ঠান, শুভেচ্ছা বিনিময় ও পারিবারিক আয়োজনে দিনটি পালিত হয়।",
       "date": {
         "iso": "2028-12-25",
         "datetime": {
@@ -4160,7 +4160,7 @@
       "name": "Shab e-Barat",
       "name_bn": "শবে বরাত",
       "description": "Shab e-Barat is a government holiday in Bangladesh",
-      "description_bn": "শবে বরাত বাংলাদেশে জাতীয় ছুটি হিসেবে পালিত হয়।",
+      "description_bn": "শবে বরাত মুসলমানদের কাছে ক্ষমা ও বরকতের পবিত্র রজনী। এ রাতে নফল নামাজ, দোয়া, কবর জিয়ারত ও আল্লাহর রহমত কামনা করা হয়।",
       "date": {
         "iso": "2029-01-01",
         "datetime": {
@@ -4175,7 +4175,7 @@
       "name": "Ramadan Start",
       "name_bn": "রমজান শুরু",
       "description": "Ramadan is a period of prayer, reflection and fasting for many Muslims worldwide. It is the ninth month in the Islamic calendar.",
-      "description_bn": "রমজান শুরু বাংলাদেশে পালনীয় দিন হিসেবে পালিত হয়।",
+      "description_bn": "রমজান শুরু মুসলমানদের এক মাসের সিয়াম সাধনার সূচনা। ভোর থেকে সূর্যাস্ত পর্যন্ত রোজা, নামাজ, কোরআন তিলাওয়াত ও দানের মাধ্যমে মাসটি পালন করা হয়।",
       "date": {
         "iso": "2029-01-16",
         "datetime": {
@@ -4190,7 +4190,7 @@
       "name": "Saraswati Puja",
       "name_bn": "সরস্বতী পূজা",
       "description": "Saraswati Puja is an optional holiday in Bangladesh",
-      "description_bn": "সরস্বতী পূজা বাংলাদেশে ঐচ্ছিক ছুটি হিসেবে পালিত হয়।",
+      "description_bn": "সরস্বতী পূজা বিদ্যা ও জ্ঞানের দেবী সরস্বতীর আরাধনা। শিক্ষার্থী ও ভক্তরা পূজা, অঞ্জলি, প্রসাদ ও সাংস্কৃতিক আয়োজনে দিনটি পালন করেন।",
       "date": {
         "iso": "2029-01-19",
         "datetime": {
@@ -4205,7 +4205,7 @@
       "name": "Maghi Purnima",
       "name_bn": "মাঘী পূর্ণিমা",
       "description": "Maghi Purnima is an optional holiday in Bangladesh",
-      "description_bn": "মাঘী পূর্ণিমা বাংলাদেশে ঐচ্ছিক ছুটি হিসেবে পালিত হয়।",
+      "description_bn": "মাঘী পূর্ণিমা বৌদ্ধ ধর্মাবলম্বীদের পবিত্র পূর্ণিমা তিথি। এদিন প্রার্থনা, ধর্মদেশনা, দান ও শান্তি কামনার মাধ্যমে দিনটি পালিত হয়।",
       "date": {
         "iso": "2029-01-30",
         "datetime": {
@@ -4220,7 +4220,7 @@
       "name": "Jumatul Bidah",
       "name_bn": "জুমাতুল বিদা",
       "description": "Jumatul Bidah is a government holiday in Bangladesh",
-      "description_bn": "জুমাতুল বিদা বাংলাদেশে জাতীয় ছুটি হিসেবে পালিত হয়।",
+      "description_bn": "জুমাতুল বিদা রমজান মাসের শেষ শুক্রবার। মুসলমানরা জুমার নামাজ, দোয়া ও ইবাদতের মাধ্যমে রমজানের বিদায় মুহূর্তকে গুরুত্বের সঙ্গে পালন করেন।",
       "date": {
         "iso": "2029-02-09",
         "datetime": {
@@ -4235,7 +4235,7 @@
       "name": "Maha Shivaratri",
       "name_bn": "মহা শিবরাত্রি",
       "description": "Maha Shivratri is an annual festival dedicated to Shiva, the Hindu God of destruction. For devotees, is a day of reflection and meditation.",
-      "description_bn": "মহা শিবরাত্রি বাংলাদেশে হিন্দু ধর্মীয় দিন, ঐচ্ছিক ছুটি হিসেবে পালিত হয়।",
+      "description_bn": "মহা শিবরাত্রি ভগবান শিবের আরাধনার পবিত্র রাত্রি। সনাতন ধর্মাবলম্বীরা উপবাস, পূজা, জাগরণ ও প্রার্থনার মাধ্যমে দিনটি পালন করেন।",
       "date": {
         "iso": "2029-02-11",
         "datetime": {
@@ -4250,7 +4250,7 @@
       "name": "Shab-e-qadr",
       "name_bn": "শবে কদর",
       "description": "Laylat al-Qadr commemorates the time when Mohammad received the first verses of the Koran (Qu'ran).",
-      "description_bn": "শবে কদর বাংলাদেশে জাতীয় ছুটি হিসেবে পালিত হয়।",
+      "description_bn": "শবে কদর রমজানের শেষ দশকের এক মহিমান্বিত রজনী। কোরআন নাজিলের স্মরণে মুসলমানরা রাতভর ইবাদত, দোয়া ও ক্ষমা প্রার্থনা করেন।",
       "date": {
         "iso": "2029-02-11",
         "datetime": {
@@ -4265,7 +4265,7 @@
       "name": "Eid ul-Fitr Holiday",
       "name_bn": "ঈদুল ফিতরের ছুটি",
       "description": "Eid ul-Fitr Holiday is a government holiday in Bangladesh",
-      "description_bn": "ঈদুল ফিতরের ছুটি বাংলাদেশে জাতীয় ছুটি হিসেবে পালিত হয়।",
+      "description_bn": "ঈদুল ফিতরের ছুটি রমজানের শেষে ঈদ উদযাপনের সময়। মুসলমানরা নামাজ, আত্মীয়স্বজনের সঙ্গে দেখা, দান ও আনন্দ ভাগাভাগির মাধ্যমে দিনগুলো পালন করেন।",
       "date": {
         "iso": "2029-02-13",
         "datetime": {
@@ -4280,7 +4280,7 @@
       "name": "Eid ul-Fitr Holiday",
       "name_bn": "ঈদুল ফিতরের ছুটি",
       "description": "Eid ul-Fitr Holiday is a national holiday in Bangladesh",
-      "description_bn": "ঈদুল ফিতরের ছুটি বাংলাদেশে জাতীয় ছুটি হিসেবে পালিত হয়।",
+      "description_bn": "ঈদুল ফিতরের ছুটি রমজানের শেষে ঈদ উদযাপনের সময়। মুসলমানরা নামাজ, আত্মীয়স্বজনের সঙ্গে দেখা, দান ও আনন্দ ভাগাভাগির মাধ্যমে দিনগুলো পালন করেন।",
       "date": {
         "iso": "2029-02-14",
         "datetime": {
@@ -4295,7 +4295,7 @@
       "name": "Valentine's Day",
       "name_bn": "ভ্যালেন্টাইনস ডে",
       "description": "February 14 is Valentine's Day or Saint Valentine's Feast. The day of love owes its origins to ancient Roman and European Christian traditions.",
-      "description_bn": "ভ্যালেন্টাইনস ডে বাংলাদেশে পালনীয় দিন হিসেবে পালিত হয়।",
+      "description_bn": "ভ্যালেন্টাইনস ডে ভালোবাসা ও স্নেহ প্রকাশের দিন। প্রিয়জন, বন্ধু ও পরিবারের প্রতি শুভেচ্ছা, উপহার ও আন্তরিকতা প্রকাশের মাধ্যমে দিনটি পালিত হয়।",
       "date": {
         "iso": "2029-02-14",
         "datetime": {
@@ -4310,7 +4310,7 @@
       "name": "Eid ul-Fitr",
       "name_bn": "ঈদুল ফিতর",
       "description": "Eid al-Fitr is a holiday to mark the end of the Islamic month of Ramadan, during which Muslims fast during the hours of daylight.",
-      "description_bn": "রমজান মাসের সিয়াম সাধনা শেষে মুসলমানদের প্রধান ধর্মীয় উৎসব ঈদুল ফিতর উদযাপিত হয়।",
+      "description_bn": "ঈদুল ফিতর রমজান মাসের সিয়াম সাধনা শেষে মুসলমানদের আনন্দের উৎসব। ঈদের নামাজ, ফিতরা, শুভেচ্ছা বিনিময় ও পারিবারিক আয়োজনে দিনটি পালিত হয়।",
       "date": {
         "iso": "2029-02-15",
         "datetime": {
@@ -4325,7 +4325,7 @@
       "name": "Eid ul-Fitr Holiday",
       "name_bn": "ঈদুল ফিতরের ছুটি",
       "description": "Eid ul-Fitr Holiday is a government holiday in Bangladesh",
-      "description_bn": "ঈদুল ফিতরের ছুটি বাংলাদেশে জাতীয় ছুটি হিসেবে পালিত হয়।",
+      "description_bn": "ঈদুল ফিতরের ছুটি রমজানের শেষে ঈদ উদযাপনের সময়। মুসলমানরা নামাজ, আত্মীয়স্বজনের সঙ্গে দেখা, দান ও আনন্দ ভাগাভাগির মাধ্যমে দিনগুলো পালন করেন।",
       "date": {
         "iso": "2029-02-16",
         "datetime": {
@@ -4340,7 +4340,7 @@
       "name": "Eid ul-Fitr Holiday",
       "name_bn": "ঈদুল ফিতরের ছুটি",
       "description": "Eid ul-Fitr Holiday is a government holiday in Bangladesh",
-      "description_bn": "ঈদুল ফিতরের ছুটি বাংলাদেশে জাতীয় ছুটি হিসেবে পালিত হয়।",
+      "description_bn": "ঈদুল ফিতরের ছুটি রমজানের শেষে ঈদ উদযাপনের সময়। মুসলমানরা নামাজ, আত্মীয়স্বজনের সঙ্গে দেখা, দান ও আনন্দ ভাগাভাগির মাধ্যমে দিনগুলো পালন করেন।",
       "date": {
         "iso": "2029-02-17",
         "datetime": {
@@ -4355,7 +4355,7 @@
       "name": "Eid ul-Fitr Holiday",
       "name_bn": "ঈদুল ফিতরের ছুটি",
       "description": "Eid ul-Fitr Holiday is an optional holiday in Bangladesh",
-      "description_bn": "ঈদুল ফিতরের ছুটি বাংলাদেশে ঐচ্ছিক ছুটি হিসেবে পালিত হয়।",
+      "description_bn": "ঈদুল ফিতরের ছুটি রমজানের শেষে ঈদ উদযাপনের সময়। মুসলমানরা নামাজ, আত্মীয়স্বজনের সঙ্গে দেখা, দান ও আনন্দ ভাগাভাগির মাধ্যমে দিনগুলো পালন করেন।",
       "date": {
         "iso": "2029-02-18",
         "datetime": {
@@ -4370,7 +4370,7 @@
       "name": "Language Martyrs' Day",
       "name_bn": "শহীদ দিবস ও আন্তর্জাতিক মাতৃভাষা দিবস",
       "description": "Language Martyrs' Day is a government holiday in Bangladesh",
-      "description_bn": "বাংলা ভাষার জন্য জীবন উৎসর্গকারী শহীদদের স্মরণে বাংলাদেশে এই দিনটি পালন করা হয়। দিনটি আন্তর্জাতিক মাতৃভাষা দিবস হিসেবেও বিশ্বজুড়ে পালিত হয়।",
+      "description_bn": "ভাষা শহীদ দিবস বাংলা ভাষার জন্য জীবন উৎসর্গকারী শহীদদের স্মরণে পালিত হয়। শহীদ মিনারে শ্রদ্ধা নিবেদন ও সাংস্কৃতিক আয়োজনে ভাষার মর্যাদা তুলে ধরা হয়।",
       "date": {
         "iso": "2029-02-21",
         "datetime": {
@@ -4385,7 +4385,7 @@
       "name": "Holi",
       "name_bn": "দোলযাত্রা",
       "description": "Holi is a spring festival of colors celebrated by Hindus, Sikhs and others. It celebrates the triumph of good over evil and the upcoming season of spring. The festival can last up to sixteen days.",
-      "description_bn": "দোলযাত্রা বাংলাদেশে ঐচ্ছিক ছুটি হিসেবে পালিত হয়।",
+      "description_bn": "হোলি রঙের উৎসব এবং বসন্তের আনন্দের প্রতীক। সনাতন ধর্মাবলম্বীরা রঙ, আবির, গান ও সামাজিক মিলনের মাধ্যমে দিনটি উদযাপন করেন।",
       "date": {
         "iso": "2029-03-01",
         "datetime": {
@@ -4400,7 +4400,7 @@
       "name": "National Flag Day",
       "name_bn": "জাতীয় পতাকা দিবস",
       "description": "National Flag Day is an observance in Bangladesh",
-      "description_bn": "জাতীয় পতাকা দিবস বাংলাদেশে পালনীয় দিন হিসেবে পালিত হয়।",
+      "description_bn": "জাতীয় পতাকা দিবসে বাংলাদেশের জাতীয় পতাকার ইতিহাস ও মর্যাদা স্মরণ করা হয়। স্বাধীনতা, সার্বভৌমত্ব ও জাতীয় পরিচয়ের প্রতীক হিসেবে পতাকাকে সম্মান জানানো হয়।",
       "date": {
         "iso": "2029-03-02",
         "datetime": {
@@ -4415,7 +4415,7 @@
       "name": "Independence Day",
       "name_bn": "স্বাধীনতা দিবস",
       "description": "Independence Day is a government holiday in Bangladesh",
-      "description_bn": "১৯৭১ সালের ২৬ মার্চ বাংলাদেশের স্বাধীনতার ঘোষণাকে স্মরণ করে স্বাধীনতা দিবস পালিত হয়।",
+      "description_bn": "স্বাধীনতা দিবস ১৯৭১ সালের ২৬ মার্চ বাংলাদেশের স্বাধীনতার ঘোষণাকে স্মরণ করে। জাতীয় পতাকা উত্তোলন, শ্রদ্ধা নিবেদন ও নানা আয়োজনে দিনটি পালিত হয়।",
       "date": {
         "iso": "2029-03-26",
         "datetime": {
@@ -4430,7 +4430,7 @@
       "name": "Chaitra Sankranti",
       "name_bn": "চৈত্র সংক্রান্তি",
       "description": "Chaitra Sankranti is a government holiday in Bangladesh",
-      "description_bn": "চৈত্র সংক্রান্তি বাংলাদেশে জাতীয় ছুটি হিসেবে পালিত হয়।",
+      "description_bn": "চৈত্র সংক্রান্তি বাংলা বছরের শেষ দিন। গ্রামীণ মেলা, লোকাচার ও নানা আচার-অনুষ্ঠানের মাধ্যমে পুরোনো বছরকে বিদায় জানানো হয়।",
       "date": {
         "iso": "2029-04-13",
         "datetime": {
@@ -4445,7 +4445,7 @@
       "name": "Bengali New Year",
       "name_bn": "পহেলা বৈশাখ",
       "description": "Bengali New Year is a government holiday in Bangladesh",
-      "description_bn": "বাংলা সনের প্রথম দিন পহেলা বৈশাখে বাংলাদেশে নববর্ষ উদযাপন করা হয়।",
+      "description_bn": "পহেলা বৈশাখ বাংলা সনের প্রথম দিন। বাংলাদেশে মঙ্গল শোভাযাত্রা, হালখাতা, মেলা ও সাংস্কৃতিক আয়োজনের মাধ্যমে নববর্ষ উদযাপন করা হয়।",
       "date": {
         "iso": "2029-04-14",
         "datetime": {
@@ -4460,7 +4460,7 @@
       "name": "Eid al-Adha Holiday",
       "name_bn": "ঈদুল আজহার ছুটি",
       "description": "Eid al-Adha Holiday is a government holiday in Bangladesh",
-      "description_bn": "ঈদুল আজহার ছুটি বাংলাদেশে জাতীয় ছুটি হিসেবে পালিত হয়।",
+      "description_bn": "ঈদুল আজহার ছুটি কোরবানি ও ঈদ উদযাপনের ধারাবাহিক সময়। পরিবার, সমাজ ও দরিদ্র মানুষের সঙ্গে কোরবানির মাংস ভাগ করে আনন্দ প্রকাশ করা হয়।",
       "date": {
         "iso": "2029-04-21",
         "datetime": {
@@ -4475,7 +4475,7 @@
       "name": "Eid al-Adha Holiday",
       "name_bn": "ঈদুল আজহার ছুটি",
       "description": "Eid al-Adha Holiday is a government holiday in Bangladesh",
-      "description_bn": "ঈদুল আজহার ছুটি বাংলাদেশে জাতীয় ছুটি হিসেবে পালিত হয়।",
+      "description_bn": "ঈদুল আজহার ছুটি কোরবানি ও ঈদ উদযাপনের ধারাবাহিক সময়। পরিবার, সমাজ ও দরিদ্র মানুষের সঙ্গে কোরবানির মাংস ভাগ করে আনন্দ প্রকাশ করা হয়।",
       "date": {
         "iso": "2029-04-22",
         "datetime": {
@@ -4490,7 +4490,7 @@
       "name": "Eid al-Adha",
       "name_bn": "ঈদুল আজহা",
       "description": "Eid al-Adha (Id ul-Adha) is an Islamic festival falling on the 10th day of the month of Dhul Hijja (Thou al-Hijja) to commemorate the willingness of Ibrahim (Abraham) to sacrifice his son.",
-      "description_bn": "ত্যাগ ও কোরবানির মহিমা স্মরণ করে মুসলমানদের প্রধান ধর্মীয় উৎসব ঈদুল আজহা উদযাপিত হয়।",
+      "description_bn": "ঈদুল আজহা ত্যাগ ও কোরবানির মহিমা স্মরণে মুসলমানদের প্রধান ধর্মীয় উৎসব। নামাজ, কোরবানি, দান ও আত্মীয়স্বজনের সঙ্গে আনন্দ ভাগ করে দিনটি পালিত হয়।",
       "date": {
         "iso": "2029-04-23",
         "datetime": {
@@ -4505,7 +4505,7 @@
       "name": "Eid al-Adha Holiday",
       "name_bn": "ঈদুল আজহার ছুটি",
       "description": "Eid al-Adha Holiday is a government holiday in Bangladesh",
-      "description_bn": "ঈদুল আজহার ছুটি বাংলাদেশে জাতীয় ছুটি হিসেবে পালিত হয়।",
+      "description_bn": "ঈদুল আজহার ছুটি কোরবানি ও ঈদ উদযাপনের ধারাবাহিক সময়। পরিবার, সমাজ ও দরিদ্র মানুষের সঙ্গে কোরবানির মাংস ভাগ করে আনন্দ প্রকাশ করা হয়।",
       "date": {
         "iso": "2029-04-24",
         "datetime": {
@@ -4520,7 +4520,7 @@
       "name": "Eid al-Adha Holiday",
       "name_bn": "ঈদুল আজহার ছুটি",
       "description": "Eid al-Adha Holiday is a government holiday in Bangladesh",
-      "description_bn": "ঈদুল আজহার ছুটি বাংলাদেশে জাতীয় ছুটি হিসেবে পালিত হয়।",
+      "description_bn": "ঈদুল আজহার ছুটি কোরবানি ও ঈদ উদযাপনের ধারাবাহিক সময়। পরিবার, সমাজ ও দরিদ্র মানুষের সঙ্গে কোরবানির মাংস ভাগ করে আনন্দ প্রকাশ করা হয়।",
       "date": {
         "iso": "2029-04-25",
         "datetime": {
@@ -4535,7 +4535,7 @@
       "name": "Eid al-Adha Holiday",
       "name_bn": "ঈদুল আজহার ছুটি",
       "description": "Eid al-Adha Holiday is a government holiday in Bangladesh",
-      "description_bn": "ঈদুল আজহার ছুটি বাংলাদেশে জাতীয় ছুটি হিসেবে পালিত হয়।",
+      "description_bn": "ঈদুল আজহার ছুটি কোরবানি ও ঈদ উদযাপনের ধারাবাহিক সময়। পরিবার, সমাজ ও দরিদ্র মানুষের সঙ্গে কোরবানির মাংস ভাগ করে আনন্দ প্রকাশ করা হয়।",
       "date": {
         "iso": "2029-04-26",
         "datetime": {
@@ -4550,7 +4550,7 @@
       "name": "Eid al-Adha Holiday",
       "name_bn": "ঈদুল আজহার ছুটি",
       "description": "Eid al-Adha Holiday is an optional holiday in Bangladesh",
-      "description_bn": "ঈদুল আজহার ছুটি বাংলাদেশে ঐচ্ছিক ছুটি হিসেবে পালিত হয়।",
+      "description_bn": "ঈদুল আজহার ছুটি কোরবানি ও ঈদ উদযাপনের ধারাবাহিক সময়। পরিবার, সমাজ ও দরিদ্র মানুষের সঙ্গে কোরবানির মাংস ভাগ করে আনন্দ প্রকাশ করা হয়।",
       "date": {
         "iso": "2029-04-27",
         "datetime": {
@@ -4565,7 +4565,7 @@
       "name": "May Day",
       "name_bn": "মে দিবস",
       "description": "Labor Day, International Workers' Day, and May Day, is a day off for workers in many countries around the world.",
-      "description_bn": "শ্রমিকদের অধিকার ও অবদানের স্বীকৃতিতে আন্তর্জাতিক শ্রমিক দিবস পালিত হয়।",
+      "description_bn": "মে দিবস শ্রমিকদের অধিকার ও শ্রমের মর্যাদার আন্তর্জাতিক দিন। শ্রমিক আন্দোলনের ইতিহাস স্মরণ করে ন্যায্য অধিকার ও নিরাপদ কর্মপরিবেশের কথা বলা হয়।",
       "date": {
         "iso": "2029-05-01",
         "datetime": {
@@ -4580,7 +4580,7 @@
       "name": "Mother's Day",
       "name_bn": "মা দিবস",
       "description": "Mother's Day celebrates the achievements and efforts of mothers and mother figures.",
-      "description_bn": "মা দিবস বাংলাদেশে পালনীয় দিন হিসেবে পালিত হয়।",
+      "description_bn": "মা দিবসে মায়ের ভালোবাসা, ত্যাগ ও অবদানের প্রতি শ্রদ্ধা জানানো হয়। শুভেচ্ছা, উপহার ও পারিবারিক ভালোবাসার মাধ্যমে দিনটি পালন করা হয়।",
       "date": {
         "iso": "2029-05-13",
         "datetime": {
@@ -4595,7 +4595,7 @@
       "name": "Muharram",
       "name_bn": "মহররম",
       "description": "Muharram is the first month of the Islamic calendar and a time of remembrance or mourning.",
-      "description_bn": "মহররম বাংলাদেশে জাতীয় ছুটি হিসেবে পালিত হয়।",
+      "description_bn": "মহররম ইসলামি বর্ষপঞ্জির প্রথম মাস। মুসলমানরা নতুন হিজরি বছর, আত্মসংযম ও কারবালার শিক্ষা স্মরণ করে ধর্মীয় ভাবগাম্ভীর্যে মাসটি পালন করেন।",
       "date": {
         "iso": "2029-05-15",
         "datetime": {
@@ -4610,7 +4610,7 @@
       "name": "Ashura",
       "name_bn": "আশুরা",
       "description": "Ashura is a government holiday in Bangladesh",
-      "description_bn": "ইসলামি বর্ষপঞ্জির মহররম মাসের দশম দিনে আশুরা পালিত হয়।",
+      "description_bn": "আশুরা ইসলামি বর্ষপঞ্জির মহররম মাসের দশম দিন। কারবালার শোকাবহ ঘটনা স্মরণে মুসলমানরা দোয়া, রোজা ও ধর্মীয় ভাবগাম্ভীর্যের মাধ্যমে দিনটি পালন করেন।",
       "date": {
         "iso": "2029-05-24",
         "datetime": {
@@ -4625,7 +4625,7 @@
       "name": "Buddha Purnima Holiday",
       "name_bn": "বুদ্ধ পূর্ণিমার ছুটি",
       "description": "Buddha Purnima Holiday is an optional holiday in Bangladesh",
-      "description_bn": "বুদ্ধ পূর্ণিমার ছুটি বাংলাদেশে ঐচ্ছিক ছুটি হিসেবে পালিত হয়।",
+      "description_bn": "বুদ্ধ পূর্ণিমার ছুটি গৌতম বুদ্ধের জন্ম, বোধিলাভ ও মহাপরিনির্বাণ স্মরণে পালিত হয়। বৌদ্ধ ধর্মাবলম্বীরা প্রার্থনা, দান ও ধর্মীয় অনুষ্ঠানে অংশ নেন।",
       "date": {
         "iso": "2029-05-26",
         "datetime": {
@@ -4640,7 +4640,7 @@
       "name": "Buddha Purnima/Vesak",
       "name_bn": "বুদ্ধ পূর্ণিমা",
       "description": "Buddha Purnima/Vesak is a government holiday in Bangladesh",
-      "description_bn": "বুদ্ধ পূর্ণিমা বাংলাদেশে জাতীয় ছুটি হিসেবে পালিত হয়।",
+      "description_bn": "বুদ্ধ পূর্ণিমা গৌতম বুদ্ধের জীবনের তিনটি মহৎ ঘটনার স্মারক। এদিন বৌদ্ধরা বিহারে প্রার্থনা, প্রদীপ প্রজ্বালন ও দানশীলতার মাধ্যমে দিনটি পালন করেন।",
       "date": {
         "iso": "2029-05-27",
         "datetime": {
@@ -4655,7 +4655,7 @@
       "name": "Buddha Purnima Holiday",
       "name_bn": "বুদ্ধ পূর্ণিমার ছুটি",
       "description": "Buddha Purnima Holiday is an optional holiday in Bangladesh",
-      "description_bn": "বুদ্ধ পূর্ণিমার ছুটি বাংলাদেশে ঐচ্ছিক ছুটি হিসেবে পালিত হয়।",
+      "description_bn": "বুদ্ধ পূর্ণিমার ছুটি গৌতম বুদ্ধের জন্ম, বোধিলাভ ও মহাপরিনির্বাণ স্মরণে পালিত হয়। বৌদ্ধ ধর্মাবলম্বীরা প্রার্থনা, দান ও ধর্মীয় অনুষ্ঠানে অংশ নেন।",
       "date": {
         "iso": "2029-05-28",
         "datetime": {
@@ -4670,7 +4670,7 @@
       "name": "Father's Day",
       "name_bn": "বাবা দিবস",
       "description": "Father's Day celebrates fatherhood and male parenting on different dates worldwide.",
-      "description_bn": "বাবা দিবস বাংলাদেশে পালনীয় দিন হিসেবে পালিত হয়।",
+      "description_bn": "বাবা দিবসে বাবার ভালোবাসা, ত্যাগ ও অবদানের প্রতি কৃতজ্ঞতা প্রকাশ করা হয়। শুভেচ্ছা, উপহার ও পারিবারিক সময়ের মাধ্যমে দিনটি পালিত হয়।",
       "date": {
         "iso": "2029-06-17",
         "datetime": {
@@ -4685,7 +4685,7 @@
       "name": "July 1 Bank Holiday",
       "name_bn": "১ জুলাই ব্যাংক ছুটি",
       "description": "July 1 Bank Holiday is a bank holiday in Bangladesh",
-      "description_bn": "১ জুলাই ব্যাংক ছুটি বাংলাদেশে পালনীয় দিন হিসেবে পালিত হয়।",
+      "description_bn": "১ জুলাই ব্যাংক ছুটি ব্যাংকিং খাতের নির্ধারিত বার্ষিক ছুটির দিন। এদিন ব্যাংকের নিয়মিত লেনদেন বন্ধ থাকে এবং হিসাব-নিকাশের কাজ সম্পন্ন হয়।",
       "date": {
         "iso": "2029-07-01",
         "datetime": {
@@ -4700,7 +4700,7 @@
       "name": "Akhari Chahar Somba",
       "name_bn": "আখেরি চাহার সোম্বা",
       "description": "Akhari Chahar Somba is an optional holiday in Bangladesh",
-      "description_bn": "আখেরি চাহার সোম্বা বাংলাদেশে ঐচ্ছিক ছুটি হিসেবে পালিত হয়।",
+      "description_bn": "আখেরি চাহার সোম্বা ইসলাম ধর্মে সফর মাসের শেষ বুধবারের স্মারক দিন। এদিন মুসলমানরা দোয়া, নফল ইবাদত ও কল্যাণ কামনার মাধ্যমে দিনটি পালন করেন।",
       "date": {
         "iso": "2029-07-11",
         "datetime": {
@@ -4715,7 +4715,7 @@
       "name": "Eid e-Milad-un Nabi",
       "name_bn": "ঈদে মিলাদুন্নবী",
       "description": "Mawlid, or Milad, marks the birth of the Islamic prophet Muhammed, or Mohamed, in the year 570 of the Gregorian calendar.",
-      "description_bn": "মহানবী হযরত মুহাম্মদ (সা.)-এর জন্মদিন স্মরণে ঈদে মিলাদুন্নবী পালিত হয়।",
+      "description_bn": "ঈদে মিলাদুন্নবী মহানবী হযরত মুহাম্মদ (সা.)-এর জন্মদিন স্মরণে পালিত হয়। মিলাদ, দরুদ, আলোচনা ও দোয়ার মাধ্যমে মুসলমানরা দিনটি পালন করেন।",
       "date": {
         "iso": "2029-07-24",
         "datetime": {
@@ -4730,7 +4730,7 @@
       "name": "Ashari Purnima",
       "name_bn": "আষাঢ়ী পূর্ণিমা",
       "description": "Ashari Purnima is an optional holiday in Bangladesh",
-      "description_bn": "আষাঢ়ী পূর্ণিমা বাংলাদেশে ঐচ্ছিক ছুটি হিসেবে পালিত হয়।",
+      "description_bn": "আষাঢ়ী পূর্ণিমা বৌদ্ধ ধর্মাবলম্বীদের একটি গুরুত্বপূর্ণ তিথি। এই দিনে বুদ্ধের ধর্মদেশনা ও বর্ষাবাসের সূচনার স্মরণে প্রার্থনা ও ধর্মীয় অনুষ্ঠান হয়।",
       "date": {
         "iso": "2029-07-25",
         "datetime": {
@@ -4745,7 +4745,7 @@
       "name": "Student-People Uprising Day",
       "name_bn": "ছাত্র-জনতার অভ্যুত্থান দিবস",
       "description": "Student-People Uprising Day is a government holiday in Bangladesh",
-      "description_bn": "ছাত্র-জনতার অভ্যুত্থান দিবস বাংলাদেশে জাতীয় ছুটি হিসেবে পালিত হয়।",
+      "description_bn": "ছাত্র-জনতার অভ্যুত্থান দিবস জনতার সংগ্রাম ও গণঅভ্যুত্থানের স্মরণে পালিত হয়। গণতান্ত্রিক অধিকার, আত্মত্যাগ ও ঐতিহাসিক পরিবর্তনের গুরুত্ব এদিন স্মরণ করা হয়।",
       "date": {
         "iso": "2029-08-05",
         "datetime": {
@@ -4760,7 +4760,7 @@
       "name": "Fateha-i-Yajdaham",
       "name_bn": "ফাতেহা-ই-ইয়াজদাহম",
       "description": "Fateha-i-Yajdaham is an optional holiday in Bangladesh",
-      "description_bn": "ফাতেহা-ই-ইয়াজদাহম বাংলাদেশে ঐচ্ছিক ছুটি হিসেবে পালিত হয়।",
+      "description_bn": "ফাতেহা-ই-ইয়াজদাহম বড় পীর হযরত আবদুল কাদের জিলানী (রহ.)-এর স্মরণে পালিত হয়। মুসলমানরা মিলাদ, দোয়া ও ইবাদতের মাধ্যমে দিনটি পালন করেন।",
       "date": {
         "iso": "2029-08-22",
         "datetime": {
@@ -4775,7 +4775,7 @@
       "name": "Janmashtami",
       "name_bn": "জন্মাষ্টমী",
       "description": "Krishna Janmashtami is a Hindu festival that celebrates the birth of Krishna, the eighth incarnation of the god Vishnu. It is celebrated on the eighth day of the Hindu month of Bhadrava (Bhadrapada), which is usually in August or September.",
-      "description_bn": "জন্মাষ্টমী বাংলাদেশে জাতীয় ছুটি, হিন্দু ধর্মীয় দিন হিসেবে পালিত হয়।",
+      "description_bn": "জন্মাষ্টমী ভগবান শ্রীকৃষ্ণের জন্মতিথি। সনাতন ধর্মাবলম্বীরা উপবাস, পূজা, কীর্তন ও ধর্মীয় শোভাযাত্রার মাধ্যমে দিনটি পালন করেন।",
       "date": {
         "iso": "2029-09-01",
         "datetime": {
@@ -4790,7 +4790,7 @@
       "name": "Madhu Purnima",
       "name_bn": "মধু পূর্ণিমা",
       "description": "Madhu Purnima is an optional holiday in Bangladesh",
-      "description_bn": "মধু পূর্ণিমা বাংলাদেশে ঐচ্ছিক ছুটি হিসেবে পালিত হয়।",
+      "description_bn": "মধু পূর্ণিমা বৌদ্ধ ধর্মাবলম্বীদের একটি পবিত্র দিন। বুদ্ধের জীবনের করুণা ও দানের শিক্ষা স্মরণে প্রার্থনা, দান ও ধর্মীয় অনুষ্ঠান হয়।",
       "date": {
         "iso": "2029-09-22",
         "datetime": {
@@ -4805,7 +4805,7 @@
       "name": "September Equinox",
       "name_bn": "সেপ্টেম্বর বিষুব",
       "description": "September Equinox in Bangladesh (Dhaka)",
-      "description_bn": "সেপ্টেম্বর বিষুব বাংলাদেশে ঋতুভিত্তিক দিন হিসেবে পালিত হয়।",
+      "description_bn": "সেপ্টেম্বর বিষুব দিনে দিন ও রাত প্রায় সমান হয়। ঋতুচক্রের পরিবর্তন বোঝাতে জ্যোতির্বৈজ্ঞানিক এই ঘটনাটি গুরুত্ব বহন করে।",
       "date": {
         "iso": "2029-09-22T23:37:00+06:00",
         "datetime": {
@@ -4830,7 +4830,7 @@
       "name": "Mahalaya",
       "name_bn": "মহালয়া",
       "description": "Mahalaya is an optional holiday in Bangladesh",
-      "description_bn": "মহালয়া বাংলাদেশে ঐচ্ছিক ছুটি হিসেবে পালিত হয়।",
+      "description_bn": "মহালয়া দুর্গাপূজার আগমনী বার্তা বহন করে। দেবী দুর্গার আহ্বান, চণ্ডীপাঠ ও পূর্বপুরুষের তর্পণের মাধ্যমে দিনটি পালন করা হয়।",
       "date": {
         "iso": "2029-10-06",
         "datetime": {
@@ -4845,7 +4845,7 @@
       "name": "Durga Puja Holiday",
       "name_bn": "দুর্গাপূজার ছুটি",
       "description": "Durga Puja Holiday is an optional holiday in Bangladesh",
-      "description_bn": "দুর্গাপূজার ছুটি বাংলাদেশে ঐচ্ছিক ছুটি হিসেবে পালিত হয়।",
+      "description_bn": "দুর্গাপূজার ছুটি দেবী দুর্গার আরাধনা ঘিরে পালিত হয়। পরিবার, মণ্ডপ ও পূজা-অনুষ্ঠানে অংশ নিতে সনাতন ধর্মাবলম্বীরা এই সময়টি ব্যবহার করেন।",
       "date": {
         "iso": "2029-10-13",
         "datetime": {
@@ -4860,7 +4860,7 @@
       "name": "Ashtami",
       "name_bn": "অষ্টমী",
       "description": "Ashtami is an optional holiday in Bangladesh",
-      "description_bn": "অষ্টমী বাংলাদেশে ঐচ্ছিক ছুটি হিসেবে পালিত হয়।",
+      "description_bn": "অষ্টমী দুর্গাপূজার অন্যতম গুরুত্বপূর্ণ দিন। এদিন দেবী দুর্গার বিশেষ পূজা, অঞ্জলি ও প্রার্থনার মাধ্যমে সনাতন ধর্মাবলম্বীরা উৎসব পালন করেন।",
       "date": {
         "iso": "2029-10-14",
         "datetime": {
@@ -4875,7 +4875,7 @@
       "name": "Mahanabami",
       "name_bn": "মহানবমী",
       "description": "Mahanabami is a government holiday in Bangladesh",
-      "description_bn": "মহানবমী বাংলাদেশে জাতীয় ছুটি হিসেবে পালিত হয়।",
+      "description_bn": "মহানবমী দুর্গাপূজার গুরুত্বপূর্ণ তিথি। দেবী দুর্গার বিশেষ পূজা, অঞ্জলি ও ধর্মীয় অনুষ্ঠানের মাধ্যমে সনাতন ধর্মাবলম্বীরা দিনটি পালন করেন।",
       "date": {
         "iso": "2029-10-15",
         "datetime": {
@@ -4890,7 +4890,7 @@
       "name": "Durga Puja",
       "name_bn": "দুর্গাপূজা",
       "description": "Durga Puja is a government holiday in Bangladesh",
-      "description_bn": "সনাতন ধর্মাবলম্বীদের প্রধান ধর্মীয় উৎসব দুর্গাপূজায় দেবী দুর্গার আরাধনা করা হয়।",
+      "description_bn": "দুর্গাপূজা সনাতন ধর্মাবলম্বীদের প্রধান ধর্মীয় উৎসব। দেবী দুর্গার আরাধনা, অঞ্জলি, সাংস্কৃতিক অনুষ্ঠান ও বিজয়ার মাধ্যমে উৎসব সম্পন্ন হয়।",
       "date": {
         "iso": "2029-10-16",
         "datetime": {
@@ -4905,7 +4905,7 @@
       "name": "Lakshmi Puja",
       "name_bn": "লক্ষ্মী পূজা",
       "description": "Lakshmi Puja is an optional holiday in Bangladesh",
-      "description_bn": "লক্ষ্মী পূজা বাংলাদেশে ঐচ্ছিক ছুটি হিসেবে পালিত হয়।",
+      "description_bn": "লক্ষ্মী পূজা ধন-সম্পদ ও কল্যাণের দেবী লক্ষ্মীর আরাধনা। সনাতন ধর্মাবলম্বীরা পূজা, প্রদীপ ও পারিবারিক আয়োজনে সমৃদ্ধি কামনা করেন।",
       "date": {
         "iso": "2029-10-21",
         "datetime": {
@@ -4920,7 +4920,7 @@
       "name": "Prabarana Purnima",
       "name_bn": "প্রবারণা পূর্ণিমা",
       "description": "Prabarana Purnima is an optional holiday in Bangladesh",
-      "description_bn": "প্রবারণা পূর্ণিমা বাংলাদেশে ঐচ্ছিক ছুটি হিসেবে পালিত হয়।",
+      "description_bn": "প্রবারণা পূর্ণিমা বৌদ্ধ ধর্মাবলম্বীদের বর্ষাবাস সমাপ্তির দিন। প্রার্থনা, ফানুস উড়ানো, দান ও ধর্মীয় অনুষ্ঠানের মাধ্যমে দিনটি উদযাপিত হয়।",
       "date": {
         "iso": "2029-10-21",
         "datetime": {
@@ -4935,7 +4935,7 @@
       "name": "Sri Shayama Puja",
       "name_bn": "শ্রী শ্যামা পূজা",
       "description": "Sri Shayama Puja is an optional holiday in Bangladesh",
-      "description_bn": "শ্রী শ্যামা পূজা বাংলাদেশে ঐচ্ছিক ছুটি হিসেবে পালিত হয়।",
+      "description_bn": "শ্রী শ্যামা পূজা দেবী কালীর আরাধনার উৎসব। সনাতন ধর্মাবলম্বীরা পূজা, প্রদীপ, প্রার্থনা ও মঙ্গল কামনার মাধ্যমে দিনটি পালন করেন।",
       "date": {
         "iso": "2029-11-05",
         "datetime": {
@@ -4950,7 +4950,7 @@
       "name": "Shab-e-Meraj",
       "name_bn": "শবে মেরাজ",
       "description": "Isra and Mi'raj (Isra Me'raj, Israa and Mi'raaj, Laylat Al-Isra wa Al-Miraj, Lailat al Miraj, Night Journey and Ascension to Heaven) marks the night that the Prophet Mohammad traveled from Mecca to Jerusalem, ascended to heaven and returned.",
-      "description_bn": "ইসলাম ধর্মের একটি পবিত্র রজনী, যেদিন মহানবী হযরত মুহাম্মদ (সা.) মেরাজে গমন করেন। এই রাতে মুসলমানরা নফল নামাজ, দোয়া ও ইবাদতের মাধ্যমে আল্লাহর নৈকট্য লাভের চেষ্টা করেন।",
+      "description_bn": "শবে মেরাজ ইসলাম ধর্মের একটি পবিত্র রজনী, যেদিন মহানবী হযরত মুহাম্মদ (সা.) মেরাজে গমন করেন। এই রাতে মুসলমানরা নফল নামাজ, দোয়া ও ইবাদতের মাধ্যমে আল্লাহর নৈকট্য লাভের চেষ্টা করেন।",
       "date": {
         "iso": "2029-12-04",
         "datetime": {
@@ -4965,7 +4965,7 @@
       "name": "Victory Day",
       "name_bn": "বিজয় দিবস",
       "description": "Victory Day is a government holiday in Bangladesh",
-      "description_bn": "১৯৭১ সালের ১৬ ডিসেম্বর বাংলাদেশের বিজয় অর্জনের স্মরণে বিজয় দিবস পালিত হয়।",
+      "description_bn": "বিজয় দিবস ১৯৭১ সালের ১৬ ডিসেম্বর বাংলাদেশের বিজয় অর্জনের স্মরণে পালিত হয়। শহীদদের শ্রদ্ধা, জাতীয় পতাকা ও মুক্তিযুদ্ধের চেতনায় দিনটি উদযাপিত হয়।",
       "date": {
         "iso": "2029-12-16",
         "datetime": {
@@ -4980,7 +4980,7 @@
       "name": "Shab e-Barat",
       "name_bn": "শবে বরাত",
       "description": "Shab e-Barat is a government holiday in Bangladesh",
-      "description_bn": "শবে বরাত বাংলাদেশে জাতীয় ছুটি হিসেবে পালিত হয়।",
+      "description_bn": "শবে বরাত মুসলমানদের কাছে ক্ষমা ও বরকতের পবিত্র রজনী। এ রাতে নফল নামাজ, দোয়া, কবর জিয়ারত ও আল্লাহর রহমত কামনা করা হয়।",
       "date": {
         "iso": "2029-12-22",
         "datetime": {
@@ -4995,7 +4995,7 @@
       "name": "Christmas Day",
       "name_bn": "বড়দিন",
       "description": "Christmas Day is one of the biggest Christian celebrations and falls on December 25 in the Gregorian calendar.",
-      "description_bn": "যিশু খ্রিস্টের জন্মদিন স্মরণে খ্রিস্টান ধর্মাবলম্বীরা বড়দিন উদযাপন করেন।",
+      "description_bn": "বড়দিন যিশু খ্রিস্টের জন্মদিন স্মরণে খ্রিস্টান ধর্মাবলম্বীদের প্রধান উৎসব। প্রার্থনা, গির্জার অনুষ্ঠান, শুভেচ্ছা বিনিময় ও পারিবারিক আয়োজনে দিনটি পালিত হয়।",
       "date": {
         "iso": "2029-12-25",
         "datetime": {
@@ -5010,7 +5010,7 @@
       "name": "International Mother Language Day",
       "name_bn": "শহিদ দিবস ও আন্তর্জাতিক মাতৃভাষা দিবস",
       "description": "International Mother Language Day is a public holiday in Bangladesh.",
-      "description_bn": "শহিদ দিবস ও আন্তর্জাতিক মাতৃভাষা দিবস বাংলাদেশে জাতীয় ছুটি হিসেবে পালিত হয়।",
+      "description_bn": "আন্তর্জাতিক মাতৃভাষা দিবস ভাষা শহীদদের আত্মত্যাগের স্মরণে পালিত হয়। মাতৃভাষার মর্যাদা, ভাষাগত বৈচিত্র্য ও সাংস্কৃতিক অধিকারের গুরুত্ব এদিন তুলে ধরা হয়।",
       "date": {
         "iso": "2030-02-21",
         "datetime": {
@@ -5025,7 +5025,7 @@
       "name": "Independence and National Day",
       "name_bn": "স্বাধীনতা ও জাতীয় দিবস",
       "description": "Independence and National Day is a public holiday in Bangladesh.",
-      "description_bn": "স্বাধীনতা ও জাতীয় দিবস বাংলাদেশে জাতীয় ছুটি হিসেবে পালিত হয়।",
+      "description_bn": "স্বাধীনতা ও জাতীয় দিবস বাংলাদেশের স্বাধীনতার ঘোষণার স্মারক। জাতীয় মর্যাদা, মুক্তিযুদ্ধের চেতনা ও শহীদদের শ্রদ্ধার মধ্য দিয়ে দিনটি পালিত হয়।",
       "date": {
         "iso": "2030-03-26",
         "datetime": {
@@ -5040,7 +5040,7 @@
       "name": "Bengali New Year",
       "name_bn": "নববর্ষ",
       "description": "Bengali New Year is a public holiday in Bangladesh.",
-      "description_bn": "নববর্ষ বাংলাদেশে জাতীয় ছুটি হিসেবে পালিত হয়।",
+      "description_bn": "পহেলা বৈশাখ বাংলা সনের প্রথম দিন। বাংলাদেশে মঙ্গল শোভাযাত্রা, হালখাতা, মেলা ও সাংস্কৃতিক আয়োজনের মাধ্যমে নববর্ষ উদযাপন করা হয়।",
       "date": {
         "iso": "2030-04-14",
         "datetime": {
@@ -5055,7 +5055,7 @@
       "name": "Labour Day",
       "name_bn": "মে দিবস",
       "description": "Labour Day is a public holiday in Bangladesh.",
-      "description_bn": "মে দিবস বাংলাদেশে জাতীয় ছুটি হিসেবে পালিত হয়।",
+      "description_bn": "মে দিবস শ্রমিকদের অধিকার, মর্যাদা ও অবদানের স্বীকৃতির দিন। শ্রমজীবী মানুষের ন্যায্য দাবি ও নিরাপদ কর্মপরিবেশের গুরুত্ব এদিন তুলে ধরা হয়।",
       "date": {
         "iso": "2030-05-01",
         "datetime": {
@@ -5070,7 +5070,7 @@
       "name": "July Mass Uprising Day",
       "name_bn": "জুলাই গণঅভ্যুত্থান দিবস",
       "description": "July Mass Uprising Day is a public holiday in Bangladesh.",
-      "description_bn": "জুলাই গণঅভ্যুত্থান দিবস বাংলাদেশে জাতীয় ছুটি হিসেবে পালিত হয়।",
+      "description_bn": "জুলাই গণঅভ্যুত্থান দিবস জনগণের গণআন্দোলন ও আত্মত্যাগের স্মরণে পালিত হয়। গণতান্ত্রিক অধিকার ও জনতার সংগ্রামের গুরুত্ব এদিন স্মরণ করা হয়।",
       "date": {
         "iso": "2030-08-05",
         "datetime": {
@@ -5085,7 +5085,7 @@
       "name": "Victory Day",
       "name_bn": "বিজয় দিবস",
       "description": "Victory Day is a public holiday in Bangladesh.",
-      "description_bn": "বিজয় দিবস বাংলাদেশে জাতীয় ছুটি হিসেবে পালিত হয়।",
+      "description_bn": "বিজয় দিবস ১৯৭১ সালের ১৬ ডিসেম্বর বাংলাদেশের বিজয় অর্জনের স্মরণে পালিত হয়। শহীদদের শ্রদ্ধা, জাতীয় পতাকা ও মুক্তিযুদ্ধের চেতনায় দিনটি উদযাপিত হয়।",
       "date": {
         "iso": "2030-12-16",
         "datetime": {
@@ -5100,7 +5100,7 @@
       "name": "Christmas Day",
       "name_bn": "বড়দিন",
       "description": "Christmas Day is a public holiday in Bangladesh.",
-      "description_bn": "বড়দিন বাংলাদেশে জাতীয় ছুটি হিসেবে পালিত হয়।",
+      "description_bn": "বড়দিন যিশু খ্রিস্টের জন্মদিন স্মরণে খ্রিস্টান ধর্মাবলম্বীদের প্রধান উৎসব। প্রার্থনা, গির্জার অনুষ্ঠান, শুভেচ্ছা বিনিময় ও পারিবারিক আয়োজনে দিনটি পালিত হয়।",
       "date": {
         "iso": "2030-12-25",
         "datetime": {
