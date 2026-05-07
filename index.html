@@ -416,7 +416,11 @@ let selectedDate = new Date();
 
 const HOLIDAY_API_BASE = "https://date.nager.at/api/v3/PublicHolidays";
 const COUNTRY_CODE = "BD";
+const CALENDARIFIC_API_BASE = "https://calendarific.com/api/v2/holidays";
+const CALENDARIFIC_API_KEY = "wiTN0a8NQnSjMHaMhQqC1hVSeCfvObOk";
+const CALENDARIFIC_LANGUAGE = "bn";
 const holidayCache = new Map();
+const calendarificHolidayCache = new Map();
 const IPINFO_URL = "https://ipinfo.io/json";
 const WEATHER_BASE_URL = "https://api.open-meteo.com/v1/forecast";
 
@@ -462,6 +466,60 @@ async function getPublicHolidays(year) {
         holidayCache.set(year, empty);
         return empty;
     }
+}
+
+async function getCalendarificHolidays(year) {
+    if (calendarificHolidayCache.has(year)) return calendarificHolidayCache.get(year);
+
+    try {
+        const params = new URLSearchParams({
+            api_key: CALENDARIFIC_API_KEY,
+            country: COUNTRY_CODE,
+            year: String(year),
+            language: CALENDARIFIC_LANGUAGE
+        });
+        const res = await fetch(`${CALENDARIFIC_API_BASE}?${params.toString()}`);
+        if (!res.ok) throw new Error(`Calendarific API status ${res.status}`);
+        const data = await res.json();
+        const holidays = data?.response?.holidays || [];
+        const dateMap = new Map();
+
+        for (const item of holidays) {
+            const isoDate = item?.date?.iso?.slice(0, 10);
+            if (!isoDate) continue;
+
+            const displayName = item.name || item.description || "Public Holiday";
+            const existing = dateMap.get(isoDate);
+            if (existing) {
+                dateMap.set(isoDate, `${existing}, ${displayName}`);
+            } else {
+                dateMap.set(isoDate, displayName);
+            }
+        }
+
+        calendarificHolidayCache.set(year, dateMap);
+        return dateMap;
+    } catch (error) {
+        console.warn("Could not load Calendarific holidays:", error);
+        const empty = new Map();
+        calendarificHolidayCache.set(year, empty);
+        return empty;
+    }
+}
+
+function mergeHolidayMaps(primary, fallback) {
+    const merged = new Map(fallback);
+
+    primary.forEach((name, date) => {
+        const existing = merged.get(date);
+        if (existing && existing !== name) {
+            merged.set(date, `${name}, ${existing}`);
+        } else {
+            merged.set(date, name);
+        }
+    });
+
+    return merged;
 }
 
 function getBanglaDate(date) {
@@ -669,7 +727,11 @@ function generateCalendar(year, month, holidays = new Map()) {
 async function render() {
     updateMonthInput(selectedDate);
     const year = selectedDate.getFullYear();
-    const holidays = await getPublicHolidays(year);
+    const [calendarificHolidays, publicHolidays] = await Promise.all([
+        getCalendarificHolidays(year),
+        getPublicHolidays(year)
+    ]);
+    const holidays = mergeHolidayMaps(calendarificHolidays, publicHolidays);
     generateCalendar(year, selectedDate.getMonth(), holidays);
 }
 
