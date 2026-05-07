@@ -1,10 +1,11 @@
-const CACHE_NAME = "kej-calendar-v1";
+const CACHE_NAME = "kej-calendar-v2";
 const APP_SHELL = [
-  "/",
-  "/index.html",
-  "/manifest.webmanifest",
-  "/icons/icon-192.svg",
-  "/icons/icon-512.svg"
+  "./",
+  "./index.html",
+  "./holidays.json",
+  "./manifest.webmanifest",
+  "./icons/icon-192.svg",
+  "./icons/icon-512.svg"
 ];
 
 self.addEventListener("install", (event) => {
@@ -34,7 +35,7 @@ self.addEventListener("fetch", (event) => {
           caches.open(CACHE_NAME).then((cache) => cache.put(event.request, clone));
           return response;
         })
-        .catch(() => caches.match("/index.html"));
+        .catch(() => caches.match("./index.html"));
     })
   );
 });

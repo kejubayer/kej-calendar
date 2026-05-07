@@ -1,0 +1,1139 @@
+{
+  "holidays": [
+    {
+      "name": "New Year's Day",
+      "name_bn": "নববর্ষ",
+      "description": "New Year's Day is the first day of the year, or January 1, in the Gregorian calendar.",
+      "description_bn": "নববর্ষ বাংলাদেশে ঐচ্ছিক ছুটি হিসেবে পালিত হয়।",
+      "date": {
+        "iso": "2026-01-01",
+        "datetime": {
+          "year": 2026,
+          "month": 1,
+          "day": 1
+        }
+      },
+      "type": "Optional holiday"
+    },
+    {
+      "name": "Bangabandhu Homecoming Day",
+      "name_bn": "বঙ্গবন্ধুর স্বদেশ প্রত্যাবর্তন দিবস",
+      "description": "Bangabandhu Homecoming Day is an observance in Bangladesh",
+      "description_bn": "বঙ্গবন্ধুর স্বদেশ প্রত্যাবর্তন দিবস বাংলাদেশে পালনীয় দিন হিসেবে পালিত হয়।",
+      "date": {
+        "iso": "2026-01-10",
+        "datetime": {
+          "year": 2026,
+          "month": 1,
+          "day": 10
+        }
+      },
+      "type": "Observance"
+    },
+    {
+      "name": "Shab-e-Meraj",
+      "name_bn": "শবে মেরাজ",
+      "description": "Isra and Mi'raj (Isra Me'raj, Israa and Mi'raaj, Laylat Al-Isra wa Al-Miraj, Lailat al Miraj, Night Journey and Ascension to Heaven) marks the night that the Prophet Mohammad traveled from Mecca to Jerusalem, ascended to heaven and returned.",
+      "description_bn": "ইসলাম ধর্মের একটি পবিত্র রজনী, যেদিন মহানবী হযরত মুহাম্মদ (সা.) মেরাজে গমন করেন। এই রাতে মুসলমানরা নফল নামাজ, দোয়া ও ইবাদতের মাধ্যমে আল্লাহর নৈকট্য লাভের চেষ্টা করেন।",
+      "date": {
+        "iso": "2026-01-17",
+        "datetime": {
+          "year": 2026,
+          "month": 1,
+          "day": 17
+        }
+      },
+      "type": "Optional holiday"
+    },
+    {
+      "name": "Saraswati Puja",
+      "name_bn": "সরস্বতী পূজা",
+      "description": "Saraswati Puja is an optional holiday in Bangladesh",
+      "description_bn": "সরস্বতী পূজা বাংলাদেশে ঐচ্ছিক ছুটি হিসেবে পালিত হয়।",
+      "date": {
+        "iso": "2026-01-23",
+        "datetime": {
+          "year": 2026,
+          "month": 1,
+          "day": 23
+        }
+      },
+      "type": "Optional holiday"
+    },
+    {
+      "name": "Maghi Purnima",
+      "name_bn": "মাঘী পূর্ণিমা",
+      "description": "Maghi Purnima is an optional holiday in Bangladesh",
+      "description_bn": "মাঘী পূর্ণিমা বাংলাদেশে ঐচ্ছিক ছুটি হিসেবে পালিত হয়।",
+      "date": {
+        "iso": "2026-02-01",
+        "datetime": {
+          "year": 2026,
+          "month": 2,
+          "day": 1
+        }
+      },
+      "type": "Optional holiday"
+    },
+    {
+      "name": "Shab e-Barat",
+      "name_bn": "শবে বরাত",
+      "description": "Shab e-Barat is a government holiday in Bangladesh",
+      "description_bn": "শবে বরাত বাংলাদেশে জাতীয় ছুটি হিসেবে পালিত হয়।",
+      "date": {
+        "iso": "2026-02-04",
+        "datetime": {
+          "year": 2026,
+          "month": 2,
+          "day": 4
+        }
+      },
+      "type": "National holiday"
+    },
+    {
+      "name": "Election Day",
+      "name_bn": "নির্বাচন দিবস",
+      "description": "Election Day is a national holiday in Bangladesh",
+      "description_bn": "নির্বাচন দিবস বাংলাদেশে জাতীয় ছুটি হিসেবে পালিত হয়।",
+      "date": {
+        "iso": "2026-02-11",
+        "datetime": {
+          "year": 2026,
+          "month": 2,
+          "day": 11
+        }
+      },
+      "type": "National holiday"
+    },
+    {
+      "name": "Election Day Holiday",
+      "name_bn": "নির্বাচন দিবসের ছুটি",
+      "description": "Election Day Holiday is a national holiday in Bangladesh",
+      "description_bn": "নির্বাচন দিবসের ছুটি বাংলাদেশে জাতীয় ছুটি হিসেবে পালিত হয়।",
+      "date": {
+        "iso": "2026-02-12",
+        "datetime": {
+          "year": 2026,
+          "month": 2,
+          "day": 12
+        }
+      },
+      "type": "National holiday"
+    },
+    {
+      "name": "Valentine's Day",
+      "name_bn": "ভ্যালেন্টাইনস ডে",
+      "description": "February 14 is Valentine's Day or Saint Valentine's Feast. The day of love owes its origins to ancient Roman and European Christian traditions.",
+      "description_bn": "ভ্যালেন্টাইনস ডে বাংলাদেশে পালনীয় দিন হিসেবে পালিত হয়।",
+      "date": {
+        "iso": "2026-02-14",
+        "datetime": {
+          "year": 2026,
+          "month": 2,
+          "day": 14
+        }
+      },
+      "type": "Observance"
+    },
+    {
+      "name": "Maha Shivaratri",
+      "name_bn": "মহা শিবরাত্রি",
+      "description": "Maha Shivratri is an annual festival dedicated to Shiva, the Hindu God of destruction. For devotees, is a day of reflection and meditation.",
+      "description_bn": "মহা শিবরাত্রি বাংলাদেশে হিন্দু ধর্মীয় দিন, ঐচ্ছিক ছুটি হিসেবে পালিত হয়।",
+      "date": {
+        "iso": "2026-02-15",
+        "datetime": {
+          "year": 2026,
+          "month": 2,
+          "day": 15
+        }
+      },
+      "type": "Hinduism, Optional holiday"
+    },
+    {
+      "name": "Ramadan Start",
+      "name_bn": "রমজান শুরু",
+      "description": "Ramadan is a period of prayer, reflection and fasting for many Muslims worldwide. It is the ninth month in the Islamic calendar.",
+      "description_bn": "রমজান শুরু বাংলাদেশে পালনীয় দিন হিসেবে পালিত হয়।",
+      "date": {
+        "iso": "2026-02-18",
+        "datetime": {
+          "year": 2026,
+          "month": 2,
+          "day": 18
+        }
+      },
+      "type": "Observance"
+    },
+    {
+      "name": "Ash Wednesday",
+      "name_bn": "অ্যাশ বুধবার",
+      "description": "Ash Wednesday marks the first day of Lent in western Christian churches.",
+      "description_bn": "অ্যাশ বুধবার বাংলাদেশে ঐচ্ছিক ছুটি হিসেবে পালিত হয়।",
+      "date": {
+        "iso": "2026-02-18",
+        "datetime": {
+          "year": 2026,
+          "month": 2,
+          "day": 18
+        }
+      },
+      "type": "Optional holiday"
+    },
+    {
+      "name": "Language Martyrs' Day",
+      "name_bn": "শহীদ দিবস ও আন্তর্জাতিক মাতৃভাষা দিবস",
+      "description": "Language Martyrs' Day is a government holiday in Bangladesh",
+      "description_bn": "বাংলা ভাষার জন্য জীবন উৎসর্গকারী শহীদদের স্মরণে বাংলাদেশে এই দিনটি পালন করা হয়। দিনটি আন্তর্জাতিক মাতৃভাষা দিবস হিসেবেও বিশ্বজুড়ে পালিত হয়।",
+      "date": {
+        "iso": "2026-02-21",
+        "datetime": {
+          "year": 2026,
+          "month": 2,
+          "day": 21
+        }
+      },
+      "type": "National holiday"
+    },
+    {
+      "name": "National Flag Day",
+      "name_bn": "জাতীয় পতাকা দিবস",
+      "description": "National Flag Day is an observance in Bangladesh",
+      "description_bn": "জাতীয় পতাকা দিবস বাংলাদেশে পালনীয় দিন হিসেবে পালিত হয়।",
+      "date": {
+        "iso": "2026-03-02",
+        "datetime": {
+          "year": 2026,
+          "month": 3,
+          "day": 2
+        }
+      },
+      "type": "Observance"
+    },
+    {
+      "name": "Holi",
+      "name_bn": "দোলযাত্রা",
+      "description": "Holi is a spring festival of colors celebrated by Hindus, Sikhs and others. It celebrates the triumph of good over evil and the upcoming season of spring. The festival can last up to sixteen days.",
+      "description_bn": "দোলযাত্রা বাংলাদেশে ঐচ্ছিক ছুটি হিসেবে পালিত হয়।",
+      "date": {
+        "iso": "2026-03-03",
+        "datetime": {
+          "year": 2026,
+          "month": 3,
+          "day": 3
+        }
+      },
+      "type": "Optional holiday"
+    },
+    {
+      "name": "Shab-e-qadr",
+      "name_bn": "শবে কদর",
+      "description": "Laylat al-Qadr commemorates the time when Mohammad received the first verses of the Koran (Qu'ran).",
+      "description_bn": "শবে কদর বাংলাদেশে জাতীয় ছুটি হিসেবে পালিত হয়।",
+      "date": {
+        "iso": "2026-03-17",
+        "datetime": {
+          "year": 2026,
+          "month": 3,
+          "day": 17
+        }
+      },
+      "type": "National holiday"
+    },
+    {
+      "name": "Arrival Day of Sri Sri Harichand Tagore",
+      "name_bn": "শ্রী শ্রী হরিচাঁদ ঠাকুরের আবির্ভাব দিবস",
+      "description": "Arrival Day of Sri Sri Harichand Tagore is an optional holiday in Bangladesh",
+      "description_bn": "শ্রী শ্রী হরিচাঁদ ঠাকুরের আবির্ভাব দিবস বাংলাদেশে ঐচ্ছিক ছুটি হিসেবে পালিত হয়।",
+      "date": {
+        "iso": "2026-03-17",
+        "datetime": {
+          "year": 2026,
+          "month": 3,
+          "day": 17
+        }
+      },
+      "type": "Optional holiday"
+    },
+    {
+      "name": "Eid ul-Fitr Holiday",
+      "name_bn": "ঈদুল ফিতরের ছুটি",
+      "description": "Eid ul-Fitr Holiday is a government holiday in Bangladesh",
+      "description_bn": "ঈদুল ফিতরের ছুটি বাংলাদেশে জাতীয় ছুটি হিসেবে পালিত হয়।",
+      "date": {
+        "iso": "2026-03-19",
+        "datetime": {
+          "year": 2026,
+          "month": 3,
+          "day": 19
+        }
+      },
+      "type": "National holiday"
+    },
+    {
+      "name": "Jumatul Bidah",
+      "name_bn": "জুমাতুল বিদা",
+      "description": "Jumatul Bidah is a government holiday in Bangladesh",
+      "description_bn": "জুমাতুল বিদা বাংলাদেশে জাতীয় ছুটি হিসেবে পালিত হয়।",
+      "date": {
+        "iso": "2026-03-20",
+        "datetime": {
+          "year": 2026,
+          "month": 3,
+          "day": 20
+        }
+      },
+      "type": "National holiday"
+    },
+    {
+      "name": "Eid ul-Fitr Holiday",
+      "name_bn": "ঈদুল ফিতরের ছুটি",
+      "description": "Eid ul-Fitr Holiday is a national holiday in Bangladesh",
+      "description_bn": "ঈদুল ফিতরের ছুটি বাংলাদেশে জাতীয় ছুটি হিসেবে পালিত হয়।",
+      "date": {
+        "iso": "2026-03-20",
+        "datetime": {
+          "year": 2026,
+          "month": 3,
+          "day": 20
+        }
+      },
+      "type": "National holiday"
+    },
+    {
+      "name": "March Equinox",
+      "name_bn": "মার্চ বিষুব",
+      "description": "March Equinox in Bangladesh (Dhaka)",
+      "description_bn": "মার্চ বিষুব বাংলাদেশে ঋতুভিত্তিক দিন হিসেবে পালিত হয়।",
+      "date": {
+        "iso": "2026-03-20T20:46:00+06:00",
+        "datetime": {
+          "year": 2026,
+          "month": 3,
+          "day": 20,
+          "hour": 20,
+          "minute": 46,
+          "second": 0
+        },
+        "timezone": {
+          "offset": "+06:00",
+          "zoneabb": "BST",
+          "zoneoffset": 21600,
+          "zonedst": 0,
+          "zonetotaloffset": 21600
+        }
+      },
+      "type": "Season"
+    },
+    {
+      "name": "Eid ul-Fitr",
+      "name_bn": "ঈদুল ফিতর",
+      "description": "Eid al-Fitr is a holiday to mark the end of the Islamic month of Ramadan, during which Muslims fast during the hours of daylight.",
+      "description_bn": "রমজান মাসের সিয়াম সাধনা শেষে মুসলমানদের প্রধান ধর্মীয় উৎসব ঈদুল ফিতর উদযাপিত হয়।",
+      "date": {
+        "iso": "2026-03-21",
+        "datetime": {
+          "year": 2026,
+          "month": 3,
+          "day": 21
+        }
+      },
+      "type": "National holiday"
+    },
+    {
+      "name": "Eid ul-Fitr Holiday",
+      "name_bn": "ঈদুল ফিতরের ছুটি",
+      "description": "Eid ul-Fitr Holiday is a government holiday in Bangladesh",
+      "description_bn": "ঈদুল ফিতরের ছুটি বাংলাদেশে জাতীয় ছুটি হিসেবে পালিত হয়।",
+      "date": {
+        "iso": "2026-03-22",
+        "datetime": {
+          "year": 2026,
+          "month": 3,
+          "day": 22
+        }
+      },
+      "type": "National holiday"
+    },
+    {
+      "name": "Eid ul-Fitr Holiday",
+      "name_bn": "ঈদুল ফিতরের ছুটি",
+      "description": "Eid ul-Fitr Holiday is a government holiday in Bangladesh",
+      "description_bn": "ঈদুল ফিতরের ছুটি বাংলাদেশে জাতীয় ছুটি হিসেবে পালিত হয়।",
+      "date": {
+        "iso": "2026-03-23",
+        "datetime": {
+          "year": 2026,
+          "month": 3,
+          "day": 23
+        }
+      },
+      "type": "National holiday"
+    },
+    {
+      "name": "Eid ul-Fitr Holiday",
+      "name_bn": "ঈদুল ফিতরের ছুটি",
+      "description": "Eid ul-Fitr Holiday is an optional holiday in Bangladesh",
+      "description_bn": "ঈদুল ফিতরের ছুটি বাংলাদেশে ঐচ্ছিক ছুটি হিসেবে পালিত হয়।",
+      "date": {
+        "iso": "2026-03-24",
+        "datetime": {
+          "year": 2026,
+          "month": 3,
+          "day": 24
+        }
+      },
+      "type": "Optional holiday"
+    },
+    {
+      "name": "Independence Day",
+      "name_bn": "স্বাধীনতা দিবস",
+      "description": "Independence Day is a government holiday in Bangladesh",
+      "description_bn": "১৯৭১ সালের ২৬ মার্চ বাংলাদেশের স্বাধীনতার ঘোষণাকে স্মরণ করে স্বাধীনতা দিবস পালিত হয়।",
+      "date": {
+        "iso": "2026-03-26",
+        "datetime": {
+          "year": 2026,
+          "month": 3,
+          "day": 26
+        }
+      },
+      "type": "National holiday"
+    },
+    {
+      "name": "Maundy Thursday",
+      "name_bn": "মন্ডি বৃহস্পতিবার",
+      "description": "Maundy Thursday is a Christian observance on the Thursday during Holy Week. It is the day before Good Friday.",
+      "description_bn": "মন্ডি বৃহস্পতিবার বাংলাদেশে ঐচ্ছিক ছুটি হিসেবে পালিত হয়।",
+      "date": {
+        "iso": "2026-04-02",
+        "datetime": {
+          "year": 2026,
+          "month": 4,
+          "day": 2
+        }
+      },
+      "type": "Optional holiday"
+    },
+    {
+      "name": "Good Friday",
+      "name_bn": "গুড ফ্রাইডে",
+      "description": "Good Friday is a global Christian observance two days before Easter Sunday.",
+      "description_bn": "গুড ফ্রাইডে বাংলাদেশে ঐচ্ছিক ছুটি হিসেবে পালিত হয়।",
+      "date": {
+        "iso": "2026-04-03",
+        "datetime": {
+          "year": 2026,
+          "month": 4,
+          "day": 3
+        }
+      },
+      "type": "Optional holiday"
+    },
+    {
+      "name": "Holy Saturday",
+      "name_bn": "পবিত্র শনিবার",
+      "description": "Holy Saturday is the day before Easter Sunday.",
+      "description_bn": "পবিত্র শনিবার বাংলাদেশে ঐচ্ছিক ছুটি হিসেবে পালিত হয়।",
+      "date": {
+        "iso": "2026-04-04",
+        "datetime": {
+          "year": 2026,
+          "month": 4,
+          "day": 4
+        }
+      },
+      "type": "Optional holiday"
+    },
+    {
+      "name": "Easter Day",
+      "name_bn": "ইস্টার সানডে",
+      "description": "Easter Sunday commemorates Jesus Christ's resurrection, according to Christian belief.",
+      "description_bn": "ইস্টার সানডে বাংলাদেশে ঐচ্ছিক ছুটি হিসেবে পালিত হয়।",
+      "date": {
+        "iso": "2026-04-05",
+        "datetime": {
+          "year": 2026,
+          "month": 4,
+          "day": 5
+        }
+      },
+      "type": "Optional holiday"
+    },
+    {
+      "name": "Easter Monday",
+      "name_bn": "ইস্টার সোমবার",
+      "description": "Easter Monday is the day after Easter Sunday.",
+      "description_bn": "ইস্টার সোমবার বাংলাদেশে পালনীয় দিন হিসেবে পালিত হয়।",
+      "date": {
+        "iso": "2026-04-06",
+        "datetime": {
+          "year": 2026,
+          "month": 4,
+          "day": 6
+        }
+      },
+      "type": "Observance"
+    },
+    {
+      "name": "Chaitra Sankranti",
+      "name_bn": "চৈত্র সংক্রান্তি",
+      "description": "Chaitra Sankranti is a government holiday in Bangladesh",
+      "description_bn": "চৈত্র সংক্রান্তি বাংলাদেশে জাতীয় ছুটি হিসেবে পালিত হয়।",
+      "date": {
+        "iso": "2026-04-13",
+        "datetime": {
+          "year": 2026,
+          "month": 4,
+          "day": 13
+        }
+      },
+      "type": "National holiday"
+    },
+    {
+      "name": "Bengali New Year",
+      "name_bn": "পহেলা বৈশাখ",
+      "description": "Bengali New Year is a government holiday in Bangladesh",
+      "description_bn": "বাংলা সনের প্রথম দিন পহেলা বৈশাখে বাংলাদেশে নববর্ষ উদযাপন করা হয়।",
+      "date": {
+        "iso": "2026-04-14",
+        "datetime": {
+          "year": 2026,
+          "month": 4,
+          "day": 14
+        }
+      },
+      "type": "National holiday"
+    },
+    {
+      "name": "Buddha Purnima Holiday",
+      "name_bn": "বুদ্ধ পূর্ণিমার ছুটি",
+      "description": "Buddha Purnima Holiday is an optional holiday in Bangladesh",
+      "description_bn": "বুদ্ধ পূর্ণিমার ছুটি বাংলাদেশে ঐচ্ছিক ছুটি হিসেবে পালিত হয়।",
+      "date": {
+        "iso": "2026-04-30",
+        "datetime": {
+          "year": 2026,
+          "month": 4,
+          "day": 30
+        }
+      },
+      "type": "Optional holiday"
+    },
+    {
+      "name": "May Day",
+      "name_bn": "মে দিবস",
+      "description": "Labor Day, International Workers' Day, and May Day, is a day off for workers in many countries around the world.",
+      "description_bn": "শ্রমিকদের অধিকার ও অবদানের স্বীকৃতিতে আন্তর্জাতিক শ্রমিক দিবস পালিত হয়।",
+      "date": {
+        "iso": "2026-05-01",
+        "datetime": {
+          "year": 2026,
+          "month": 5,
+          "day": 1
+        }
+      },
+      "type": "National holiday"
+    },
+    {
+      "name": "Buddha Purnima/Vesak",
+      "name_bn": "বুদ্ধ পূর্ণিমা",
+      "description": "Buddha Purnima/Vesak is a government holiday in Bangladesh",
+      "description_bn": "বুদ্ধ পূর্ণিমা বাংলাদেশে জাতীয় ছুটি হিসেবে পালিত হয়।",
+      "date": {
+        "iso": "2026-05-01",
+        "datetime": {
+          "year": 2026,
+          "month": 5,
+          "day": 1
+        }
+      },
+      "type": "National holiday"
+    },
+    {
+      "name": "Buddha Purnima Holiday",
+      "name_bn": "বুদ্ধ পূর্ণিমার ছুটি",
+      "description": "Buddha Purnima Holiday is an optional holiday in Bangladesh",
+      "description_bn": "বুদ্ধ পূর্ণিমার ছুটি বাংলাদেশে ঐচ্ছিক ছুটি হিসেবে পালিত হয়।",
+      "date": {
+        "iso": "2026-05-02",
+        "datetime": {
+          "year": 2026,
+          "month": 5,
+          "day": 2
+        }
+      },
+      "type": "Optional holiday"
+    },
+    {
+      "name": "Mother's Day",
+      "name_bn": "মা দিবস",
+      "description": "Mother's Day celebrates the achievements and efforts of mothers and mother figures.",
+      "description_bn": "মা দিবস বাংলাদেশে পালনীয় দিন হিসেবে পালিত হয়।",
+      "date": {
+        "iso": "2026-05-10",
+        "datetime": {
+          "year": 2026,
+          "month": 5,
+          "day": 10
+        }
+      },
+      "type": "Observance"
+    },
+    {
+      "name": "Eid al-Adha Holiday",
+      "name_bn": "ঈদুল আজহার ছুটি",
+      "description": "Eid al-Adha Holiday is a government holiday in Bangladesh",
+      "description_bn": "ঈদুল আজহার ছুটি বাংলাদেশে জাতীয় ছুটি হিসেবে পালিত হয়।",
+      "date": {
+        "iso": "2026-05-26",
+        "datetime": {
+          "year": 2026,
+          "month": 5,
+          "day": 26
+        }
+      },
+      "type": "National holiday"
+    },
+    {
+      "name": "Eid al-Adha Holiday",
+      "name_bn": "ঈদুল আজহার ছুটি",
+      "description": "Eid al-Adha Holiday is a government holiday in Bangladesh",
+      "description_bn": "ঈদুল আজহার ছুটি বাংলাদেশে জাতীয় ছুটি হিসেবে পালিত হয়।",
+      "date": {
+        "iso": "2026-05-27",
+        "datetime": {
+          "year": 2026,
+          "month": 5,
+          "day": 27
+        }
+      },
+      "type": "National holiday"
+    },
+    {
+      "name": "Eid al-Adha",
+      "name_bn": "ঈদুল আজহা",
+      "description": "Eid al-Adha (Id ul-Adha) is an Islamic festival falling on the 10th day of the month of Dhul Hijja (Thou al-Hijja) to commemorate the willingness of Ibrahim (Abraham) to sacrifice his son.",
+      "description_bn": "ত্যাগ ও কোরবানির মহিমা স্মরণ করে মুসলমানদের প্রধান ধর্মীয় উৎসব ঈদুল আজহা উদযাপিত হয়।",
+      "date": {
+        "iso": "2026-05-28",
+        "datetime": {
+          "year": 2026,
+          "month": 5,
+          "day": 28
+        }
+      },
+      "type": "National holiday"
+    },
+    {
+      "name": "Eid al-Adha Holiday",
+      "name_bn": "ঈদুল আজহার ছুটি",
+      "description": "Eid al-Adha Holiday is a government holiday in Bangladesh",
+      "description_bn": "ঈদুল আজহার ছুটি বাংলাদেশে জাতীয় ছুটি হিসেবে পালিত হয়।",
+      "date": {
+        "iso": "2026-05-29",
+        "datetime": {
+          "year": 2026,
+          "month": 5,
+          "day": 29
+        }
+      },
+      "type": "National holiday"
+    },
+    {
+      "name": "Eid al-Adha Holiday",
+      "name_bn": "ঈদুল আজহার ছুটি",
+      "description": "Eid al-Adha Holiday is a government holiday in Bangladesh",
+      "description_bn": "ঈদুল আজহার ছুটি বাংলাদেশে জাতীয় ছুটি হিসেবে পালিত হয়।",
+      "date": {
+        "iso": "2026-05-30",
+        "datetime": {
+          "year": 2026,
+          "month": 5,
+          "day": 30
+        }
+      },
+      "type": "National holiday"
+    },
+    {
+      "name": "Eid al-Adha Holiday",
+      "name_bn": "ঈদুল আজহার ছুটি",
+      "description": "Eid al-Adha Holiday is a government holiday in Bangladesh",
+      "description_bn": "ঈদুল আজহার ছুটি বাংলাদেশে জাতীয় ছুটি হিসেবে পালিত হয়।",
+      "date": {
+        "iso": "2026-05-31",
+        "datetime": {
+          "year": 2026,
+          "month": 5,
+          "day": 31
+        }
+      },
+      "type": "National holiday"
+    },
+    {
+      "name": "Eid al-Adha Holiday",
+      "name_bn": "ঈদুল আজহার ছুটি",
+      "description": "Eid al-Adha Holiday is an optional holiday in Bangladesh",
+      "description_bn": "ঈদুল আজহার ছুটি বাংলাদেশে ঐচ্ছিক ছুটি হিসেবে পালিত হয়।",
+      "date": {
+        "iso": "2026-06-01",
+        "datetime": {
+          "year": 2026,
+          "month": 6,
+          "day": 1
+        }
+      },
+      "type": "Optional holiday"
+    },
+    {
+      "name": "Muharram",
+      "name_bn": "মহররম",
+      "description": "Muharram is the first month of the Islamic calendar and a time of remembrance or mourning.",
+      "description_bn": "মহররম বাংলাদেশে জাতীয় ছুটি হিসেবে পালিত হয়।",
+      "date": {
+        "iso": "2026-06-17",
+        "datetime": {
+          "year": 2026,
+          "month": 6,
+          "day": 17
+        }
+      },
+      "type": "National holiday"
+    },
+    {
+      "name": "Father's Day",
+      "name_bn": "বাবা দিবস",
+      "description": "Father's Day celebrates fatherhood and male parenting on different dates worldwide.",
+      "description_bn": "বাবা দিবস বাংলাদেশে পালনীয় দিন হিসেবে পালিত হয়।",
+      "date": {
+        "iso": "2026-06-21",
+        "datetime": {
+          "year": 2026,
+          "month": 6,
+          "day": 21
+        }
+      },
+      "type": "Observance"
+    },
+    {
+      "name": "June Solstice",
+      "name_bn": "জুন অয়নান্ত",
+      "description": "June Solstice in Bangladesh (Dhaka)",
+      "description_bn": "জুন অয়নান্ত বাংলাদেশে ঋতুভিত্তিক দিন হিসেবে পালিত হয়।",
+      "date": {
+        "iso": "2026-06-21T14:24:30+06:00",
+        "datetime": {
+          "year": 2026,
+          "month": 6,
+          "day": 21,
+          "hour": 14,
+          "minute": 24,
+          "second": 30
+        },
+        "timezone": {
+          "offset": "+06:00",
+          "zoneabb": "BST",
+          "zoneoffset": 21600,
+          "zonedst": 0,
+          "zonetotaloffset": 21600
+        }
+      },
+      "type": "Season"
+    },
+    {
+      "name": "Ashura",
+      "name_bn": "আশুরা",
+      "description": "Ashura is a government holiday in Bangladesh",
+      "description_bn": "ইসলামি বর্ষপঞ্জির মহররম মাসের দশম দিনে আশুরা পালিত হয়।",
+      "date": {
+        "iso": "2026-06-26",
+        "datetime": {
+          "year": 2026,
+          "month": 6,
+          "day": 26
+        }
+      },
+      "type": "National holiday"
+    },
+    {
+      "name": "July 1 Bank Holiday",
+      "name_bn": "১ জুলাই ব্যাংক ছুটি",
+      "description": "July 1 Bank Holiday is a bank holiday in Bangladesh",
+      "description_bn": "১ জুলাই ব্যাংক ছুটি বাংলাদেশে পালনীয় দিন হিসেবে পালিত হয়।",
+      "date": {
+        "iso": "2026-07-01",
+        "datetime": {
+          "year": 2026,
+          "month": 7,
+          "day": 1
+        }
+      },
+      "type": "Observance"
+    },
+    {
+      "name": "Ashari Purnima",
+      "name_bn": "আষাঢ়ী পূর্ণিমা",
+      "description": "Ashari Purnima is an optional holiday in Bangladesh",
+      "description_bn": "আষাঢ়ী পূর্ণিমা বাংলাদেশে ঐচ্ছিক ছুটি হিসেবে পালিত হয়।",
+      "date": {
+        "iso": "2026-07-29",
+        "datetime": {
+          "year": 2026,
+          "month": 7,
+          "day": 29
+        }
+      },
+      "type": "Optional holiday"
+    },
+    {
+      "name": "Student-People Uprising Day",
+      "name_bn": "ছাত্র-জনতার অভ্যুত্থান দিবস",
+      "description": "Student-People Uprising Day is a government holiday in Bangladesh",
+      "description_bn": "ছাত্র-জনতার অভ্যুত্থান দিবস বাংলাদেশে জাতীয় ছুটি হিসেবে পালিত হয়।",
+      "date": {
+        "iso": "2026-08-05",
+        "datetime": {
+          "year": 2026,
+          "month": 8,
+          "day": 5
+        }
+      },
+      "type": "National holiday"
+    },
+    {
+      "name": "Akhari Chahar Somba",
+      "name_bn": "আখেরি চাহার সোম্বা",
+      "description": "Akhari Chahar Somba is an optional holiday in Bangladesh",
+      "description_bn": "আখেরি চাহার সোম্বা বাংলাদেশে ঐচ্ছিক ছুটি হিসেবে পালিত হয়।",
+      "date": {
+        "iso": "2026-08-12",
+        "datetime": {
+          "year": 2026,
+          "month": 8,
+          "day": 12
+        }
+      },
+      "type": "Optional holiday"
+    },
+    {
+      "name": "Eid e-Milad-un Nabi",
+      "name_bn": "ঈদে মিলাদুন্নবী",
+      "description": "Mawlid, or Milad, marks the birth of the Islamic prophet Muhammed, or Mohamed, in the year 570 of the Gregorian calendar.",
+      "description_bn": "মহানবী হযরত মুহাম্মদ (সা.)-এর জন্মদিন স্মরণে ঈদে মিলাদুন্নবী পালিত হয়।",
+      "date": {
+        "iso": "2026-08-26",
+        "datetime": {
+          "year": 2026,
+          "month": 8,
+          "day": 26
+        }
+      },
+      "type": "National holiday"
+    },
+    {
+      "name": "Janmashtami",
+      "name_bn": "জন্মাষ্টমী",
+      "description": "Krishna Janmashtami is a Hindu festival that celebrates the birth of Krishna, the eighth incarnation of the god Vishnu. It is celebrated on the eighth day of the Hindu month of Bhadrava (Bhadrapada), which is usually in August or September.",
+      "description_bn": "জন্মাষ্টমী বাংলাদেশে জাতীয় ছুটি, হিন্দু ধর্মীয় দিন হিসেবে পালিত হয়।",
+      "date": {
+        "iso": "2026-09-04",
+        "datetime": {
+          "year": 2026,
+          "month": 9,
+          "day": 4
+        }
+      },
+      "type": "National holiday, Hinduism"
+    },
+    {
+      "name": "September Equinox",
+      "name_bn": "সেপ্টেম্বর বিষুব",
+      "description": "September Equinox in Bangladesh (Dhaka)",
+      "description_bn": "সেপ্টেম্বর বিষুব বাংলাদেশে ঋতুভিত্তিক দিন হিসেবে পালিত হয়।",
+      "date": {
+        "iso": "2026-09-23T06:05:13+06:00",
+        "datetime": {
+          "year": 2026,
+          "month": 9,
+          "day": 23,
+          "hour": 6,
+          "minute": 5,
+          "second": 13
+        },
+        "timezone": {
+          "offset": "+06:00",
+          "zoneabb": "BST",
+          "zoneoffset": 21600,
+          "zonedst": 0,
+          "zonetotaloffset": 21600
+        }
+      },
+      "type": "Season"
+    },
+    {
+      "name": "Fateha-i-Yajdaham",
+      "name_bn": "ফাতেহা-ই-ইয়াজদাহম",
+      "description": "Fateha-i-Yajdaham is an optional holiday in Bangladesh",
+      "description_bn": "ফাতেহা-ই-ইয়াজদাহম বাংলাদেশে ঐচ্ছিক ছুটি হিসেবে পালিত হয়।",
+      "date": {
+        "iso": "2026-09-24",
+        "datetime": {
+          "year": 2026,
+          "month": 9,
+          "day": 24
+        }
+      },
+      "type": "Optional holiday"
+    },
+    {
+      "name": "Madhu Purnima",
+      "name_bn": "মধু পূর্ণিমা",
+      "description": "Madhu Purnima is an optional holiday in Bangladesh",
+      "description_bn": "মধু পূর্ণিমা বাংলাদেশে ঐচ্ছিক ছুটি হিসেবে পালিত হয়।",
+      "date": {
+        "iso": "2026-09-26",
+        "datetime": {
+          "year": 2026,
+          "month": 9,
+          "day": 26
+        }
+      },
+      "type": "Optional holiday"
+    },
+    {
+      "name": "Mahalaya",
+      "name_bn": "মহালয়া",
+      "description": "Mahalaya is an optional holiday in Bangladesh",
+      "description_bn": "মহালয়া বাংলাদেশে ঐচ্ছিক ছুটি হিসেবে পালিত হয়।",
+      "date": {
+        "iso": "2026-10-10",
+        "datetime": {
+          "year": 2026,
+          "month": 10,
+          "day": 10
+        }
+      },
+      "type": "Optional holiday"
+    },
+    {
+      "name": "Durga Puja Holiday",
+      "name_bn": "দুর্গাপূজার ছুটি",
+      "description": "Durga Puja Holiday is an optional holiday in Bangladesh",
+      "description_bn": "দুর্গাপূজার ছুটি বাংলাদেশে ঐচ্ছিক ছুটি হিসেবে পালিত হয়।",
+      "date": {
+        "iso": "2026-10-18",
+        "datetime": {
+          "year": 2026,
+          "month": 10,
+          "day": 18
+        }
+      },
+      "type": "Optional holiday"
+    },
+    {
+      "name": "Ashtami",
+      "name_bn": "অষ্টমী",
+      "description": "Ashtami is an optional holiday in Bangladesh",
+      "description_bn": "অষ্টমী বাংলাদেশে ঐচ্ছিক ছুটি হিসেবে পালিত হয়।",
+      "date": {
+        "iso": "2026-10-19",
+        "datetime": {
+          "year": 2026,
+          "month": 10,
+          "day": 19
+        }
+      },
+      "type": "Optional holiday"
+    },
+    {
+      "name": "Mahanabami",
+      "name_bn": "মহানবমী",
+      "description": "Mahanabami is a government holiday in Bangladesh",
+      "description_bn": "মহানবমী বাংলাদেশে জাতীয় ছুটি হিসেবে পালিত হয়।",
+      "date": {
+        "iso": "2026-10-20",
+        "datetime": {
+          "year": 2026,
+          "month": 10,
+          "day": 20
+        }
+      },
+      "type": "National holiday"
+    },
+    {
+      "name": "Durga Puja",
+      "name_bn": "দুর্গাপূজা",
+      "description": "Durga Puja is a government holiday in Bangladesh",
+      "description_bn": "সনাতন ধর্মাবলম্বীদের প্রধান ধর্মীয় উৎসব দুর্গাপূজায় দেবী দুর্গার আরাধনা করা হয়।",
+      "date": {
+        "iso": "2026-10-21",
+        "datetime": {
+          "year": 2026,
+          "month": 10,
+          "day": 21
+        }
+      },
+      "type": "National holiday"
+    },
+    {
+      "name": "Lakshmi Puja",
+      "name_bn": "লক্ষ্মী পূজা",
+      "description": "Lakshmi Puja is an optional holiday in Bangladesh",
+      "description_bn": "লক্ষ্মী পূজা বাংলাদেশে ঐচ্ছিক ছুটি হিসেবে পালিত হয়।",
+      "date": {
+        "iso": "2026-10-25",
+        "datetime": {
+          "year": 2026,
+          "month": 10,
+          "day": 25
+        }
+      },
+      "type": "Optional holiday"
+    },
+    {
+      "name": "Prabarana Purnima",
+      "name_bn": "প্রবারণা পূর্ণিমা",
+      "description": "Prabarana Purnima is an optional holiday in Bangladesh",
+      "description_bn": "প্রবারণা পূর্ণিমা বাংলাদেশে ঐচ্ছিক ছুটি হিসেবে পালিত হয়।",
+      "date": {
+        "iso": "2026-10-25",
+        "datetime": {
+          "year": 2026,
+          "month": 10,
+          "day": 25
+        }
+      },
+      "type": "Optional holiday"
+    },
+    {
+      "name": "Halloween",
+      "name_bn": "হ্যালোইন",
+      "description": "Halloween is a festive occasion that is celebrated in many countries on October 31 each year.",
+      "description_bn": "হ্যালোইন বাংলাদেশে পালনীয় দিন হিসেবে পালিত হয়।",
+      "date": {
+        "iso": "2026-10-31",
+        "datetime": {
+          "year": 2026,
+          "month": 10,
+          "day": 31
+        }
+      },
+      "type": "Observance"
+    },
+    {
+      "name": "Sri Shayama Puja",
+      "name_bn": "শ্রী শ্যামা পূজা",
+      "description": "Sri Shayama Puja is an optional holiday in Bangladesh",
+      "description_bn": "শ্রী শ্যামা পূজা বাংলাদেশে ঐচ্ছিক ছুটি হিসেবে পালিত হয়।",
+      "date": {
+        "iso": "2026-11-08",
+        "datetime": {
+          "year": 2026,
+          "month": 11,
+          "day": 8
+        }
+      },
+      "type": "Optional holiday"
+    },
+    {
+      "name": "Victory Day",
+      "name_bn": "বিজয় দিবস",
+      "description": "Victory Day is a government holiday in Bangladesh",
+      "description_bn": "১৯৭১ সালের ১৬ ডিসেম্বর বাংলাদেশের বিজয় অর্জনের স্মরণে বিজয় দিবস পালিত হয়।",
+      "date": {
+        "iso": "2026-12-16",
+        "datetime": {
+          "year": 2026,
+          "month": 12,
+          "day": 16
+        }
+      },
+      "type": "National holiday"
+    },
+    {
+      "name": "December Solstice",
+      "name_bn": "ডিসেম্বর অয়নান্ত",
+      "description": "December Solstice in Bangladesh (Dhaka)",
+      "description_bn": "ডিসেম্বর অয়নান্ত বাংলাদেশে ঋতুভিত্তিক দিন হিসেবে পালিত হয়।",
+      "date": {
+        "iso": "2026-12-22T02:50:14+06:00",
+        "datetime": {
+          "year": 2026,
+          "month": 12,
+          "day": 22,
+          "hour": 2,
+          "minute": 50,
+          "second": 14
+        },
+        "timezone": {
+          "offset": "+06:00",
+          "zoneabb": "BST",
+          "zoneoffset": 21600,
+          "zonedst": 0,
+          "zonetotaloffset": 21600
+        }
+      },
+      "type": "Season"
+    },
+    {
+      "name": "Christmas Eve",
+      "name_bn": "বড়দিনের আগের দিন",
+      "description": "Christmas Eve is the day before Christmas Day and falls on December 24 in the Gregorian calendar.",
+      "description_bn": "বড়দিনের আগের দিন বাংলাদেশে ঐচ্ছিক ছুটি হিসেবে পালিত হয়।",
+      "date": {
+        "iso": "2026-12-24",
+        "datetime": {
+          "year": 2026,
+          "month": 12,
+          "day": 24
+        }
+      },
+      "type": "Optional holiday"
+    },
+    {
+      "name": "Christmas Day",
+      "name_bn": "বড়দিন",
+      "description": "Christmas Day is one of the biggest Christian celebrations and falls on December 25 in the Gregorian calendar.",
+      "description_bn": "যিশু খ্রিস্টের জন্মদিন স্মরণে খ্রিস্টান ধর্মাবলম্বীরা বড়দিন উদযাপন করেন।",
+      "date": {
+        "iso": "2026-12-25",
+        "datetime": {
+          "year": 2026,
+          "month": 12,
+          "day": 25
+        }
+      },
+      "type": "National holiday"
+    },
+    {
+      "name": "Boxing Day",
+      "name_bn": "বক্সিং ডে",
+      "description": "Boxing Day is an optional holiday in Bangladesh",
+      "description_bn": "বক্সিং ডে বাংলাদেশে ঐচ্ছিক ছুটি হিসেবে পালিত হয়।",
+      "date": {
+        "iso": "2026-12-26",
+        "datetime": {
+          "year": 2026,
+          "month": 12,
+          "day": 26
+        }
+      },
+      "type": "Optional holiday"
+    },
+    {
+      "name": "New Year's Eve",
+      "name_bn": "বর্ষবিদায়",
+      "description": "New Year's Eve is the last day of the year, December 31, in the Gregorian calendar.",
+      "description_bn": "বর্ষবিদায় বাংলাদেশে পালনীয় দিন হিসেবে পালিত হয়।",
+      "date": {
+        "iso": "2026-12-31",
+        "datetime": {
+          "year": 2026,
+          "month": 12,
+          "day": 31
+        }
+      },
+      "type": "Observance"
+    }
+  ]
+}

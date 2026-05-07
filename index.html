@@ -414,13 +414,8 @@ const seasonMap = {
 
 let selectedDate = new Date();
 
-const HOLIDAY_API_BASE = "https://date.nager.at/api/v3/PublicHolidays";
-const COUNTRY_CODE = "BD";
-const CALENDARIFIC_API_BASE = "https://calendarific.com/api/v2/holidays";
-const CALENDARIFIC_API_KEY = "wiTN0a8NQnSjMHaMhQqC1hVSeCfvObOk";
-const CALENDARIFIC_LANGUAGE = "bn";
-const holidayCache = new Map();
-const calendarificHolidayCache = new Map();
+const LOCAL_HOLIDAYS_URL = new URL("holidays.json", document.baseURI).href;
+let localHolidayCache = null;
 const IPINFO_URL = "https://ipinfo.io/json";
 const WEATHER_BASE_URL = "https://api.open-meteo.com/v1/forecast";
 
@@ -440,86 +435,35 @@ function escapeHtml(text) {
         .replace(/'/g, "&#39;");
 }
 
-async function getPublicHolidays(year) {
-    if (holidayCache.has(year)) return holidayCache.get(year);
-
-    try {
-        const res = await fetch(`${HOLIDAY_API_BASE}/${year}/${COUNTRY_CODE}`);
-        if (!res.ok) throw new Error(`Holiday API status ${res.status}`);
-        const data = await res.json();
-        const dateMap = new Map();
-        for (const item of data) {
-            if (!item?.date) continue;
-            const displayName = item.localName || item.name || "Public Holiday";
-            const existing = dateMap.get(item.date);
-            if (existing) {
-                dateMap.set(item.date, `${existing}, ${displayName}`);
-            } else {
-                dateMap.set(item.date, displayName);
-            }
+async function getLocalHolidays(year) {
+    if (!localHolidayCache) {
+        try {
+            const res = await fetch(LOCAL_HOLIDAYS_URL, { cache: "no-store" });
+            if (!res.ok) throw new Error(`Local holidays status ${res.status}`);
+            const data = await res.json();
+            localHolidayCache = data?.holidays || [];
+        } catch (error) {
+            console.warn("Could not load local holidays:", error);
+            localHolidayCache = [];
         }
-        holidayCache.set(year, dateMap);
-        return dateMap;
-    } catch (error) {
-        console.warn("Could not load public holidays:", error);
-        const empty = new Map();
-        holidayCache.set(year, empty);
-        return empty;
     }
-}
 
-async function getCalendarificHolidays(year) {
-    if (calendarificHolidayCache.has(year)) return calendarificHolidayCache.get(year);
+    const dateMap = new Map();
+    for (const item of localHolidayCache) {
+        const isoDate = item?.date?.iso?.slice(0, 10);
+        const itemYear = item?.date?.datetime?.year || Number(isoDate?.slice(0, 4));
+        if (!isoDate || itemYear !== year) continue;
 
-    try {
-        const params = new URLSearchParams({
-            api_key: CALENDARIFIC_API_KEY,
-            country: COUNTRY_CODE,
-            year: String(year),
-            language: CALENDARIFIC_LANGUAGE
-        });
-        const res = await fetch(`${CALENDARIFIC_API_BASE}?${params.toString()}`);
-        if (!res.ok) throw new Error(`Calendarific API status ${res.status}`);
-        const data = await res.json();
-        const holidays = data?.response?.holidays || [];
-        const dateMap = new Map();
-
-        for (const item of holidays) {
-            const isoDate = item?.date?.iso?.slice(0, 10);
-            if (!isoDate) continue;
-
-            const displayName = item.name || item.description || "Public Holiday";
-            const existing = dateMap.get(isoDate);
-            if (existing) {
-                dateMap.set(isoDate, `${existing}, ${displayName}`);
-            } else {
-                dateMap.set(isoDate, displayName);
-            }
-        }
-
-        calendarificHolidayCache.set(year, dateMap);
-        return dateMap;
-    } catch (error) {
-        console.warn("Could not load Calendarific holidays:", error);
-        const empty = new Map();
-        calendarificHolidayCache.set(year, empty);
-        return empty;
-    }
-}
-
-function mergeHolidayMaps(primary, fallback) {
-    const merged = new Map(fallback);
-
-    primary.forEach((name, date) => {
-        const existing = merged.get(date);
-        if (existing && existing !== name) {
-            merged.set(date, `${name}, ${existing}`);
+        const displayName = item.name_bn || item.name || "Public Holiday";
+        const existing = dateMap.get(isoDate);
+        if (existing) {
+            dateMap.set(isoDate, `${existing}, ${displayName}`);
         } else {
-            merged.set(date, name);
+            dateMap.set(isoDate, displayName);
         }
-    });
+    }
 
-    return merged;
+    return dateMap;
 }
 
 function getBanglaDate(date) {
@@ -727,11 +671,7 @@ function generateCalendar(year, month, holidays = new Map()) {
 async function render() {
     updateMonthInput(selectedDate);
     const year = selectedDate.getFullYear();
-    const [calendarificHolidays, publicHolidays] = await Promise.all([
-        getCalendarificHolidays(year),
-        getPublicHolidays(year)
-    ]);
-    const holidays = mergeHolidayMaps(calendarificHolidays, publicHolidays);
+    const holidays = await getLocalHolidays(year);
     generateCalendar(year, selectedDate.getMonth(), holidays);
 }
 
